@@ -1,5 +1,9 @@
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from "react";
+import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
 import "./App.css";
+import Home from "./components/Home";
+import LoginForm from "./components/LoginForm";
+import RegistrationForm from "./components/RegistrationForm";
 
 function App() {
   useEffect(() => {
@@ -20,15 +24,13 @@ function App() {
   }, []);
 
   return (
-    <>
-      <h1>Employee Feedback App</h1>
-      <div className="card">
-        <h5>
-          Allow your employees to give feedback or send questions anonymously to
-          their managers
-        </h5>
-      </div>
-    </>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/login" element={<LoginForm />} />
+        <Route path="/register" element={<RegistrationForm />} />
+      </Routes>
+    </Router>
   );
 }
 

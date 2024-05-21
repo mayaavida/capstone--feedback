@@ -1,0 +1,49 @@
+[{
+    "employeeDetails": {
+      "firstName": "Maya",
+      "lastName": "Peters",
+      "workEmail": "mpeter13@travelers.com",
+      "company": "Travelers",
+      "lineOfBusiness": "Business Insurance",
+      "manager": "Jesse Zimmerman",
+      "username": "mayapeters",
+      "password": "maya",
+      "isManager": "false"
+    },
+    "employeeId": 1,
+    "employeePosts": [2],
+    "employeesManaged": []
+},
+{
+  "employeeDetails": {
+    "firstName": "Martha",
+    "lastName": "Peterson",
+    "workEmail": "mpeterson14@travelers.com",
+    "company": "Travelers",
+    "lineOfBusiness": "Claim",
+    "manager": "",
+    "username": "martha1",
+    "password": "martha",
+    "isManager": "true"
+  },
+  "employeeId": 2,
+  "employeePosts": [],
+  "employeesManaged": [4, 5]
+},
+{
+  "employeeDetails": {
+    "firstName": "Emily",
+    "lastName": "Schumann",
+    "workEmail": "eschuman@travelers.com",
+    "company": "Travelers",
+    "lineOfBusiness": "Business Insurance",
+    "manager": "Kalpesh Patel",
+    "username": "eschumann",
+    "password": "emily",
+    "isManager": "false"
+  },
+  "employeeId": 3,
+  "employeePosts": [1],
+  "employeesManaged": []
+}
+]
