@@ -25,6 +25,7 @@ for i in range(1, NUM_ROWS + 1):
     # Generate random values for each column
     timestamp = datetime.now() - timedelta(seconds=i)
     post_id = i
+    sentiment = random.choice(["positive", "negative"])
 
     # Select a random subject from the available options
     subject = random.choice(subjects)
@@ -44,7 +45,8 @@ for i in range(1, NUM_ROWS + 1):
         post_id,
         subject_final,
         content_final,
-        response_final
+        response_final,
+        sentiment
     ]
 
     # Add the data row to the list
@@ -54,7 +56,7 @@ for i in range(1, NUM_ROWS + 1):
 with open(OUTPUT_FILE, "w", newline="") as file:
     writer = csv.writer(file)
     writer.writerow(
-        ["timestamp", "post_id", "subject", "content", "response"]
+        ["timestamp", "post_id", "subject", "content", "response", "sentiment"]
     )
     writer.writerows(data_rows)
 

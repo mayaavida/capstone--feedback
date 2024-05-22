@@ -1,1001 +1,1001 @@
-timestamp,post_id,subject,content,response
-2024-05-22 09:30:27,1,Data Engineering,bang for your buck,due by end of day
-2024-05-22 09:30:26,2,TDD,I need a partner, 
-2024-05-22 09:30:25,3,Guided Project,I do not know what to write,include me in the meeting
-2024-05-22 09:30:24,4,Claim,sorry to bother you,we will present this
-2024-05-22 09:30:23,5,Personal Insurance,on the same page,happy to help
-2024-05-22 09:30:22,6,PostgresSQL,this is hard,this is unrelated
-2024-05-22 09:30:21,7,Cloud,morning meeting,include me in the meeting
-2024-05-22 09:30:20,8,Webage,that makes sense,that will not work
-2024-05-22 09:30:19,9,Pair Programming,no worries,due by end of day
-2024-05-22 09:30:18,10,SME,thanks for the help,include me in the meeting
-2024-05-22 09:30:17,11,NPM,that being said,we will present this
-2024-05-22 09:30:16,12,Claim,sorry to bother you,please forward the document
-2024-05-22 09:30:15,13,DevOps,on the same page,we will present this
-2024-05-22 09:30:14,14,Personal Insurance,that makes sense,I do not know
-2024-05-22 09:30:13,15,MERN,irregardless,schedule a meeting to discuss
-2024-05-22 09:30:12,16,Capstone,I am running out of ideas,this is unrelated
-2024-05-22 09:30:11,17,Python,morning meeting,happy to help
-2024-05-22 09:30:10,18,PostgresSQL,bang for your buck,happy to help
-2024-05-22 09:30:09,19,Cloud,this is hard,I do not know
-2024-05-22 09:30:08,20,Cloud,amazing,due by end of day
-2024-05-22 09:30:07,21,Pair Programming,sorry to bother you,good idea
-2024-05-22 09:30:06,22,PostgresSQL,that being said,good idea
-2024-05-22 09:30:05,23,Webage,get the ball rolling,this makes no sense
-2024-05-22 09:30:04,24,Claim,hit the ground running, 
-2024-05-22 09:30:03,25,Pair Programming,this is exhausting, 
-2024-05-22 09:30:02,26,React,hit the ground running,schedule a meeting to discuss
-2024-05-22 09:30:01,27,SME,I am running out of ideas, 
-2024-05-22 09:30:00,28,Knowledge Assessment,bang for your buck,please forward the document
-2024-05-22 09:29:59,29,JavaScript,on the same page,why is this required
-2024-05-22 09:29:58,30,Data Engineering,at the end of the day,this makes no sense
-2024-05-22 09:29:57,31,Pair Programming,at the end of the day,this makes no sense
-2024-05-22 09:29:56,32,Data Engineering,this is hard,we will present this
-2024-05-22 09:29:55,33,Capstone,hit the ground running,I do not know
-2024-05-22 09:29:54,34,Jenkins,out of left field,why is this required
-2024-05-22 09:29:53,35,Data Engineering,I do not know what to write, 
-2024-05-22 09:29:52,36,Knowledge Assessment,get the ball rolling,happy to help
-2024-05-22 09:29:51,37,JavaScript,no worries,schedule a meeting to discuss
-2024-05-22 09:29:50,38,Claim,amazing,this makes no sense
-2024-05-22 09:29:49,39,React,sorry to bother you,please forward the document
-2024-05-22 09:29:48,40,JavaScript,absolutely,bring the whole team in on this
-2024-05-22 09:29:47,41,PostgresSQL,we will circle back,good idea
-2024-05-22 09:29:46,42,Snowflake,at the end of the day,I do not know
-2024-05-22 09:29:45,43,TDD,this is hard,that will not work
-2024-05-22 09:29:44,44,Data Science,bang for your buck,due by end of day
-2024-05-22 09:29:43,45,Business Insurance,moving forward,that will not work
-2024-05-22 09:29:42,46,Webage,hit the ground running,schedule a meeting to discuss
-2024-05-22 09:29:41,47,PostgresSQL,that being said,due by end of day
-2024-05-22 09:29:40,48,App Development,it is what it is,we will present this
-2024-05-22 09:29:39,49,Webage,hit the ground running,schedule a meeting to discuss
-2024-05-22 09:29:38,50,Risk Control,hit the ground running,bring the whole team in on this
-2024-05-22 09:29:37,51,Python,as per my last post,please forward the document
-2024-05-22 09:29:36,52,DevOps,it is what it is, 
-2024-05-22 09:29:35,53,TDD,out of left field,this makes no sense
-2024-05-22 09:29:34,54,Git,interesting,include me in the meeting
-2024-05-22 09:29:33,55,Git,thanks for the help,we will present this
-2024-05-22 09:29:32,56,Personal Insurance,sorry to bother you,include me in the meeting
-2024-05-22 09:29:31,57,Git,interesting,schedule a meeting to discuss
-2024-05-22 09:29:30,58,TDD,hit the ground running,I do not know
-2024-05-22 09:29:29,59,Claim,as per my last post,that will not work
-2024-05-22 09:29:28,60,Snowflake,irregardless,I do not know
-2024-05-22 09:29:27,61,Python,provide the answer,this makes no sense
-2024-05-22 09:29:26,62,MERN,thanks for the help,please forward the document
-2024-05-22 09:29:25,63,Python,out of left field,include me in the meeting
-2024-05-22 09:29:24,64,NPM,morning meeting,this is unrelated
-2024-05-22 09:29:23,65,Git,hit the ground running,please forward the document
-2024-05-22 09:29:22,66,JavaScript,absolutely,why is this required
-2024-05-22 09:29:21,67,PostgresSQL,this is hard,include me in the meeting
-2024-05-22 09:29:20,68,SME,amazing,I do not know
-2024-05-22 09:29:19,69,Python,I do not know what to write, 
-2024-05-22 09:29:18,70,PostgresSQL,think outside the box,schedule a meeting to discuss
-2024-05-22 09:29:17,71,Business Insurance,this is exhausting,good idea
-2024-05-22 09:29:16,72,App Development,morning meeting,good idea
-2024-05-22 09:29:15,73,Knowledge Assessment,sorry to bother you,bring the whole team in on this
-2024-05-22 09:29:14,74,Risk Control,as per my last post,why is this required
-2024-05-22 09:29:13,75,Business Insurance,think outside the box,include me in the meeting
-2024-05-22 09:29:12,76,MERN,that makes sense,due by end of day
-2024-05-22 09:29:11,77,Jenkins,this is hard,this makes no sense
-2024-05-22 09:29:10,78,Data Science,get the ball rolling,I do not know
-2024-05-22 09:29:09,79,MERN,no worries,due by end of day
-2024-05-22 09:29:08,80,Python,moving forward,schedule a meeting to discuss
-2024-05-22 09:29:07,81,Knowledge Assessment,morning meeting,that will not work
-2024-05-22 09:29:06,82,JavaScript,I do not know what to write,please forward the document
-2024-05-22 09:29:05,83,Claim,bang for your buck,happy to help
-2024-05-22 09:29:04,84,Capstone,on the same page,why is this required
-2024-05-22 09:29:03,85,MERN,irregardless,I do not know
-2024-05-22 09:29:02,86,Risk Control,bang for your buck,why is this required
-2024-05-22 09:29:01,87,Git,morning meeting,due by end of day
-2024-05-22 09:29:00,88,Risk Control,think outside the box, 
-2024-05-22 09:28:59,89,React,as per my last post,include me in the meeting
-2024-05-22 09:28:58,90,Webage,out of left field,this makes no sense
-2024-05-22 09:28:57,91,Bond & Specialty Insurance,it is what it is,we will present this
-2024-05-22 09:28:56,92,Guided Project,at the end of the day,this makes no sense
-2024-05-22 09:28:55,93,Data Science,think outside the box,please forward the document
-2024-05-22 09:28:54,94,Data Engineering,bang for your buck,that will not work
-2024-05-22 09:28:53,95,Personal Insurance,amazing,that will not work
-2024-05-22 09:28:52,96,Capstone,morning meeting,please forward the document
-2024-05-22 09:28:51,97,Personal Insurance,that makes sense,why is this required
-2024-05-22 09:28:50,98,Sprint Planning,a no-brainer,include me in the meeting
-2024-05-22 09:28:49,99,Pair Programming,this is hard,this is unrelated
-2024-05-22 09:28:48,100,TDD,I am running out of ideas,this makes no sense
-2024-05-22 09:28:47,101,Cloud,a no-brainer,bring the whole team in on this
-2024-05-22 09:28:46,102,App Development,on the same page,this makes no sense
-2024-05-22 09:28:45,103,Business Insurance,at the end of the day,this makes no sense
-2024-05-22 09:28:44,104,Sprint Planning,that makes sense,I do not know
-2024-05-22 09:28:43,105,Cloud,out of left field,we will present this
-2024-05-22 09:28:42,106,MERN,provide the answer,schedule a meeting to discuss
-2024-05-22 09:28:41,107,Bond & Specialty Insurance,on the same page,why is this required
-2024-05-22 09:28:40,108,MERN,this is hard,please forward the document
-2024-05-22 09:28:39,109,MERN,on the same page,include me in the meeting
-2024-05-22 09:28:38,110,Snowflake,hit the ground running,why is this required
-2024-05-22 09:28:37,111,Risk Control,that makes sense,why is this required
-2024-05-22 09:28:36,112,DevOps,a no-brainer,that will not work
-2024-05-22 09:28:35,113,Capstone,amazing,that will not work
-2024-05-22 09:28:34,114,Snowflake,a no-brainer,include me in the meeting
-2024-05-22 09:28:33,115,Knowledge Assessment,moving forward,that will not work
-2024-05-22 09:28:32,116,Sprint Planning,thanks for the help, 
-2024-05-22 09:28:31,117,TDD,on the same page,this makes no sense
-2024-05-22 09:28:30,118,Bond & Specialty Insurance,moving forward,that will not work
-2024-05-22 09:28:29,119,DevOps,irregardless,please forward the document
-2024-05-22 09:28:28,120,MERN,that makes sense,happy to help
-2024-05-22 09:28:27,121,DevOps,interesting,why is this required
-2024-05-22 09:28:26,122,MERN,provide the answer,good idea
-2024-05-22 09:28:25,123,Data Science,morning meeting,we will present this
-2024-05-22 09:28:24,124,Sprint Planning,I need a partner,schedule a meeting to discuss
-2024-05-22 09:28:23,125,NPM,bang for your buck,schedule a meeting to discuss
-2024-05-22 09:28:22,126,Knowledge Assessment,get the ball rolling,that will not work
-2024-05-22 09:28:21,127,Cloud,hit the ground running,good idea
-2024-05-22 09:28:20,128,App Development,this is hard,good idea
-2024-05-22 09:28:19,129,Data Engineering,irregardless,good idea
-2024-05-22 09:28:18,130,App Development,irregardless,good idea
-2024-05-22 09:28:17,131,Git,it is what it is,this is unrelated
-2024-05-22 09:28:16,132,Risk Control,on the same page,include me in the meeting
-2024-05-22 09:28:15,133,Python,I do not know what to write,this makes no sense
-2024-05-22 09:28:14,134,App Development,think outside the box,please forward the document
-2024-05-22 09:28:13,135,Snowflake,no worries,we will present this
-2024-05-22 09:28:12,136,Git,that makes sense,bring the whole team in on this
-2024-05-22 09:28:11,137,App Development,that makes sense,we will present this
-2024-05-22 09:28:10,138,Knowledge Assessment,that makes sense,please forward the document
-2024-05-22 09:28:09,139,Python,as per my last post,this is unrelated
-2024-05-22 09:28:08,140,DevOps,morning meeting,happy to help
-2024-05-22 09:28:07,141,TDD,I am running out of ideas,why is this required
-2024-05-22 09:28:06,142,Pair Programming,that makes sense,this is unrelated
-2024-05-22 09:28:05,143,Business Insurance,interesting, 
-2024-05-22 09:28:04,144,Knowledge Assessment,out of left field,due by end of day
-2024-05-22 09:28:03,145,Risk Control,that being said,please forward the document
-2024-05-22 09:28:02,146,JavaScript,out of left field,schedule a meeting to discuss
-2024-05-22 09:28:01,147,MERN,amazing,we will present this
-2024-05-22 09:28:00,148,Jenkins,absolutely,bring the whole team in on this
-2024-05-22 09:27:59,149,MERN,morning meeting,due by end of day
-2024-05-22 09:27:58,150,SME,irregardless,happy to help
-2024-05-22 09:27:57,151,Jenkins,hit the ground running,that will not work
-2024-05-22 09:27:56,152,Knowledge Assessment,that makes sense,include me in the meeting
-2024-05-22 09:27:55,153,Cloud,I need a partner,this is unrelated
-2024-05-22 09:27:54,154,Bond & Specialty Insurance,moving forward,this is unrelated
-2024-05-22 09:27:53,155,Snowflake,it is what it is,happy to help
-2024-05-22 09:27:52,156,PostgresSQL,get the ball rolling,this is unrelated
-2024-05-22 09:27:51,157,Data Engineering,no worries,this is unrelated
-2024-05-22 09:27:50,158,Sprint Planning,thanks for the help,this is unrelated
-2024-05-22 09:27:49,159,Personal Insurance,this is exhausting,this makes no sense
-2024-05-22 09:27:48,160,Webage,it is what it is,include me in the meeting
-2024-05-22 09:27:47,161,TDD,out of left field,I do not know
-2024-05-22 09:27:46,162,Personal Insurance,sorry to bother you,this is unrelated
-2024-05-22 09:27:45,163,Pair Programming,this is hard,I do not know
-2024-05-22 09:27:44,164,Data Science,moving forward,bring the whole team in on this
-2024-05-22 09:27:43,165,Python,get the ball rolling,schedule a meeting to discuss
-2024-05-22 09:27:42,166,Knowledge Assessment,this is exhausting,include me in the meeting
-2024-05-22 09:27:41,167,Bond & Specialty Insurance,a no-brainer,please forward the document
-2024-05-22 09:27:40,168,Bond & Specialty Insurance,I am running out of ideas,good idea
-2024-05-22 09:27:39,169,NPM,this is exhausting,good idea
-2024-05-22 09:27:38,170,Jenkins,a no-brainer,include me in the meeting
-2024-05-22 09:27:37,171,TDD,interesting,happy to help
-2024-05-22 09:27:36,172,React,get the ball rolling,that will not work
-2024-05-22 09:27:35,173,Webage,no worries,that will not work
-2024-05-22 09:27:34,174,Data Science,amazing, 
-2024-05-22 09:27:33,175,Business Insurance,no worries,why is this required
-2024-05-22 09:27:32,176,Guided Project,at the end of the day,we will present this
-2024-05-22 09:27:31,177,JavaScript,I am running out of ideas,bring the whole team in on this
-2024-05-22 09:27:30,178,Sprint Planning,sorry to bother you,happy to help
-2024-05-22 09:27:29,179,Claim,morning meeting,good idea
-2024-05-22 09:27:28,180,App Development,it is what it is,happy to help
-2024-05-22 09:27:27,181,TDD,as per my last post,bring the whole team in on this
-2024-05-22 09:27:26,182,Risk Control,at the end of the day,why is this required
-2024-05-22 09:27:25,183,Personal Insurance,I do not know what to write,we will present this
-2024-05-22 09:27:24,184,Cloud,at the end of the day,bring the whole team in on this
-2024-05-22 09:27:23,185,Personal Insurance,I do not know what to write,this makes no sense
-2024-05-22 09:27:22,186,Business Insurance,it is what it is,this is unrelated
-2024-05-22 09:27:21,187,Guided Project,get the ball rolling,why is this required
-2024-05-22 09:27:20,188,Claim,no worries,please forward the document
-2024-05-22 09:27:19,189,Capstone,amazing,why is this required
-2024-05-22 09:27:18,190,DevOps,as per my last post,happy to help
-2024-05-22 09:27:17,191,Guided Project,I am running out of ideas,why is this required
-2024-05-22 09:27:16,192,Guided Project,I do not know what to write,good idea
-2024-05-22 09:27:15,193,Python,out of left field,I do not know
-2024-05-22 09:27:14,194,Snowflake,think outside the box,bring the whole team in on this
-2024-05-22 09:27:13,195,TDD,interesting,happy to help
-2024-05-22 09:27:12,196,Pair Programming,a no-brainer,we will present this
-2024-05-22 09:27:11,197,TDD,no worries,I do not know
-2024-05-22 09:27:10,198,Data Science,interesting,happy to help
-2024-05-22 09:27:09,199,React,hit the ground running, 
-2024-05-22 09:27:08,200,PostgresSQL,sorry to bother you, 
-2024-05-22 09:27:07,201,Sprint Planning,out of left field, 
-2024-05-22 09:27:06,202,Cloud,moving forward,bring the whole team in on this
-2024-05-22 09:27:05,203,Pair Programming,I am running out of ideas,good idea
-2024-05-22 09:27:04,204,Knowledge Assessment,moving forward,why is this required
-2024-05-22 09:27:03,205,Capstone,get the ball rolling,that will not work
-2024-05-22 09:27:02,206,Capstone,thanks for the help,due by end of day
-2024-05-22 09:27:01,207,Jenkins,morning meeting,we will present this
-2024-05-22 09:27:00,208,Sprint Planning,at the end of the day,schedule a meeting to discuss
-2024-05-22 09:26:59,209,TDD,get the ball rolling,why is this required
-2024-05-22 09:26:58,210,Cloud,as per my last post,include me in the meeting
-2024-05-22 09:26:57,211,Data Science,we will circle back,please forward the document
-2024-05-22 09:26:56,212,TDD,sorry to bother you,happy to help
-2024-05-22 09:26:55,213,Sprint Planning,this is hard,good idea
-2024-05-22 09:26:54,214,Webage,this is hard,schedule a meeting to discuss
-2024-05-22 09:26:53,215,Jenkins,a no-brainer,good idea
-2024-05-22 09:26:52,216,App Development,thanks for the help,bring the whole team in on this
-2024-05-22 09:26:51,217,NPM,this is hard,schedule a meeting to discuss
-2024-05-22 09:26:50,218,Webage,no worries,good idea
-2024-05-22 09:26:49,219,Personal Insurance,that being said,happy to help
-2024-05-22 09:26:48,220,Guided Project,morning meeting,include me in the meeting
-2024-05-22 09:26:47,221,Snowflake,hit the ground running,good idea
-2024-05-22 09:26:46,222,Git,we will circle back,this makes no sense
-2024-05-22 09:26:45,223,Knowledge Assessment,moving forward,that will not work
-2024-05-22 09:26:44,224,SME,morning meeting, 
-2024-05-22 09:26:43,225,Personal Insurance,sorry to bother you,please forward the document
-2024-05-22 09:26:42,226,MERN,I do not know what to write,this is unrelated
-2024-05-22 09:26:41,227,Sprint Planning,as per my last post, 
-2024-05-22 09:26:40,228,Pair Programming,I need a partner,we will present this
-2024-05-22 09:26:39,229,Cloud,no worries,this makes no sense
-2024-05-22 09:26:38,230,Data Engineering,a no-brainer,good idea
-2024-05-22 09:26:37,231,Jenkins,sorry to bother you,why is this required
-2024-05-22 09:26:36,232,TDD,thanks for the help,include me in the meeting
-2024-05-22 09:26:35,233,App Development,amazing,this makes no sense
-2024-05-22 09:26:34,234,Sprint Planning,this is hard,include me in the meeting
-2024-05-22 09:26:33,235,Cloud,provide the answer,that will not work
-2024-05-22 09:26:32,236,Pair Programming,I need a partner,bring the whole team in on this
-2024-05-22 09:26:31,237,Webage,this is exhausting,schedule a meeting to discuss
-2024-05-22 09:26:30,238,Data Science,provide the answer,this is unrelated
-2024-05-22 09:26:29,239,Personal Insurance,hit the ground running,this is unrelated
-2024-05-22 09:26:28,240,Sprint Planning,it is what it is,why is this required
-2024-05-22 09:26:27,241,Sprint Planning,I need a partner,good idea
-2024-05-22 09:26:26,242,MERN,I am running out of ideas,why is this required
-2024-05-22 09:26:25,243,NPM,that being said,bring the whole team in on this
-2024-05-22 09:26:24,244,Snowflake,get the ball rolling,due by end of day
-2024-05-22 09:26:23,245,Risk Control,this is hard,include me in the meeting
-2024-05-22 09:26:22,246,Claim,bang for your buck,schedule a meeting to discuss
-2024-05-22 09:26:21,247,Data Science,this is hard,we will present this
-2024-05-22 09:26:20,248,Pair Programming,provide the answer,that will not work
-2024-05-22 09:26:19,249,NPM,interesting,happy to help
-2024-05-22 09:26:18,250,MERN,that makes sense,due by end of day
-2024-05-22 09:26:17,251,Guided Project,at the end of the day,that will not work
-2024-05-22 09:26:16,252,Data Engineering,this is hard,happy to help
-2024-05-22 09:26:15,253,Personal Insurance,it is what it is,this makes no sense
-2024-05-22 09:26:14,254,TDD,as per my last post,good idea
-2024-05-22 09:26:13,255,Git,this is hard,we will present this
-2024-05-22 09:26:12,256,App Development,I do not know what to write,please forward the document
-2024-05-22 09:26:11,257,Jenkins,that being said,this is unrelated
-2024-05-22 09:26:10,258,Snowflake,morning meeting,I do not know
-2024-05-22 09:26:09,259,Python,amazing,bring the whole team in on this
-2024-05-22 09:26:08,260,Snowflake,morning meeting,please forward the document
-2024-05-22 09:26:07,261,MERN,I am running out of ideas,due by end of day
-2024-05-22 09:26:06,262,Bond & Specialty Insurance,this is exhausting,that will not work
-2024-05-22 09:26:05,263,SME,at the end of the day,due by end of day
-2024-05-22 09:26:04,264,Claim,I do not know what to write,schedule a meeting to discuss
-2024-05-22 09:26:03,265,App Development,we will circle back,schedule a meeting to discuss
-2024-05-22 09:26:02,266,DevOps,get the ball rolling, 
-2024-05-22 09:26:01,267,Git,amazing,this makes no sense
-2024-05-22 09:26:00,268,Bond & Specialty Insurance,irregardless,I do not know
-2024-05-22 09:25:59,269,Knowledge Assessment,bang for your buck,please forward the document
-2024-05-22 09:25:58,270,Risk Control,this is exhausting,good idea
-2024-05-22 09:25:57,271,JavaScript,morning meeting,due by end of day
-2024-05-22 09:25:56,272,Python,we will circle back,this is unrelated
-2024-05-22 09:25:55,273,Claim,it is what it is,good idea
-2024-05-22 09:25:54,274,Data Engineering,that makes sense,I do not know
-2024-05-22 09:25:53,275,TDD,bang for your buck,happy to help
-2024-05-22 09:25:52,276,Bond & Specialty Insurance,absolutely,that will not work
-2024-05-22 09:25:51,277,SME,bang for your buck,that will not work
-2024-05-22 09:25:50,278,Bond & Specialty Insurance,thanks for the help,why is this required
-2024-05-22 09:25:49,279,Jenkins,morning meeting,due by end of day
-2024-05-22 09:25:48,280,JavaScript,think outside the box,due by end of day
-2024-05-22 09:25:47,281,Webage,moving forward,please forward the document
-2024-05-22 09:25:46,282,Knowledge Assessment,I do not know what to write,due by end of day
-2024-05-22 09:25:45,283,Guided Project,I am running out of ideas,we will present this
-2024-05-22 09:25:44,284,MERN,amazing,I do not know
-2024-05-22 09:25:43,285,Claim,amazing,happy to help
-2024-05-22 09:25:42,286,Webage,I am running out of ideas,happy to help
-2024-05-22 09:25:41,287,Knowledge Assessment,a no-brainer,why is this required
-2024-05-22 09:25:40,288,Jenkins,provide the answer,we will present this
-2024-05-22 09:25:39,289,Git,we will circle back,happy to help
-2024-05-22 09:25:38,290,Webage,at the end of the day,bring the whole team in on this
-2024-05-22 09:25:37,291,NPM,we will circle back,we will present this
-2024-05-22 09:25:36,292,Guided Project,bang for your buck,due by end of day
-2024-05-22 09:25:35,293,JavaScript,sorry to bother you, 
-2024-05-22 09:25:34,294,Bond & Specialty Insurance,moving forward,why is this required
-2024-05-22 09:25:33,295,Claim,bang for your buck,good idea
-2024-05-22 09:25:32,296,Risk Control,bang for your buck,this is unrelated
-2024-05-22 09:25:31,297,SME,as per my last post,we will present this
-2024-05-22 09:25:30,298,Cloud,I am running out of ideas,bring the whole team in on this
-2024-05-22 09:25:29,299,App Development,interesting,include me in the meeting
-2024-05-22 09:25:28,300,JavaScript,at the end of the day,this makes no sense
-2024-05-22 09:25:27,301,Python,interesting,bring the whole team in on this
-2024-05-22 09:25:26,302,Jenkins,irregardless, 
-2024-05-22 09:25:25,303,DevOps,hit the ground running,that will not work
-2024-05-22 09:25:24,304,Data Engineering,at the end of the day,due by end of day
-2024-05-22 09:25:23,305,Snowflake,on the same page,this makes no sense
-2024-05-22 09:25:22,306,Data Engineering,thanks for the help,bring the whole team in on this
-2024-05-22 09:25:21,307,Webage,moving forward,good idea
-2024-05-22 09:25:20,308,Snowflake,amazing,please forward the document
-2024-05-22 09:25:19,309,Business Insurance,I do not know what to write,this is unrelated
-2024-05-22 09:25:18,310,Git,at the end of the day,schedule a meeting to discuss
-2024-05-22 09:25:17,311,App Development,interesting, 
-2024-05-22 09:25:16,312,PostgresSQL,bang for your buck,this makes no sense
-2024-05-22 09:25:15,313,JavaScript,moving forward,due by end of day
-2024-05-22 09:25:14,314,Business Insurance,on the same page,please forward the document
-2024-05-22 09:25:13,315,App Development,this is hard,happy to help
-2024-05-22 09:25:12,316,Capstone,as per my last post,this is unrelated
-2024-05-22 09:25:11,317,NPM,this is hard,that will not work
-2024-05-22 09:25:10,318,Guided Project,as per my last post,happy to help
-2024-05-22 09:25:09,319,PostgresSQL,thanks for the help,please forward the document
-2024-05-22 09:25:08,320,TDD,get the ball rolling,include me in the meeting
-2024-05-22 09:25:07,321,Data Engineering,that being said,bring the whole team in on this
-2024-05-22 09:25:06,322,App Development,out of left field,due by end of day
-2024-05-22 09:25:05,323,Snowflake,absolutely,please forward the document
-2024-05-22 09:25:04,324,SME,that being said,this makes no sense
-2024-05-22 09:25:03,325,Guided Project,amazing,schedule a meeting to discuss
-2024-05-22 09:25:02,326,Data Science,we will circle back,we will present this
-2024-05-22 09:25:01,327,Business Insurance,bang for your buck,this is unrelated
-2024-05-22 09:25:00,328,Cloud,that being said,this is unrelated
-2024-05-22 09:24:59,329,SME,think outside the box,why is this required
-2024-05-22 09:24:58,330,TDD,on the same page,that will not work
-2024-05-22 09:24:57,331,JavaScript,I am running out of ideas,this makes no sense
-2024-05-22 09:24:56,332,Jenkins,we will circle back,I do not know
-2024-05-22 09:24:55,333,Webage,I do not know what to write,we will present this
-2024-05-22 09:24:54,334,Risk Control,this is exhausting,schedule a meeting to discuss
-2024-05-22 09:24:53,335,Claim,sorry to bother you,include me in the meeting
-2024-05-22 09:24:52,336,DevOps,get the ball rolling,bring the whole team in on this
-2024-05-22 09:24:51,337,PostgresSQL,think outside the box,schedule a meeting to discuss
-2024-05-22 09:24:50,338,React,sorry to bother you, 
-2024-05-22 09:24:49,339,Risk Control,interesting,good idea
-2024-05-22 09:24:48,340,Business Insurance,absolutely,that will not work
-2024-05-22 09:24:47,341,TDD,on the same page,schedule a meeting to discuss
-2024-05-22 09:24:46,342,SME,this is hard,include me in the meeting
-2024-05-22 09:24:45,343,Sprint Planning,at the end of the day,why is this required
-2024-05-22 09:24:44,344,MERN,that being said,I do not know
-2024-05-22 09:24:43,345,PostgresSQL,get the ball rolling,why is this required
-2024-05-22 09:24:42,346,Bond & Specialty Insurance,bang for your buck,that will not work
-2024-05-22 09:24:41,347,Personal Insurance,a no-brainer,schedule a meeting to discuss
-2024-05-22 09:24:40,348,App Development,we will circle back,happy to help
-2024-05-22 09:24:39,349,Capstone,out of left field,please forward the document
-2024-05-22 09:24:38,350,Pair Programming,I do not know what to write,due by end of day
-2024-05-22 09:24:37,351,Business Insurance,I need a partner,this makes no sense
-2024-05-22 09:24:36,352,Personal Insurance,thanks for the help, 
-2024-05-22 09:24:35,353,Python,as per my last post,happy to help
-2024-05-22 09:24:34,354,Jenkins,I need a partner,please forward the document
-2024-05-22 09:24:33,355,SME,think outside the box,bring the whole team in on this
-2024-05-22 09:24:32,356,PostgresSQL,amazing,bring the whole team in on this
-2024-05-22 09:24:31,357,Git,a no-brainer, 
-2024-05-22 09:24:30,358,Business Insurance,amazing,this makes no sense
-2024-05-22 09:24:29,359,Claim,thanks for the help,this is unrelated
-2024-05-22 09:24:28,360,NPM,I need a partner,why is this required
-2024-05-22 09:24:27,361,Capstone,no worries,bring the whole team in on this
-2024-05-22 09:24:26,362,Guided Project,hit the ground running,happy to help
-2024-05-22 09:24:25,363,Pair Programming,I am running out of ideas,this is unrelated
-2024-05-22 09:24:24,364,MERN,that makes sense,this makes no sense
-2024-05-22 09:24:23,365,Cloud,hit the ground running,please forward the document
-2024-05-22 09:24:22,366,Pair Programming,irregardless,include me in the meeting
-2024-05-22 09:24:21,367,SME,as per my last post,due by end of day
-2024-05-22 09:24:20,368,Jenkins,I do not know what to write,bring the whole team in on this
-2024-05-22 09:24:19,369,App Development,hit the ground running,schedule a meeting to discuss
-2024-05-22 09:24:18,370,Personal Insurance,I am running out of ideas,we will present this
-2024-05-22 09:24:17,371,Sprint Planning,get the ball rolling,this is unrelated
-2024-05-22 09:24:16,372,JavaScript,irregardless,bring the whole team in on this
-2024-05-22 09:24:15,373,Data Engineering,thanks for the help,due by end of day
-2024-05-22 09:24:14,374,Claim,as per my last post,happy to help
-2024-05-22 09:24:13,375,DevOps,moving forward,good idea
-2024-05-22 09:24:12,376,Jenkins,as per my last post,schedule a meeting to discuss
-2024-05-22 09:24:11,377,Pair Programming,no worries,due by end of day
-2024-05-22 09:24:10,378,Bond & Specialty Insurance,we will circle back,include me in the meeting
-2024-05-22 09:24:09,379,Pair Programming,moving forward,why is this required
-2024-05-22 09:24:08,380,Webage,I am running out of ideas,schedule a meeting to discuss
-2024-05-22 09:24:07,381,Capstone,it is what it is,schedule a meeting to discuss
-2024-05-22 09:24:06,382,Guided Project,at the end of the day,I do not know
-2024-05-22 09:24:05,383,Sprint Planning,at the end of the day,good idea
-2024-05-22 09:24:04,384,SME,provide the answer,happy to help
-2024-05-22 09:24:03,385,Capstone,think outside the box, 
-2024-05-22 09:24:02,386,NPM,amazing,I do not know
-2024-05-22 09:24:01,387,Data Engineering,morning meeting,due by end of day
-2024-05-22 09:24:00,388,MERN,I am running out of ideas,this makes no sense
-2024-05-22 09:23:59,389,Pair Programming,at the end of the day,I do not know
-2024-05-22 09:23:58,390,TDD,that being said,this is unrelated
-2024-05-22 09:23:57,391,Guided Project,amazing, 
-2024-05-22 09:23:56,392,DevOps,this is exhausting,bring the whole team in on this
-2024-05-22 09:23:55,393,Risk Control,as per my last post,that will not work
-2024-05-22 09:23:54,394,Data Science,at the end of the day,I do not know
-2024-05-22 09:23:53,395,React,as per my last post,good idea
-2024-05-22 09:23:52,396,Pair Programming,that being said,that will not work
-2024-05-22 09:23:51,397,Git,that being said,please forward the document
-2024-05-22 09:23:50,398,Webage,I am running out of ideas,why is this required
-2024-05-22 09:23:49,399,Webage,no worries,good idea
-2024-05-22 09:23:48,400,PostgresSQL,morning meeting,good idea
-2024-05-22 09:23:47,401,Sprint Planning,as per my last post,why is this required
-2024-05-22 09:23:46,402,Personal Insurance,moving forward,good idea
-2024-05-22 09:23:45,403,Python,interesting,due by end of day
-2024-05-22 09:23:44,404,DevOps,no worries,good idea
-2024-05-22 09:23:43,405,Sprint Planning,out of left field,due by end of day
-2024-05-22 09:23:42,406,Sprint Planning,no worries,due by end of day
-2024-05-22 09:23:41,407,Knowledge Assessment,morning meeting,good idea
-2024-05-22 09:23:40,408,JavaScript,moving forward,schedule a meeting to discuss
-2024-05-22 09:23:39,409,Knowledge Assessment,amazing,bring the whole team in on this
-2024-05-22 09:23:38,410,Cloud,this is exhausting,we will present this
-2024-05-22 09:23:37,411,Knowledge Assessment,I need a partner,that will not work
-2024-05-22 09:23:36,412,React,it is what it is,bring the whole team in on this
-2024-05-22 09:23:35,413,Guided Project,a no-brainer,schedule a meeting to discuss
-2024-05-22 09:23:34,414,Knowledge Assessment,irregardless,this makes no sense
-2024-05-22 09:23:33,415,Guided Project,at the end of the day,this makes no sense
-2024-05-22 09:23:32,416,Claim,out of left field,that will not work
-2024-05-22 09:23:31,417,Risk Control,get the ball rolling,why is this required
-2024-05-22 09:23:30,418,NPM,out of left field,why is this required
-2024-05-22 09:23:29,419,Claim,no worries,happy to help
-2024-05-22 09:23:28,420,App Development,irregardless,include me in the meeting
-2024-05-22 09:23:27,421,React,that makes sense,I do not know
-2024-05-22 09:23:26,422,App Development,provide the answer,include me in the meeting
-2024-05-22 09:23:25,423,Git,moving forward, 
-2024-05-22 09:23:24,424,Risk Control,hit the ground running,due by end of day
-2024-05-22 09:23:23,425,Guided Project,a no-brainer,happy to help
-2024-05-22 09:23:22,426,MERN,absolutely,good idea
-2024-05-22 09:23:21,427,Python,irregardless,we will present this
-2024-05-22 09:23:20,428,Webage,provide the answer,good idea
-2024-05-22 09:23:19,429,Knowledge Assessment,morning meeting,happy to help
-2024-05-22 09:23:18,430,Pair Programming,I am running out of ideas,I do not know
-2024-05-22 09:23:17,431,DevOps,I am running out of ideas,I do not know
-2024-05-22 09:23:16,432,Bond & Specialty Insurance,irregardless,include me in the meeting
-2024-05-22 09:23:15,433,Data Science,we will circle back,please forward the document
-2024-05-22 09:23:14,434,Pair Programming,amazing,why is this required
-2024-05-22 09:23:13,435,Git,on the same page,this is unrelated
-2024-05-22 09:23:12,436,Pair Programming,thanks for the help,why is this required
-2024-05-22 09:23:11,437,Sprint Planning,that makes sense,happy to help
-2024-05-22 09:23:10,438,Risk Control,get the ball rolling,why is this required
-2024-05-22 09:23:09,439,TDD,moving forward,good idea
-2024-05-22 09:23:08,440,Capstone,sorry to bother you,good idea
-2024-05-22 09:23:07,441,TDD,I need a partner, 
-2024-05-22 09:23:06,442,Python,bang for your buck,that will not work
-2024-05-22 09:23:05,443,Business Insurance,out of left field,due by end of day
-2024-05-22 09:23:04,444,SME,think outside the box,due by end of day
-2024-05-22 09:23:03,445,Sprint Planning,we will circle back,that will not work
-2024-05-22 09:23:02,446,Jenkins,I do not know what to write,bring the whole team in on this
-2024-05-22 09:23:01,447,Data Engineering,this is exhausting,that will not work
-2024-05-22 09:23:00,448,Claim,sorry to bother you,I do not know
-2024-05-22 09:22:59,449,JavaScript,that being said,good idea
-2024-05-22 09:22:58,450,TDD,that being said,I do not know
-2024-05-22 09:22:57,451,Data Science,I need a partner,this is unrelated
-2024-05-22 09:22:56,452,SME,interesting,include me in the meeting
-2024-05-22 09:22:55,453,Risk Control,bang for your buck,good idea
-2024-05-22 09:22:54,454,Guided Project,I need a partner,why is this required
-2024-05-22 09:22:53,455,MERN,at the end of the day,why is this required
-2024-05-22 09:22:52,456,Claim,bang for your buck,good idea
-2024-05-22 09:22:51,457,TDD,out of left field,please forward the document
-2024-05-22 09:22:50,458,TDD,a no-brainer,schedule a meeting to discuss
-2024-05-22 09:22:49,459,Webage,get the ball rolling,good idea
-2024-05-22 09:22:48,460,Snowflake,get the ball rolling,happy to help
-2024-05-22 09:22:47,461,PostgresSQL,that makes sense,we will present this
-2024-05-22 09:22:46,462,Capstone,I do not know what to write,we will present this
-2024-05-22 09:22:45,463,Git,this is hard,please forward the document
-2024-05-22 09:22:44,464,Risk Control,that makes sense,I do not know
-2024-05-22 09:22:43,465,Bond & Specialty Insurance,that makes sense,good idea
-2024-05-22 09:22:42,466,Capstone,morning meeting,happy to help
-2024-05-22 09:22:41,467,Jenkins,that makes sense,schedule a meeting to discuss
-2024-05-22 09:22:40,468,Knowledge Assessment,sorry to bother you,I do not know
-2024-05-22 09:22:39,469,Data Engineering,this is hard,I do not know
-2024-05-22 09:22:38,470,Guided Project,a no-brainer,bring the whole team in on this
-2024-05-22 09:22:37,471,Jenkins,moving forward,happy to help
-2024-05-22 09:22:36,472,Personal Insurance,we will circle back,include me in the meeting
-2024-05-22 09:22:35,473,Snowflake,interesting,include me in the meeting
-2024-05-22 09:22:34,474,PostgresSQL,morning meeting,why is this required
-2024-05-22 09:22:33,475,PostgresSQL,absolutely, 
-2024-05-22 09:22:32,476,MERN,thanks for the help,why is this required
-2024-05-22 09:22:31,477,NPM,out of left field,good idea
-2024-05-22 09:22:30,478,Data Science,out of left field,bring the whole team in on this
-2024-05-22 09:22:29,479,Jenkins,we will circle back,happy to help
-2024-05-22 09:22:28,480,Knowledge Assessment,thanks for the help,that will not work
-2024-05-22 09:22:27,481,Knowledge Assessment,morning meeting,happy to help
-2024-05-22 09:22:26,482,Guided Project,I need a partner, 
-2024-05-22 09:22:25,483,Guided Project,a no-brainer,schedule a meeting to discuss
-2024-05-22 09:22:24,484,Cloud,interesting,please forward the document
-2024-05-22 09:22:23,485,Pair Programming,think outside the box,this is unrelated
-2024-05-22 09:22:22,486,Data Engineering,irregardless,I do not know
-2024-05-22 09:22:21,487,NPM,irregardless,good idea
-2024-05-22 09:22:20,488,Business Insurance,think outside the box,happy to help
-2024-05-22 09:22:19,489,MERN,provide the answer,we will present this
-2024-05-22 09:22:18,490,Capstone,interesting,we will present this
-2024-05-22 09:22:17,491,App Development,think outside the box,include me in the meeting
-2024-05-22 09:22:16,492,Data Science,amazing,I do not know
-2024-05-22 09:22:15,493,Webage,provide the answer,we will present this
-2024-05-22 09:22:14,494,Knowledge Assessment,provide the answer,I do not know
-2024-05-22 09:22:13,495,Pair Programming,that being said,include me in the meeting
-2024-05-22 09:22:12,496,MERN,absolutely,I do not know
-2024-05-22 09:22:11,497,SME,we will circle back,bring the whole team in on this
-2024-05-22 09:22:10,498,Jenkins,it is what it is,happy to help
-2024-05-22 09:22:09,499,Snowflake,that makes sense,please forward the document
-2024-05-22 09:22:08,500,NPM,amazing,bring the whole team in on this
-2024-05-22 09:22:07,501,TDD,provide the answer, 
-2024-05-22 09:22:06,502,Webage,bang for your buck,this makes no sense
-2024-05-22 09:22:05,503,Sprint Planning,irregardless,due by end of day
-2024-05-22 09:22:04,504,App Development,that being said,please forward the document
-2024-05-22 09:22:03,505,Guided Project,a no-brainer,I do not know
-2024-05-22 09:22:02,506,Pair Programming,interesting,this is unrelated
-2024-05-22 09:22:01,507,App Development,no worries,bring the whole team in on this
-2024-05-22 09:22:00,508,Guided Project,I do not know what to write,bring the whole team in on this
-2024-05-22 09:21:59,509,Guided Project,irregardless,why is this required
-2024-05-22 09:21:58,510,Business Insurance,moving forward,we will present this
-2024-05-22 09:21:57,511,TDD,irregardless,this is unrelated
-2024-05-22 09:21:56,512,Risk Control,irregardless,why is this required
-2024-05-22 09:21:55,513,TDD,morning meeting,good idea
-2024-05-22 09:21:54,514,DevOps,get the ball rolling,include me in the meeting
-2024-05-22 09:21:53,515,Sprint Planning,as per my last post,this is unrelated
-2024-05-22 09:21:52,516,Guided Project,amazing,due by end of day
-2024-05-22 09:21:51,517,MERN,sorry to bother you,due by end of day
-2024-05-22 09:21:50,518,NPM,get the ball rolling, 
-2024-05-22 09:21:49,519,NPM,no worries,this is unrelated
-2024-05-22 09:21:48,520,Data Science,interesting, 
-2024-05-22 09:21:47,521,Personal Insurance,I am running out of ideas,schedule a meeting to discuss
-2024-05-22 09:21:46,522,JavaScript,I do not know what to write,please forward the document
-2024-05-22 09:21:45,523,SME,I need a partner,good idea
-2024-05-22 09:21:44,524,Business Insurance,that makes sense,due by end of day
-2024-05-22 09:21:43,525,Knowledge Assessment,that makes sense,please forward the document
-2024-05-22 09:21:42,526,Jenkins,we will circle back,please forward the document
-2024-05-22 09:21:41,527,NPM,no worries,happy to help
-2024-05-22 09:21:40,528,Business Insurance,thanks for the help,schedule a meeting to discuss
-2024-05-22 09:21:39,529,Personal Insurance,a no-brainer,this makes no sense
-2024-05-22 09:21:38,530,Webage,no worries,due by end of day
-2024-05-22 09:21:37,531,Claim,on the same page,I do not know
-2024-05-22 09:21:36,532,Bond & Specialty Insurance,absolutely,that will not work
-2024-05-22 09:21:35,533,Cloud,this is exhausting,this makes no sense
-2024-05-22 09:21:34,534,MERN,bang for your buck,include me in the meeting
-2024-05-22 09:21:33,535,Jenkins,provide the answer,why is this required
-2024-05-22 09:21:32,536,Risk Control,that being said,that will not work
-2024-05-22 09:21:31,537,Jenkins,hit the ground running,that will not work
-2024-05-22 09:21:30,538,JavaScript,that being said, 
-2024-05-22 09:21:29,539,Snowflake,provide the answer,include me in the meeting
-2024-05-22 09:21:28,540,Webage,amazing,bring the whole team in on this
-2024-05-22 09:21:27,541,Cloud,irregardless,I do not know
-2024-05-22 09:21:26,542,Git,I am running out of ideas,we will present this
-2024-05-22 09:21:25,543,Snowflake,this is hard, 
-2024-05-22 09:21:24,544,Python,as per my last post,schedule a meeting to discuss
-2024-05-22 09:21:23,545,Capstone,out of left field,happy to help
-2024-05-22 09:21:22,546,Risk Control,on the same page,we will present this
-2024-05-22 09:21:21,547,Personal Insurance,a no-brainer,that will not work
-2024-05-22 09:21:20,548,Data Engineering,out of left field,bring the whole team in on this
-2024-05-22 09:21:19,549,Python,at the end of the day,include me in the meeting
-2024-05-22 09:21:18,550,Data Engineering,out of left field,that will not work
-2024-05-22 09:21:17,551,Cloud,I need a partner,happy to help
-2024-05-22 09:21:16,552,NPM,hit the ground running,we will present this
-2024-05-22 09:21:15,553,Snowflake,I am running out of ideas,bring the whole team in on this
-2024-05-22 09:21:14,554,Sprint Planning,it is what it is,this makes no sense
-2024-05-22 09:21:13,555,NPM,absolutely,why is this required
-2024-05-22 09:21:12,556,Git,it is what it is,please forward the document
-2024-05-22 09:21:11,557,Sprint Planning,morning meeting,include me in the meeting
-2024-05-22 09:21:10,558,NPM,at the end of the day, 
-2024-05-22 09:21:09,559,Sprint Planning,thanks for the help,schedule a meeting to discuss
-2024-05-22 09:21:08,560,MERN,on the same page, 
-2024-05-22 09:21:07,561,React,at the end of the day,please forward the document
-2024-05-22 09:21:06,562,Cloud,I am running out of ideas,this is unrelated
-2024-05-22 09:21:05,563,Capstone,as per my last post,we will present this
-2024-05-22 09:21:04,564,Claim,we will circle back,please forward the document
-2024-05-22 09:21:03,565,Guided Project,absolutely,include me in the meeting
-2024-05-22 09:21:02,566,PostgresSQL,a no-brainer,good idea
-2024-05-22 09:21:01,567,React,that makes sense,please forward the document
-2024-05-22 09:21:00,568,Sprint Planning,I do not know what to write,this makes no sense
-2024-05-22 09:20:59,569,Snowflake,provide the answer,please forward the document
-2024-05-22 09:20:58,570,Bond & Specialty Insurance,interesting,happy to help
-2024-05-22 09:20:57,571,Python,irregardless,this makes no sense
-2024-05-22 09:20:56,572,Claim,moving forward,why is this required
-2024-05-22 09:20:55,573,Pair Programming,as per my last post,due by end of day
-2024-05-22 09:20:54,574,MERN,it is what it is,due by end of day
-2024-05-22 09:20:53,575,React,out of left field,this makes no sense
-2024-05-22 09:20:52,576,NPM,on the same page,why is this required
-2024-05-22 09:20:51,577,React,provide the answer, 
-2024-05-22 09:20:50,578,PostgresSQL,thanks for the help,why is this required
-2024-05-22 09:20:49,579,TDD,that makes sense,please forward the document
-2024-05-22 09:20:48,580,Data Engineering,hit the ground running,I do not know
-2024-05-22 09:20:47,581,Personal Insurance,sorry to bother you,we will present this
-2024-05-22 09:20:46,582,Personal Insurance,sorry to bother you,why is this required
-2024-05-22 09:20:45,583,Personal Insurance,this is exhausting,this is unrelated
-2024-05-22 09:20:44,584,Data Science,thanks for the help,we will present this
-2024-05-22 09:20:43,585,Pair Programming,irregardless,include me in the meeting
-2024-05-22 09:20:42,586,Data Engineering,no worries,this is unrelated
-2024-05-22 09:20:41,587,Cloud,I need a partner,good idea
-2024-05-22 09:20:40,588,TDD,that being said,include me in the meeting
-2024-05-22 09:20:39,589,React,absolutely,happy to help
-2024-05-22 09:20:38,590,Risk Control,on the same page, 
-2024-05-22 09:20:37,591,Git,morning meeting,happy to help
-2024-05-22 09:20:36,592,React,irregardless,good idea
-2024-05-22 09:20:35,593,Claim,bang for your buck,include me in the meeting
-2024-05-22 09:20:34,594,Data Science,hit the ground running,this makes no sense
-2024-05-22 09:20:33,595,Git,irregardless,I do not know
-2024-05-22 09:20:32,596,Cloud,a no-brainer,this is unrelated
-2024-05-22 09:20:31,597,Guided Project,interesting,good idea
-2024-05-22 09:20:30,598,Data Engineering,it is what it is,this makes no sense
-2024-05-22 09:20:29,599,Claim,amazing,I do not know
-2024-05-22 09:20:28,600,Sprint Planning,no worries,include me in the meeting
-2024-05-22 09:20:27,601,Git,no worries,due by end of day
-2024-05-22 09:20:26,602,NPM,as per my last post,that will not work
-2024-05-22 09:20:25,603,JavaScript,no worries,bring the whole team in on this
-2024-05-22 09:20:24,604,SME,I do not know what to write,happy to help
-2024-05-22 09:20:23,605,TDD,this is hard,due by end of day
-2024-05-22 09:20:22,606,Personal Insurance,thanks for the help,schedule a meeting to discuss
-2024-05-22 09:20:21,607,Data Science,out of left field,bring the whole team in on this
-2024-05-22 09:20:20,608,Personal Insurance,think outside the box, 
-2024-05-22 09:20:19,609,Cloud,bang for your buck, 
-2024-05-22 09:20:18,610,PostgresSQL,morning meeting,please forward the document
-2024-05-22 09:20:17,611,PostgresSQL,I need a partner,we will present this
-2024-05-22 09:20:16,612,React,I need a partner,include me in the meeting
-2024-05-22 09:20:15,613,Bond & Specialty Insurance,this is hard,this makes no sense
-2024-05-22 09:20:14,614,MERN,think outside the box,happy to help
-2024-05-22 09:20:13,615,SME,at the end of the day,this is unrelated
-2024-05-22 09:20:12,616,Pair Programming,we will circle back,please forward the document
-2024-05-22 09:20:11,617,Knowledge Assessment,interesting,include me in the meeting
-2024-05-22 09:20:10,618,Guided Project,at the end of the day,why is this required
-2024-05-22 09:20:09,619,DevOps,on the same page,good idea
-2024-05-22 09:20:08,620,Guided Project,I do not know what to write,schedule a meeting to discuss
-2024-05-22 09:20:07,621,App Development,absolutely,that will not work
-2024-05-22 09:20:06,622,SME,on the same page,we will present this
-2024-05-22 09:20:05,623,PostgresSQL,I do not know what to write, 
-2024-05-22 09:20:04,624,Cloud,hit the ground running,schedule a meeting to discuss
-2024-05-22 09:20:03,625,Claim,this is exhausting,I do not know
-2024-05-22 09:20:02,626,PostgresSQL,I am running out of ideas,due by end of day
-2024-05-22 09:20:01,627,Jenkins,it is what it is, 
-2024-05-22 09:20:00,628,Data Science,sorry to bother you,that will not work
-2024-05-22 09:19:59,629,Business Insurance,hit the ground running,we will present this
-2024-05-22 09:19:58,630,Capstone,I need a partner,please forward the document
-2024-05-22 09:19:57,631,Data Science,this is hard,this is unrelated
-2024-05-22 09:19:56,632,NPM,we will circle back,happy to help
-2024-05-22 09:19:55,633,Risk Control,I need a partner,bring the whole team in on this
-2024-05-22 09:19:54,634,Snowflake,no worries,please forward the document
-2024-05-22 09:19:53,635,Risk Control,morning meeting,due by end of day
-2024-05-22 09:19:52,636,Business Insurance,irregardless,happy to help
-2024-05-22 09:19:51,637,App Development,this is hard,due by end of day
-2024-05-22 09:19:50,638,Data Science,no worries,include me in the meeting
-2024-05-22 09:19:49,639,React,bang for your buck,due by end of day
-2024-05-22 09:19:48,640,Risk Control,sorry to bother you,we will present this
-2024-05-22 09:19:47,641,Sprint Planning,get the ball rolling,why is this required
-2024-05-22 09:19:46,642,React,bang for your buck,I do not know
-2024-05-22 09:19:45,643,Jenkins,morning meeting,due by end of day
-2024-05-22 09:19:44,644,Sprint Planning,it is what it is,I do not know
-2024-05-22 09:19:43,645,Sprint Planning,that being said, 
-2024-05-22 09:19:42,646,TDD,it is what it is,please forward the document
-2024-05-22 09:19:41,647,Git,I do not know what to write,bring the whole team in on this
-2024-05-22 09:19:40,648,Sprint Planning,irregardless,that will not work
-2024-05-22 09:19:39,649,Data Engineering,we will circle back,schedule a meeting to discuss
-2024-05-22 09:19:38,650,Sprint Planning,think outside the box,this is unrelated
-2024-05-22 09:19:37,651,Sprint Planning,a no-brainer, 
-2024-05-22 09:19:36,652,Webage,out of left field,happy to help
-2024-05-22 09:19:35,653,Business Insurance,as per my last post,this is unrelated
-2024-05-22 09:19:34,654,Pair Programming,amazing,this is unrelated
-2024-05-22 09:19:33,655,Pair Programming,provide the answer,I do not know
-2024-05-22 09:19:32,656,Bond & Specialty Insurance,bang for your buck,include me in the meeting
-2024-05-22 09:19:31,657,App Development,as per my last post,schedule a meeting to discuss
-2024-05-22 09:19:30,658,Python,get the ball rolling,good idea
-2024-05-22 09:19:29,659,TDD,think outside the box,I do not know
-2024-05-22 09:19:28,660,Capstone,sorry to bother you,please forward the document
-2024-05-22 09:19:27,661,Personal Insurance,sorry to bother you,due by end of day
-2024-05-22 09:19:26,662,Business Insurance,that being said,I do not know
-2024-05-22 09:19:25,663,Git,a no-brainer,schedule a meeting to discuss
-2024-05-22 09:19:24,664,TDD,as per my last post,bring the whole team in on this
-2024-05-22 09:19:23,665,Python,as per my last post,include me in the meeting
-2024-05-22 09:19:22,666,Data Engineering,amazing,this is unrelated
-2024-05-22 09:19:21,667,Webage,morning meeting,this makes no sense
-2024-05-22 09:19:20,668,Data Engineering,morning meeting,include me in the meeting
-2024-05-22 09:19:19,669,Personal Insurance,that makes sense,happy to help
-2024-05-22 09:19:18,670,Git,at the end of the day,this is unrelated
-2024-05-22 09:19:17,671,Data Science,amazing,good idea
-2024-05-22 09:19:16,672,Capstone,think outside the box,we will present this
-2024-05-22 09:19:15,673,Sprint Planning,hit the ground running,schedule a meeting to discuss
-2024-05-22 09:19:14,674,PostgresSQL,that being said,why is this required
-2024-05-22 09:19:13,675,Claim,bang for your buck,this makes no sense
-2024-05-22 09:19:12,676,Risk Control,it is what it is,why is this required
-2024-05-22 09:19:11,677,Pair Programming,thanks for the help,please forward the document
-2024-05-22 09:19:10,678,JavaScript,irregardless,bring the whole team in on this
-2024-05-22 09:19:09,679,Capstone,it is what it is, 
-2024-05-22 09:19:08,680,Jenkins,we will circle back,please forward the document
-2024-05-22 09:19:07,681,React,I do not know what to write,include me in the meeting
-2024-05-22 09:19:06,682,Personal Insurance,bang for your buck,I do not know
-2024-05-22 09:19:05,683,SME,that being said,why is this required
-2024-05-22 09:19:04,684,Data Science,this is exhausting,this is unrelated
-2024-05-22 09:19:03,685,Risk Control,out of left field,I do not know
-2024-05-22 09:19:02,686,Cloud,no worries,please forward the document
-2024-05-22 09:19:01,687,Knowledge Assessment,out of left field, 
-2024-05-22 09:19:00,688,TDD,this is hard,I do not know
-2024-05-22 09:18:59,689,Capstone,out of left field,include me in the meeting
-2024-05-22 09:18:58,690,Guided Project,I do not know what to write,this makes no sense
-2024-05-22 09:18:57,691,Git,bang for your buck,bring the whole team in on this
-2024-05-22 09:18:56,692,Data Science,I do not know what to write,please forward the document
-2024-05-22 09:18:55,693,Git,this is exhausting,include me in the meeting
-2024-05-22 09:18:54,694,Knowledge Assessment,out of left field,due by end of day
-2024-05-22 09:18:53,695,MERN,on the same page, 
-2024-05-22 09:18:52,696,Personal Insurance,on the same page,why is this required
-2024-05-22 09:18:51,697,Risk Control,on the same page,due by end of day
-2024-05-22 09:18:50,698,Business Insurance,morning meeting,good idea
-2024-05-22 09:18:49,699,Bond & Specialty Insurance,hit the ground running,we will present this
-2024-05-22 09:18:48,700,Knowledge Assessment,provide the answer,I do not know
-2024-05-22 09:18:47,701,Cloud,that makes sense,please forward the document
-2024-05-22 09:18:46,702,TDD,absolutely, 
-2024-05-22 09:18:45,703,NPM,irregardless,include me in the meeting
-2024-05-22 09:18:44,704,Jenkins,absolutely,this makes no sense
-2024-05-22 09:18:43,705,Capstone,as per my last post,this makes no sense
-2024-05-22 09:18:42,706,Python,as per my last post,that will not work
-2024-05-22 09:18:41,707,Bond & Specialty Insurance,moving forward,this is unrelated
-2024-05-22 09:18:40,708,Guided Project,sorry to bother you,happy to help
-2024-05-22 09:18:39,709,App Development,that being said,happy to help
-2024-05-22 09:18:38,710,Claim,no worries,due by end of day
-2024-05-22 09:18:37,711,Git,get the ball rolling,happy to help
-2024-05-22 09:18:36,712,React,a no-brainer,due by end of day
-2024-05-22 09:18:35,713,PostgresSQL,I am running out of ideas, 
-2024-05-22 09:18:34,714,NPM,it is what it is,this is unrelated
-2024-05-22 09:18:33,715,NPM,morning meeting,this makes no sense
-2024-05-22 09:18:32,716,Jenkins,irregardless,I do not know
-2024-05-22 09:18:31,717,Cloud,this is exhausting,due by end of day
-2024-05-22 09:18:30,718,Snowflake,get the ball rolling,bring the whole team in on this
-2024-05-22 09:18:29,719,MERN,out of left field,that will not work
-2024-05-22 09:18:28,720,Guided Project,hit the ground running, 
-2024-05-22 09:18:27,721,Cloud,sorry to bother you,this is unrelated
-2024-05-22 09:18:26,722,Capstone,this is exhausting,bring the whole team in on this
-2024-05-22 09:18:25,723,Git,provide the answer, 
-2024-05-22 09:18:24,724,DevOps,this is exhausting,this makes no sense
-2024-05-22 09:18:23,725,Guided Project,this is hard,due by end of day
-2024-05-22 09:18:22,726,Knowledge Assessment,morning meeting,due by end of day
-2024-05-22 09:18:21,727,Claim,that being said,please forward the document
-2024-05-22 09:18:20,728,React,as per my last post, 
-2024-05-22 09:18:19,729,PostgresSQL,irregardless,happy to help
-2024-05-22 09:18:18,730,Bond & Specialty Insurance,that makes sense,bring the whole team in on this
-2024-05-22 09:18:17,731,Claim,thanks for the help,include me in the meeting
-2024-05-22 09:18:16,732,Risk Control,out of left field,schedule a meeting to discuss
-2024-05-22 09:18:15,733,SME,this is hard,happy to help
-2024-05-22 09:18:14,734,Python,amazing,good idea
-2024-05-22 09:18:13,735,Business Insurance,a no-brainer, 
-2024-05-22 09:18:12,736,TDD,as per my last post,I do not know
-2024-05-22 09:18:11,737,PostgresSQL,that being said,this makes no sense
-2024-05-22 09:18:10,738,Capstone,interesting,we will present this
-2024-05-22 09:18:09,739,Pair Programming,I do not know what to write,I do not know
-2024-05-22 09:18:08,740,Sprint Planning,think outside the box,schedule a meeting to discuss
-2024-05-22 09:18:07,741,Personal Insurance,get the ball rolling,due by end of day
-2024-05-22 09:18:06,742,JavaScript,that being said,include me in the meeting
-2024-05-22 09:18:05,743,Pair Programming,amazing,please forward the document
-2024-05-22 09:18:04,744,Git,no worries,we will present this
-2024-05-22 09:18:03,745,Snowflake,we will circle back,good idea
-2024-05-22 09:18:02,746,NPM,absolutely,include me in the meeting
-2024-05-22 09:18:01,747,Pair Programming,think outside the box,good idea
-2024-05-22 09:18:00,748,DevOps,I need a partner,good idea
-2024-05-22 09:17:59,749,Pair Programming,I do not know what to write,I do not know
-2024-05-22 09:17:58,750,Risk Control,we will circle back,this is unrelated
-2024-05-22 09:17:57,751,React,this is exhausting,please forward the document
-2024-05-22 09:17:56,752,Webage,we will circle back,due by end of day
-2024-05-22 09:17:55,753,JavaScript,I need a partner,include me in the meeting
-2024-05-22 09:17:54,754,Python,it is what it is,this makes no sense
-2024-05-22 09:17:53,755,Python,that makes sense,schedule a meeting to discuss
-2024-05-22 09:17:52,756,Guided Project,hit the ground running,include me in the meeting
-2024-05-22 09:17:51,757,TDD,it is what it is,why is this required
-2024-05-22 09:17:50,758,Business Insurance,as per my last post,this is unrelated
-2024-05-22 09:17:49,759,Personal Insurance,moving forward,this makes no sense
-2024-05-22 09:17:48,760,NPM,as per my last post,this is unrelated
-2024-05-22 09:17:47,761,MERN,as per my last post,good idea
-2024-05-22 09:17:46,762,Knowledge Assessment,moving forward,please forward the document
-2024-05-22 09:17:45,763,Cloud,it is what it is,please forward the document
-2024-05-22 09:17:44,764,Risk Control,bang for your buck,bring the whole team in on this
-2024-05-22 09:17:43,765,Pair Programming,hit the ground running,that will not work
-2024-05-22 09:17:42,766,NPM,that being said,I do not know
-2024-05-22 09:17:41,767,Sprint Planning,that being said,schedule a meeting to discuss
-2024-05-22 09:17:40,768,TDD,that being said,that will not work
-2024-05-22 09:17:39,769,Pair Programming,I do not know what to write,bring the whole team in on this
-2024-05-22 09:17:38,770,Cloud,out of left field,include me in the meeting
-2024-05-22 09:17:37,771,Jenkins,that makes sense,good idea
-2024-05-22 09:17:36,772,JavaScript,interesting,due by end of day
-2024-05-22 09:17:35,773,Cloud,out of left field,this is unrelated
-2024-05-22 09:17:34,774,Bond & Specialty Insurance,I am running out of ideas,this is unrelated
-2024-05-22 09:17:33,775,Git,amazing,this makes no sense
-2024-05-22 09:17:32,776,Claim,on the same page,please forward the document
-2024-05-22 09:17:31,777,Sprint Planning,we will circle back,this is unrelated
-2024-05-22 09:17:30,778,Webage,absolutely,please forward the document
-2024-05-22 09:17:29,779,React,hit the ground running,bring the whole team in on this
-2024-05-22 09:17:28,780,Snowflake,interesting,happy to help
-2024-05-22 09:17:27,781,App Development,a no-brainer,schedule a meeting to discuss
-2024-05-22 09:17:26,782,Sprint Planning,I need a partner,schedule a meeting to discuss
-2024-05-22 09:17:25,783,Git,on the same page,please forward the document
-2024-05-22 09:17:24,784,Knowledge Assessment,sorry to bother you,this makes no sense
-2024-05-22 09:17:23,785,Python,thanks for the help,please forward the document
-2024-05-22 09:17:22,786,TDD,absolutely,good idea
-2024-05-22 09:17:21,787,Personal Insurance,no worries,this is unrelated
-2024-05-22 09:17:20,788,Knowledge Assessment,at the end of the day, 
-2024-05-22 09:17:20,789,Snowflake,that makes sense,schedule a meeting to discuss
-2024-05-22 09:17:19,790,JavaScript,that makes sense,include me in the meeting
-2024-05-22 09:17:18,791,Business Insurance,I do not know what to write,include me in the meeting
-2024-05-22 09:17:17,792,Business Insurance,sorry to bother you,schedule a meeting to discuss
-2024-05-22 09:17:16,793,Guided Project,on the same page,good idea
-2024-05-22 09:17:15,794,JavaScript,provide the answer,why is this required
-2024-05-22 09:17:14,795,Data Science,interesting, 
-2024-05-22 09:17:13,796,Guided Project,as per my last post, 
-2024-05-22 09:17:12,797,Pair Programming,a no-brainer,due by end of day
-2024-05-22 09:17:11,798,Personal Insurance,sorry to bother you,due by end of day
-2024-05-22 09:17:10,799,Guided Project,this is hard,good idea
-2024-05-22 09:17:09,800,Webage,this is exhausting,this makes no sense
-2024-05-22 09:17:08,801,Pair Programming,amazing,please forward the document
-2024-05-22 09:17:07,802,Pair Programming,that being said,why is this required
-2024-05-22 09:17:06,803,Git,no worries,include me in the meeting
-2024-05-22 09:17:05,804,Personal Insurance,as per my last post,I do not know
-2024-05-22 09:17:04,805,App Development,amazing,this makes no sense
-2024-05-22 09:17:03,806,React,sorry to bother you,due by end of day
-2024-05-22 09:17:02,807,Business Insurance,as per my last post, 
-2024-05-22 09:17:01,808,React,this is exhausting,please forward the document
-2024-05-22 09:17:00,809,Capstone,this is hard,please forward the document
-2024-05-22 09:16:59,810,Cloud,morning meeting,this is unrelated
-2024-05-22 09:16:58,811,Snowflake,bang for your buck, 
-2024-05-22 09:16:57,812,App Development,thanks for the help,we will present this
-2024-05-22 09:16:56,813,NPM,we will circle back,bring the whole team in on this
-2024-05-22 09:16:55,814,Pair Programming,as per my last post,good idea
-2024-05-22 09:16:54,815,Personal Insurance,that being said,this makes no sense
-2024-05-22 09:16:53,816,Risk Control,hit the ground running,schedule a meeting to discuss
-2024-05-22 09:16:52,817,Business Insurance,provide the answer,happy to help
-2024-05-22 09:16:51,818,Jenkins,a no-brainer,I do not know
-2024-05-22 09:16:50,819,Pair Programming,I need a partner,that will not work
-2024-05-22 09:16:49,820,Business Insurance,hit the ground running,please forward the document
-2024-05-22 09:16:48,821,Claim,that being said,good idea
-2024-05-22 09:16:47,822,Python,I am running out of ideas,that will not work
-2024-05-22 09:16:46,823,Jenkins,we will circle back,please forward the document
-2024-05-22 09:16:45,824,MERN,this is hard,please forward the document
-2024-05-22 09:16:44,825,Pair Programming,this is hard,I do not know
-2024-05-22 09:16:43,826,Guided Project,at the end of the day,we will present this
-2024-05-22 09:16:42,827,Jenkins,interesting,please forward the document
-2024-05-22 09:16:41,828,SME,bang for your buck,bring the whole team in on this
-2024-05-22 09:16:40,829,Sprint Planning,I need a partner,schedule a meeting to discuss
-2024-05-22 09:16:39,830,Knowledge Assessment,thanks for the help, 
-2024-05-22 09:16:38,831,Snowflake,interesting,we will present this
-2024-05-22 09:16:37,832,Capstone,thanks for the help,please forward the document
-2024-05-22 09:16:36,833,PostgresSQL,get the ball rolling,due by end of day
-2024-05-22 09:16:35,834,NPM,provide the answer,bring the whole team in on this
-2024-05-22 09:16:34,835,Snowflake,think outside the box,include me in the meeting
-2024-05-22 09:16:33,836,Sprint Planning,morning meeting,include me in the meeting
-2024-05-22 09:16:32,837,Webage,at the end of the day,that will not work
-2024-05-22 09:16:31,838,Pair Programming,this is exhausting,that will not work
-2024-05-22 09:16:30,839,SME,think outside the box,include me in the meeting
-2024-05-22 09:16:29,840,Data Engineering,this is hard,that will not work
-2024-05-22 09:16:28,841,Guided Project,bang for your buck,include me in the meeting
-2024-05-22 09:16:27,842,PostgresSQL,this is exhausting,I do not know
-2024-05-22 09:16:26,843,SME,bang for your buck,this is unrelated
-2024-05-22 09:16:25,844,MERN,a no-brainer,we will present this
-2024-05-22 09:16:24,845,Sprint Planning,out of left field,bring the whole team in on this
-2024-05-22 09:16:23,846,Git,out of left field,schedule a meeting to discuss
-2024-05-22 09:16:22,847,Data Science,I do not know what to write,schedule a meeting to discuss
-2024-05-22 09:16:21,848,Data Science,interesting,please forward the document
-2024-05-22 09:16:20,849,Personal Insurance,bang for your buck,I do not know
-2024-05-22 09:16:19,850,Risk Control,I am running out of ideas,bring the whole team in on this
-2024-05-22 09:16:18,851,Python,I am running out of ideas,due by end of day
-2024-05-22 09:16:17,852,Claim,interesting,happy to help
-2024-05-22 09:16:16,853,Data Engineering,as per my last post,I do not know
-2024-05-22 09:16:15,854,Sprint Planning,it is what it is,good idea
-2024-05-22 09:16:14,855,MERN,at the end of the day,bring the whole team in on this
-2024-05-22 09:16:13,856,Business Insurance,on the same page,this is unrelated
-2024-05-22 09:16:12,857,Business Insurance,no worries,include me in the meeting
-2024-05-22 09:16:11,858,Knowledge Assessment,get the ball rolling,bring the whole team in on this
-2024-05-22 09:16:10,859,DevOps,morning meeting,good idea
-2024-05-22 09:16:09,860,App Development,get the ball rolling,this is unrelated
-2024-05-22 09:16:08,861,Knowledge Assessment,hit the ground running,due by end of day
-2024-05-22 09:16:07,862,Snowflake,that being said,why is this required
-2024-05-22 09:16:06,863,Guided Project,get the ball rolling,bring the whole team in on this
-2024-05-22 09:16:05,864,JavaScript,at the end of the day,good idea
-2024-05-22 09:16:04,865,Risk Control,amazing,this makes no sense
-2024-05-22 09:16:03,866,TDD,amazing, 
-2024-05-22 09:16:02,867,Jenkins,I am running out of ideas,happy to help
-2024-05-22 09:16:01,868,MERN,morning meeting,schedule a meeting to discuss
-2024-05-22 09:16:00,869,Guided Project,think outside the box,good idea
-2024-05-22 09:15:59,870,JavaScript,a no-brainer,schedule a meeting to discuss
-2024-05-22 09:15:58,871,Jenkins,a no-brainer,include me in the meeting
-2024-05-22 09:15:57,872,Capstone,we will circle back,we will present this
-2024-05-22 09:15:56,873,Jenkins,morning meeting,this makes no sense
-2024-05-22 09:15:55,874,MERN,we will circle back,include me in the meeting
-2024-05-22 09:15:54,875,TDD,it is what it is, 
-2024-05-22 09:15:53,876,NPM,this is hard, 
-2024-05-22 09:15:52,877,React,I do not know what to write,due by end of day
-2024-05-22 09:15:51,878,TDD,I need a partner,bring the whole team in on this
-2024-05-22 09:15:50,879,Personal Insurance,morning meeting,please forward the document
-2024-05-22 09:15:49,880,Bond & Specialty Insurance,provide the answer,schedule a meeting to discuss
-2024-05-22 09:15:48,881,Guided Project,provide the answer,good idea
-2024-05-22 09:15:47,882,TDD,it is what it is,I do not know
-2024-05-22 09:15:46,883,Python,it is what it is,include me in the meeting
-2024-05-22 09:15:45,884,SME,amazing,we will present this
-2024-05-22 09:15:44,885,JavaScript,amazing,schedule a meeting to discuss
-2024-05-22 09:15:43,886,Business Insurance,morning meeting,include me in the meeting
-2024-05-22 09:15:42,887,NPM,irregardless,we will present this
-2024-05-22 09:15:41,888,Data Science,hit the ground running, 
-2024-05-22 09:15:40,889,Python,I do not know what to write,we will present this
-2024-05-22 09:15:39,890,SME,thanks for the help,bring the whole team in on this
-2024-05-22 09:15:38,891,DevOps,absolutely,include me in the meeting
-2024-05-22 09:15:37,892,Claim,irregardless,happy to help
-2024-05-22 09:15:36,893,SME,think outside the box,please forward the document
-2024-05-22 09:15:35,894,App Development,I do not know what to write,we will present this
-2024-05-22 09:15:34,895,PostgresSQL,that being said,this is unrelated
-2024-05-22 09:15:33,896,Data Science,I need a partner,that will not work
-2024-05-22 09:15:32,897,Bond & Specialty Insurance,hit the ground running,good idea
-2024-05-22 09:15:31,898,Personal Insurance,this is exhausting, 
-2024-05-22 09:15:30,899,Jenkins,moving forward,this makes no sense
-2024-05-22 09:15:29,900,Capstone,at the end of the day,please forward the document
-2024-05-22 09:15:28,901,JavaScript,hit the ground running,we will present this
-2024-05-22 09:15:27,902,Git,hit the ground running,this is unrelated
-2024-05-22 09:15:26,903,Capstone,no worries,this is unrelated
-2024-05-22 09:15:25,904,Risk Control,moving forward,good idea
-2024-05-22 09:15:24,905,TDD,a no-brainer,schedule a meeting to discuss
-2024-05-22 09:15:23,906,Jenkins,we will circle back,bring the whole team in on this
-2024-05-22 09:15:22,907,React,we will circle back,we will present this
-2024-05-22 09:15:21,908,PostgresSQL,that makes sense,we will present this
-2024-05-22 09:15:20,909,PostgresSQL,sorry to bother you,happy to help
-2024-05-22 09:15:19,910,JavaScript,this is exhausting,happy to help
-2024-05-22 09:15:18,911,Knowledge Assessment,amazing,good idea
-2024-05-22 09:15:17,912,Claim,moving forward,this makes no sense
-2024-05-22 09:15:16,913,App Development,amazing,we will present this
-2024-05-22 09:15:15,914,Bond & Specialty Insurance,absolutely,this makes no sense
-2024-05-22 09:15:14,915,Bond & Specialty Insurance,hit the ground running,good idea
-2024-05-22 09:15:13,916,Capstone,I need a partner,we will present this
-2024-05-22 09:15:12,917,Jenkins,absolutely,this makes no sense
-2024-05-22 09:15:11,918,NPM,it is what it is, 
-2024-05-22 09:15:10,919,App Development,as per my last post,why is this required
-2024-05-22 09:15:09,920,DevOps,this is hard,I do not know
-2024-05-22 09:15:08,921,Cloud,this is exhausting,due by end of day
-2024-05-22 09:15:07,922,Cloud,I need a partner,this makes no sense
-2024-05-22 09:15:06,923,Jenkins,at the end of the day,please forward the document
-2024-05-22 09:15:05,924,Webage,as per my last post,we will present this
-2024-05-22 09:15:04,925,Capstone,hit the ground running,bring the whole team in on this
-2024-05-22 09:15:03,926,Capstone,a no-brainer,that will not work
-2024-05-22 09:15:02,927,Git,that makes sense,we will present this
-2024-05-22 09:15:01,928,React,this is hard,we will present this
-2024-05-22 09:15:00,929,Business Insurance,it is what it is,schedule a meeting to discuss
-2024-05-22 09:14:59,930,DevOps,I am running out of ideas,I do not know
-2024-05-22 09:14:58,931,Personal Insurance,moving forward,good idea
-2024-05-22 09:14:57,932,React,this is exhausting,bring the whole team in on this
-2024-05-22 09:14:56,933,Webage,interesting, 
-2024-05-22 09:14:55,934,DevOps,no worries,this makes no sense
-2024-05-22 09:14:54,935,Webage,think outside the box,include me in the meeting
-2024-05-22 09:14:53,936,MERN,morning meeting, 
-2024-05-22 09:14:52,937,NPM,this is exhausting, 
-2024-05-22 09:14:51,938,App Development,provide the answer,bring the whole team in on this
-2024-05-22 09:14:50,939,App Development,hit the ground running,I do not know
-2024-05-22 09:14:49,940,React,amazing, 
-2024-05-22 09:14:48,941,TDD,out of left field,bring the whole team in on this
-2024-05-22 09:14:47,942,Pair Programming,that being said,why is this required
-2024-05-22 09:14:46,943,Python,we will circle back,please forward the document
-2024-05-22 09:14:45,944,PostgresSQL,sorry to bother you,good idea
-2024-05-22 09:14:44,945,MERN,that being said,happy to help
-2024-05-22 09:14:43,946,App Development,that makes sense,please forward the document
-2024-05-22 09:14:42,947,Data Engineering,hit the ground running,happy to help
-2024-05-22 09:14:41,948,Cloud,get the ball rolling,why is this required
-2024-05-22 09:14:40,949,Knowledge Assessment,I do not know what to write,we will present this
-2024-05-22 09:14:39,950,Jenkins,no worries,due by end of day
-2024-05-22 09:14:38,951,Python,absolutely,bring the whole team in on this
-2024-05-22 09:14:37,952,React,amazing,good idea
-2024-05-22 09:14:36,953,Webage,sorry to bother you,include me in the meeting
-2024-05-22 09:14:35,954,Personal Insurance,at the end of the day,we will present this
-2024-05-22 09:14:34,955,Git,I need a partner,include me in the meeting
-2024-05-22 09:14:33,956,NPM,this is exhausting,this is unrelated
-2024-05-22 09:14:32,957,React,interesting,happy to help
-2024-05-22 09:14:31,958,Sprint Planning,think outside the box,include me in the meeting
-2024-05-22 09:14:30,959,MERN,moving forward, 
-2024-05-22 09:14:29,960,Guided Project,bang for your buck,happy to help
-2024-05-22 09:14:28,961,Capstone,I need a partner,bring the whole team in on this
-2024-05-22 09:14:27,962,Knowledge Assessment,thanks for the help,why is this required
-2024-05-22 09:14:26,963,Snowflake,I need a partner,why is this required
-2024-05-22 09:14:25,964,Bond & Specialty Insurance,as per my last post,include me in the meeting
-2024-05-22 09:14:24,965,TDD,absolutely, 
-2024-05-22 09:14:23,966,NPM,this is exhausting,why is this required
-2024-05-22 09:14:22,967,Bond & Specialty Insurance,I need a partner,good idea
-2024-05-22 09:14:21,968,React,think outside the box,due by end of day
-2024-05-22 09:14:20,969,SME,out of left field,bring the whole team in on this
-2024-05-22 09:14:19,970,Bond & Specialty Insurance,absolutely,please forward the document
-2024-05-22 09:14:18,971,Python,bang for your buck,I do not know
-2024-05-22 09:14:17,972,SME,this is exhausting,bring the whole team in on this
-2024-05-22 09:14:16,973,Python,bang for your buck,why is this required
-2024-05-22 09:14:15,974,TDD,morning meeting,we will present this
-2024-05-22 09:14:14,975,Jenkins,I need a partner,this makes no sense
-2024-05-22 09:14:13,976,Pair Programming,bang for your buck,why is this required
-2024-05-22 09:14:12,977,Business Insurance,hit the ground running,I do not know
-2024-05-22 09:14:11,978,PostgresSQL,bang for your buck,this makes no sense
-2024-05-22 09:14:10,979,Claim,absolutely,this makes no sense
-2024-05-22 09:14:09,980,Data Engineering,I am running out of ideas,include me in the meeting
-2024-05-22 09:14:08,981,Knowledge Assessment,out of left field,include me in the meeting
-2024-05-22 09:14:07,982,Claim,I am running out of ideas,I do not know
-2024-05-22 09:14:06,983,PostgresSQL,absolutely,please forward the document
-2024-05-22 09:14:05,984,PostgresSQL,we will circle back,that will not work
-2024-05-22 09:14:04,985,Snowflake,I need a partner,bring the whole team in on this
-2024-05-22 09:14:03,986,TDD,that being said,happy to help
-2024-05-22 09:14:02,987,TDD,that makes sense,good idea
-2024-05-22 09:14:01,988,JavaScript,I do not know what to write,happy to help
-2024-05-22 09:14:00,989,PostgresSQL,out of left field,please forward the document
-2024-05-22 09:13:59,990,App Development,I do not know what to write,why is this required
-2024-05-22 09:13:58,991,Capstone,that being said, 
-2024-05-22 09:13:57,992,Claim,morning meeting,include me in the meeting
-2024-05-22 09:13:56,993,Guided Project,thanks for the help,I do not know
-2024-05-22 09:13:55,994,Cloud,we will circle back,this is unrelated
-2024-05-22 09:13:54,995,Sprint Planning,a no-brainer,include me in the meeting
-2024-05-22 09:13:53,996,Guided Project,that makes sense,bring the whole team in on this
-2024-05-22 09:13:52,997,Snowflake,at the end of the day, 
-2024-05-22 09:13:51,998,NPM,moving forward,why is this required
-2024-05-22 09:13:50,999,JavaScript,sorry to bother you,that will not work
-2024-05-22 09:13:49,1000,App Development,I am running out of ideas,schedule a meeting to discuss
+timestamp,post_id,subject,content,response,sentiment
+2024-05-22 10:10:47,1,React,sorry to bother you,happy to help,negative
+2024-05-22 10:10:46,2,Git,out of left field,include me in the meeting,negative
+2024-05-22 10:10:45,3,NPM,that being said,I do not know,positive
+2024-05-22 10:10:44,4,Data Science,I need a partner,I do not know,positive
+2024-05-22 10:10:43,5,Claim,a no-brainer,this is unrelated,positive
+2024-05-22 10:10:42,6,React,it is what it is,that will not work,positive
+2024-05-22 10:10:41,7,Guided Project,I need a partner,bring the whole team in on this,positive
+2024-05-22 10:10:40,8,Claim,I am running out of ideas,why is this required,negative
+2024-05-22 10:10:39,9,SME,I am running out of ideas,this makes no sense,negative
+2024-05-22 10:10:38,10,Knowledge Assessment,bang for your buck,include me in the meeting,positive
+2024-05-22 10:10:37,11,Bond & Specialty Insurance,I do not know what to write,we will present this,negative
+2024-05-22 10:10:36,12,Knowledge Assessment,no worries,we will present this,positive
+2024-05-22 10:10:35,13,MERN,provide the answer,please forward the document,positive
+2024-05-22 10:10:34,14,Business Insurance,think outside the box,I do not know,negative
+2024-05-22 10:10:33,15,Pair Programming,get the ball rolling,why is this required,positive
+2024-05-22 10:10:32,16,TDD,irregardless,that will not work,negative
+2024-05-22 10:10:31,17,Webage,that makes sense,good idea,positive
+2024-05-22 10:10:30,18,Data Science,that makes sense,include me in the meeting,negative
+2024-05-22 10:10:29,19,Data Science,morning meeting,I do not know,negative
+2024-05-22 10:10:28,20,Git,amazing,bring the whole team in on this,negative
+2024-05-22 10:10:27,21,Python,as per my last post,happy to help,positive
+2024-05-22 10:10:26,22,MERN,absolutely,include me in the meeting,negative
+2024-05-22 10:10:25,23,PostgresSQL,we will circle back,bring the whole team in on this,negative
+2024-05-22 10:10:24,24,NPM,this is hard,that will not work,positive
+2024-05-22 10:10:23,25,Capstone,that makes sense,due by end of day,negative
+2024-05-22 10:10:22,26,Snowflake,sorry to bother you,good idea,positive
+2024-05-22 10:10:21,27,Snowflake,thanks for the help,include me in the meeting,positive
+2024-05-22 10:10:20,28,PostgresSQL,get the ball rolling,schedule a meeting to discuss,positive
+2024-05-22 10:10:19,29,Pair Programming,thanks for the help,happy to help,positive
+2024-05-22 10:10:18,30,Personal Insurance,I need a partner, ,positive
+2024-05-22 10:10:17,31,App Development,provide the answer,this is unrelated,positive
+2024-05-22 10:10:16,32,NPM,moving forward,this makes no sense,negative
+2024-05-22 10:10:15,33,Bond & Specialty Insurance,provide the answer,due by end of day,negative
+2024-05-22 10:10:14,34,Git,this is hard,I do not know,positive
+2024-05-22 10:10:13,35,Pair Programming,I do not know what to write,I do not know,positive
+2024-05-22 10:10:12,36,Webage,I do not know what to write,due by end of day,positive
+2024-05-22 10:10:11,37,Data Engineering,we will circle back, ,positive
+2024-05-22 10:10:10,38,PostgresSQL,provide the answer, ,negative
+2024-05-22 10:10:09,39,JavaScript,amazing,we will present this,negative
+2024-05-22 10:10:08,40,Bond & Specialty Insurance,that being said, ,negative
+2024-05-22 10:10:07,41,Webage,amazing,I do not know,negative
+2024-05-22 10:10:06,42,PostgresSQL,bang for your buck,happy to help,positive
+2024-05-22 10:10:05,43,Knowledge Assessment,bang for your buck,good idea,negative
+2024-05-22 10:10:04,44,Personal Insurance,on the same page,I do not know,positive
+2024-05-22 10:10:03,45,Snowflake,interesting, ,positive
+2024-05-22 10:10:02,46,SME,irregardless,this is unrelated,negative
+2024-05-22 10:10:01,47,Sprint Planning,hit the ground running,this is unrelated,positive
+2024-05-22 10:10:00,48,TDD,that makes sense,due by end of day,positive
+2024-05-22 10:09:59,49,React,out of left field, ,positive
+2024-05-22 10:09:58,50,Webage,sorry to bother you,due by end of day,negative
+2024-05-22 10:09:57,51,Python,that makes sense,schedule a meeting to discuss,negative
+2024-05-22 10:09:56,52,Git,irregardless,this makes no sense,positive
+2024-05-22 10:09:55,53,NPM,morning meeting,bring the whole team in on this,positive
+2024-05-22 10:09:54,54,NPM,provide the answer,this is unrelated,negative
+2024-05-22 10:09:53,55,React,this is exhausting,I do not know,positive
+2024-05-22 10:09:52,56,Snowflake,a no-brainer, ,positive
+2024-05-22 10:09:51,57,Business Insurance,as per my last post,that will not work,positive
+2024-05-22 10:09:50,58,React,that makes sense, ,negative
+2024-05-22 10:09:49,59,Data Engineering,no worries,include me in the meeting,negative
+2024-05-22 10:09:48,60,App Development,irregardless,include me in the meeting,positive
+2024-05-22 10:09:47,61,React,as per my last post,please forward the document,negative
+2024-05-22 10:09:46,62,App Development,hit the ground running,we will present this,negative
+2024-05-22 10:09:45,63,Risk Control,I do not know what to write,why is this required,positive
+2024-05-22 10:09:44,64,JavaScript,a no-brainer,this is unrelated,positive
+2024-05-22 10:09:43,65,Webage,I need a partner,that will not work,negative
+2024-05-22 10:09:42,66,Webage,that makes sense,I do not know,positive
+2024-05-22 10:09:41,67,Data Engineering,interesting,why is this required,positive
+2024-05-22 10:09:40,68,Guided Project,we will circle back,good idea,positive
+2024-05-22 10:09:39,69,Bond & Specialty Insurance,out of left field,happy to help,negative
+2024-05-22 10:09:38,70,Python,this is exhausting,this makes no sense,positive
+2024-05-22 10:09:37,71,Data Science,this is hard, ,positive
+2024-05-22 10:09:36,72,Claim,moving forward, ,negative
+2024-05-22 10:09:35,73,Guided Project,absolutely,happy to help,negative
+2024-05-22 10:09:34,74,NPM,I do not know what to write,I do not know,negative
+2024-05-22 10:09:33,75,JavaScript,at the end of the day,happy to help,negative
+2024-05-22 10:09:32,76,Git,that makes sense,good idea,negative
+2024-05-22 10:09:31,77,Python,think outside the box,bring the whole team in on this,negative
+2024-05-22 10:09:30,78,NPM,I need a partner,this is unrelated,positive
+2024-05-22 10:09:29,79,Cloud,as per my last post,that will not work,negative
+2024-05-22 10:09:28,80,Snowflake,thanks for the help,due by end of day,negative
+2024-05-22 10:09:27,81,PostgresSQL,sorry to bother you,this is unrelated,negative
+2024-05-22 10:09:26,82,Personal Insurance,a no-brainer,I do not know,positive
+2024-05-22 10:09:25,83,Data Engineering,it is what it is,why is this required,negative
+2024-05-22 10:09:24,84,App Development,morning meeting, ,negative
+2024-05-22 10:09:23,85,Personal Insurance,out of left field,I do not know,negative
+2024-05-22 10:09:22,86,Risk Control,absolutely,this is unrelated,negative
+2024-05-22 10:09:21,87,Git,it is what it is,why is this required,positive
+2024-05-22 10:09:20,88,Guided Project,this is hard,that will not work,positive
+2024-05-22 10:09:19,89,Data Science,think outside the box,I do not know,negative
+2024-05-22 10:09:18,90,React,I do not know what to write,we will present this,negative
+2024-05-22 10:09:17,91,MERN,sorry to bother you,we will present this,negative
+2024-05-22 10:09:16,92,Risk Control,that being said,please forward the document,negative
+2024-05-22 10:09:15,93,JavaScript,morning meeting,please forward the document,positive
+2024-05-22 10:09:14,94,Git,this is exhausting,why is this required,positive
+2024-05-22 10:09:13,95,Pair Programming,it is what it is,please forward the document,negative
+2024-05-22 10:09:12,96,JavaScript,this is exhausting,we will present this,negative
+2024-05-22 10:09:11,97,App Development,this is hard, ,positive
+2024-05-22 10:09:10,98,Jenkins,morning meeting,I do not know,negative
+2024-05-22 10:09:09,99,Bond & Specialty Insurance,think outside the box,we will present this,positive
+2024-05-22 10:09:08,100,Business Insurance,this is exhausting,this makes no sense,negative
+2024-05-22 10:09:07,101,Claim,I do not know what to write,that will not work,negative
+2024-05-22 10:09:06,102,React,no worries,happy to help,negative
+2024-05-22 10:09:05,103,SME,I am running out of ideas,include me in the meeting,positive
+2024-05-22 10:09:04,104,Knowledge Assessment,I am running out of ideas,good idea,negative
+2024-05-22 10:09:03,105,MERN,out of left field, ,positive
+2024-05-22 10:09:02,106,JavaScript,sorry to bother you,I do not know,negative
+2024-05-22 10:09:01,107,Knowledge Assessment,on the same page,please forward the document,positive
+2024-05-22 10:09:00,108,Cloud,morning meeting,include me in the meeting,positive
+2024-05-22 10:08:59,109,Data Science,irregardless,due by end of day,positive
+2024-05-22 10:08:58,110,SME,bang for your buck,that will not work,positive
+2024-05-22 10:08:57,111,Guided Project,on the same page,due by end of day,positive
+2024-05-22 10:08:56,112,Data Engineering,I need a partner,I do not know,negative
+2024-05-22 10:08:55,113,Capstone,provide the answer,good idea,negative
+2024-05-22 10:08:54,114,Data Science,it is what it is,good idea,positive
+2024-05-22 10:08:53,115,Risk Control,as per my last post,schedule a meeting to discuss,negative
+2024-05-22 10:08:52,116,Claim,get the ball rolling,I do not know,positive
+2024-05-22 10:08:51,117,Data Science,this is hard,why is this required,positive
+2024-05-22 10:08:50,118,Pair Programming,no worries,I do not know,negative
+2024-05-22 10:08:49,119,Guided Project,I do not know what to write,please forward the document,positive
+2024-05-22 10:08:48,120,Cloud,on the same page,why is this required,positive
+2024-05-22 10:08:47,121,Sprint Planning,this is exhausting,please forward the document,negative
+2024-05-22 10:08:46,122,JavaScript,thanks for the help,this is unrelated,positive
+2024-05-22 10:08:45,123,DevOps,on the same page,happy to help,positive
+2024-05-22 10:08:44,124,JavaScript,morning meeting,I do not know,positive
+2024-05-22 10:08:43,125,NPM,no worries,due by end of day,negative
+2024-05-22 10:08:42,126,Personal Insurance,sorry to bother you,good idea,negative
+2024-05-22 10:08:41,127,Pair Programming,provide the answer,I do not know,positive
+2024-05-22 10:08:40,128,DevOps,amazing,this is unrelated,positive
+2024-05-22 10:08:39,129,PostgresSQL,I do not know what to write,this makes no sense,positive
+2024-05-22 10:08:38,130,Business Insurance,thanks for the help,due by end of day,positive
+2024-05-22 10:08:37,131,Pair Programming,at the end of the day,schedule a meeting to discuss,negative
+2024-05-22 10:08:36,132,Snowflake,thanks for the help,good idea,negative
+2024-05-22 10:08:35,133,SME,thanks for the help,schedule a meeting to discuss,positive
+2024-05-22 10:08:34,134,TDD,no worries,this makes no sense,negative
+2024-05-22 10:08:33,135,Jenkins,irregardless,we will present this,positive
+2024-05-22 10:08:32,136,Data Science,think outside the box,good idea,positive
+2024-05-22 10:08:31,137,MERN,I do not know what to write,this is unrelated,negative
+2024-05-22 10:08:30,138,Snowflake,get the ball rolling,I do not know,negative
+2024-05-22 10:08:29,139,Webage,no worries,this is unrelated,negative
+2024-05-22 10:08:28,140,App Development,out of left field,I do not know,positive
+2024-05-22 10:08:27,141,Webage,this is hard,we will present this,positive
+2024-05-22 10:08:26,142,Pair Programming,at the end of the day,bring the whole team in on this,positive
+2024-05-22 10:08:25,143,Data Science,provide the answer,that will not work,negative
+2024-05-22 10:08:24,144,Capstone,a no-brainer, ,negative
+2024-05-22 10:08:23,145,Data Engineering,that makes sense,why is this required,negative
+2024-05-22 10:08:22,146,Python,provide the answer,schedule a meeting to discuss,negative
+2024-05-22 10:08:21,147,Git,thanks for the help,please forward the document,negative
+2024-05-22 10:08:20,148,TDD,irregardless,schedule a meeting to discuss,positive
+2024-05-22 10:08:19,149,Cloud,I need a partner,bring the whole team in on this,negative
+2024-05-22 10:08:18,150,Webage,sorry to bother you,this makes no sense,negative
+2024-05-22 10:08:17,151,Business Insurance,irregardless,please forward the document,negative
+2024-05-22 10:08:16,152,JavaScript,at the end of the day,I do not know,negative
+2024-05-22 10:08:15,153,Pair Programming,absolutely,happy to help,negative
+2024-05-22 10:08:14,154,MERN,this is exhausting,bring the whole team in on this,negative
+2024-05-22 10:08:13,155,DevOps,no worries,why is this required,negative
+2024-05-22 10:08:12,156,Data Science,out of left field,that will not work,negative
+2024-05-22 10:08:11,157,Snowflake,this is hard,good idea,positive
+2024-05-22 10:08:10,158,MERN,as per my last post,why is this required,negative
+2024-05-22 10:08:09,159,PostgresSQL,moving forward,this makes no sense,positive
+2024-05-22 10:08:08,160,Data Science,think outside the box, ,positive
+2024-05-22 10:08:07,161,Jenkins,we will circle back,that will not work,positive
+2024-05-22 10:08:06,162,JavaScript,at the end of the day,bring the whole team in on this,positive
+2024-05-22 10:08:05,163,NPM,it is what it is,this makes no sense,positive
+2024-05-22 10:08:04,164,Knowledge Assessment,think outside the box,bring the whole team in on this,negative
+2024-05-22 10:08:03,165,Data Science,that makes sense,good idea,negative
+2024-05-22 10:08:02,166,Knowledge Assessment,on the same page,I do not know,positive
+2024-05-22 10:08:01,167,Webage,amazing,schedule a meeting to discuss,positive
+2024-05-22 10:08:00,168,TDD,this is exhausting, ,positive
+2024-05-22 10:07:59,169,Business Insurance,amazing,why is this required,negative
+2024-05-22 10:07:58,170,Bond & Specialty Insurance,it is what it is,happy to help,positive
+2024-05-22 10:07:57,171,Knowledge Assessment,this is exhausting,this makes no sense,negative
+2024-05-22 10:07:56,172,Business Insurance,a no-brainer,schedule a meeting to discuss,positive
+2024-05-22 10:07:55,173,TDD,morning meeting,schedule a meeting to discuss,negative
+2024-05-22 10:07:54,174,Data Science,bang for your buck,please forward the document,positive
+2024-05-22 10:07:53,175,Cloud,out of left field,include me in the meeting,positive
+2024-05-22 10:07:52,176,JavaScript,interesting, ,positive
+2024-05-22 10:07:51,177,JavaScript,I need a partner,due by end of day,negative
+2024-05-22 10:07:50,178,Python,this is exhausting,bring the whole team in on this,negative
+2024-05-22 10:07:49,179,Snowflake,out of left field,due by end of day,positive
+2024-05-22 10:07:48,180,Snowflake,provide the answer,due by end of day,negative
+2024-05-22 10:07:47,181,DevOps,provide the answer,bring the whole team in on this,positive
+2024-05-22 10:07:46,182,Knowledge Assessment,thanks for the help,due by end of day,positive
+2024-05-22 10:07:45,183,Personal Insurance,bang for your buck,include me in the meeting,positive
+2024-05-22 10:07:44,184,Business Insurance,amazing,bring the whole team in on this,negative
+2024-05-22 10:07:43,185,Jenkins,think outside the box,due by end of day,positive
+2024-05-22 10:07:42,186,Data Science,we will circle back,include me in the meeting,positive
+2024-05-22 10:07:41,187,React,at the end of the day,due by end of day,positive
+2024-05-22 10:07:40,188,Sprint Planning,no worries,that will not work,negative
+2024-05-22 10:07:39,189,Data Science,we will circle back,include me in the meeting,positive
+2024-05-22 10:07:38,190,App Development,a no-brainer,that will not work,negative
+2024-05-22 10:07:37,191,MERN,out of left field,this makes no sense,negative
+2024-05-22 10:07:36,192,Jenkins,that being said,this is unrelated,positive
+2024-05-22 10:07:35,193,MERN,that being said, ,positive
+2024-05-22 10:07:34,194,DevOps,that makes sense,that will not work,positive
+2024-05-22 10:07:33,195,Business Insurance,irregardless, ,negative
+2024-05-22 10:07:32,196,Guided Project,sorry to bother you,why is this required,negative
+2024-05-22 10:07:31,197,App Development,I am running out of ideas,include me in the meeting,positive
+2024-05-22 10:07:30,198,SME,hit the ground running,this makes no sense,negative
+2024-05-22 10:07:29,199,Snowflake,that being said,include me in the meeting,positive
+2024-05-22 10:07:28,200,Pair Programming,that makes sense,this is unrelated,negative
+2024-05-22 10:07:27,201,TDD,this is exhausting,this is unrelated,positive
+2024-05-22 10:07:26,202,Bond & Specialty Insurance,at the end of the day, ,positive
+2024-05-22 10:07:25,203,DevOps,think outside the box,include me in the meeting,negative
+2024-05-22 10:07:24,204,Knowledge Assessment,it is what it is,happy to help,negative
+2024-05-22 10:07:23,205,Business Insurance,sorry to bother you,why is this required,positive
+2024-05-22 10:07:22,206,Capstone,this is hard,due by end of day,negative
+2024-05-22 10:07:21,207,Risk Control,hit the ground running,happy to help,negative
+2024-05-22 10:07:20,208,Python,moving forward,that will not work,negative
+2024-05-22 10:07:19,209,Guided Project,no worries,that will not work,negative
+2024-05-22 10:07:18,210,NPM,I need a partner,I do not know,positive
+2024-05-22 10:07:17,211,Bond & Specialty Insurance,thanks for the help, ,negative
+2024-05-22 10:07:16,212,Guided Project,sorry to bother you,that will not work,negative
+2024-05-22 10:07:15,213,SME,sorry to bother you,this makes no sense,negative
+2024-05-22 10:07:14,214,React,hit the ground running,schedule a meeting to discuss,positive
+2024-05-22 10:07:13,215,Knowledge Assessment,irregardless,please forward the document,negative
+2024-05-22 10:07:12,216,NPM,interesting,this makes no sense,negative
+2024-05-22 10:07:11,217,Bond & Specialty Insurance,a no-brainer,this is unrelated,positive
+2024-05-22 10:07:10,218,Guided Project,this is hard,why is this required,negative
+2024-05-22 10:07:09,219,Bond & Specialty Insurance,this is exhausting,this makes no sense,positive
+2024-05-22 10:07:08,220,MERN,get the ball rolling,that will not work,negative
+2024-05-22 10:07:07,221,Pair Programming,I need a partner,we will present this,positive
+2024-05-22 10:07:06,222,Sprint Planning,bang for your buck,why is this required,positive
+2024-05-22 10:07:05,223,SME,sorry to bother you,schedule a meeting to discuss,positive
+2024-05-22 10:07:04,224,PostgresSQL,thanks for the help,please forward the document,negative
+2024-05-22 10:07:03,225,Bond & Specialty Insurance,moving forward,due by end of day,positive
+2024-05-22 10:07:02,226,Snowflake,think outside the box,I do not know,positive
+2024-05-22 10:07:01,227,Personal Insurance,irregardless,due by end of day,positive
+2024-05-22 10:07:00,228,React,bang for your buck,I do not know,negative
+2024-05-22 10:06:59,229,TDD,as per my last post,happy to help,negative
+2024-05-22 10:06:58,230,Jenkins,at the end of the day,we will present this,positive
+2024-05-22 10:06:57,231,Claim,hit the ground running,that will not work,positive
+2024-05-22 10:06:56,232,JavaScript,at the end of the day,happy to help,negative
+2024-05-22 10:06:55,233,React,that makes sense,happy to help,positive
+2024-05-22 10:06:54,234,Pair Programming,I need a partner,I do not know,negative
+2024-05-22 10:06:53,235,TDD,that makes sense,why is this required,positive
+2024-05-22 10:06:52,236,NPM,this is exhausting,bring the whole team in on this,positive
+2024-05-22 10:06:51,237,Snowflake,we will circle back,I do not know,negative
+2024-05-22 10:06:50,238,Jenkins,that makes sense,that will not work,positive
+2024-05-22 10:06:49,239,Business Insurance,morning meeting,we will present this,negative
+2024-05-22 10:06:48,240,Guided Project,bang for your buck,that will not work,positive
+2024-05-22 10:06:47,241,Cloud,get the ball rolling,I do not know,positive
+2024-05-22 10:06:46,242,Sprint Planning,interesting,this makes no sense,negative
+2024-05-22 10:06:45,243,Python,moving forward,that will not work,positive
+2024-05-22 10:06:44,244,Claim,interesting,good idea,negative
+2024-05-22 10:06:43,245,NPM,that makes sense,happy to help,positive
+2024-05-22 10:06:42,246,Bond & Specialty Insurance,thanks for the help,good idea,negative
+2024-05-22 10:06:41,247,Bond & Specialty Insurance,out of left field,good idea,positive
+2024-05-22 10:06:40,248,SME,that makes sense,I do not know,positive
+2024-05-22 10:06:39,249,Risk Control,think outside the box,include me in the meeting,negative
+2024-05-22 10:06:38,250,Risk Control,we will circle back,we will present this,positive
+2024-05-22 10:06:37,251,Data Science,this is hard,bring the whole team in on this,negative
+2024-05-22 10:06:36,252,Cloud,morning meeting,good idea,positive
+2024-05-22 10:06:35,253,Knowledge Assessment,absolutely, ,positive
+2024-05-22 10:06:34,254,Webage,that makes sense,due by end of day,positive
+2024-05-22 10:06:33,255,NPM,no worries,schedule a meeting to discuss,negative
+2024-05-22 10:06:32,256,Risk Control,at the end of the day,bring the whole team in on this,negative
+2024-05-22 10:06:31,257,DevOps,think outside the box,schedule a meeting to discuss,negative
+2024-05-22 10:06:30,258,Risk Control,absolutely,due by end of day,positive
+2024-05-22 10:06:29,259,Claim,I am running out of ideas,bring the whole team in on this,positive
+2024-05-22 10:06:28,260,React,get the ball rolling, ,positive
+2024-05-22 10:06:27,261,Bond & Specialty Insurance,bang for your buck,good idea,positive
+2024-05-22 10:06:26,262,Claim,I am running out of ideas,happy to help,negative
+2024-05-22 10:06:25,263,Git,think outside the box,this is unrelated,positive
+2024-05-22 10:06:24,264,Claim,on the same page, ,positive
+2024-05-22 10:06:23,265,Personal Insurance,sorry to bother you,why is this required,negative
+2024-05-22 10:06:22,266,PostgresSQL,that being said,that will not work,positive
+2024-05-22 10:06:21,267,Jenkins,that being said,we will present this,negative
+2024-05-22 10:06:20,268,Snowflake,a no-brainer,we will present this,negative
+2024-05-22 10:06:19,269,Capstone,that makes sense,why is this required,negative
+2024-05-22 10:06:18,270,Claim,moving forward,bring the whole team in on this,negative
+2024-05-22 10:06:17,271,Personal Insurance,a no-brainer,due by end of day,positive
+2024-05-22 10:06:16,272,DevOps,get the ball rolling,due by end of day,positive
+2024-05-22 10:06:15,273,React,as per my last post,bring the whole team in on this,positive
+2024-05-22 10:06:14,274,TDD,it is what it is,please forward the document,positive
+2024-05-22 10:06:13,275,Risk Control,irregardless,I do not know,negative
+2024-05-22 10:06:12,276,Git,I am running out of ideas,this is unrelated,negative
+2024-05-22 10:06:11,277,PostgresSQL,amazing,happy to help,negative
+2024-05-22 10:06:10,278,Cloud,bang for your buck,bring the whole team in on this,positive
+2024-05-22 10:06:09,279,Webage,irregardless, ,negative
+2024-05-22 10:06:08,280,App Development,thanks for the help,include me in the meeting,positive
+2024-05-22 10:06:07,281,App Development,it is what it is,this makes no sense,negative
+2024-05-22 10:06:06,282,NPM,a no-brainer,this makes no sense,positive
+2024-05-22 10:06:05,283,Python,interesting,why is this required,negative
+2024-05-22 10:06:04,284,JavaScript,this is hard,good idea,negative
+2024-05-22 10:06:03,285,Capstone,get the ball rolling,schedule a meeting to discuss,negative
+2024-05-22 10:06:02,286,Webage,interesting,schedule a meeting to discuss,positive
+2024-05-22 10:06:01,287,Data Engineering,get the ball rolling, ,positive
+2024-05-22 10:06:00,288,Risk Control,interesting,schedule a meeting to discuss,negative
+2024-05-22 10:05:59,289,TDD,that being said,I do not know,negative
+2024-05-22 10:05:58,290,DevOps,at the end of the day,good idea,positive
+2024-05-22 10:05:57,291,Business Insurance,I need a partner,this is unrelated,positive
+2024-05-22 10:05:56,292,Webage,that makes sense,this makes no sense,negative
+2024-05-22 10:05:55,293,React,it is what it is,please forward the document,negative
+2024-05-22 10:05:54,294,SME,thanks for the help,due by end of day,negative
+2024-05-22 10:05:53,295,Knowledge Assessment,interesting,why is this required,negative
+2024-05-22 10:05:52,296,Guided Project,think outside the box,happy to help,negative
+2024-05-22 10:05:51,297,Snowflake,it is what it is, ,negative
+2024-05-22 10:05:50,298,Cloud,absolutely,this makes no sense,negative
+2024-05-22 10:05:49,299,Pair Programming,irregardless,I do not know,positive
+2024-05-22 10:05:48,300,Risk Control,provide the answer,please forward the document,negative
+2024-05-22 10:05:47,301,Risk Control,sorry to bother you,that will not work,negative
+2024-05-22 10:05:46,302,Personal Insurance,a no-brainer,this makes no sense,positive
+2024-05-22 10:05:45,303,JavaScript,I need a partner,we will present this,negative
+2024-05-22 10:05:44,304,Personal Insurance,this is hard,I do not know,positive
+2024-05-22 10:05:43,305,App Development,no worries,happy to help,positive
+2024-05-22 10:05:42,306,Git,sorry to bother you,please forward the document,negative
+2024-05-22 10:05:41,307,DevOps,out of left field,this is unrelated,positive
+2024-05-22 10:05:40,308,Snowflake,at the end of the day,include me in the meeting,positive
+2024-05-22 10:05:39,309,App Development,interesting,schedule a meeting to discuss,negative
+2024-05-22 10:05:38,310,SME,that being said,this is unrelated,positive
+2024-05-22 10:05:37,311,JavaScript,this is hard, ,negative
+2024-05-22 10:05:36,312,NPM,morning meeting,I do not know,negative
+2024-05-22 10:05:35,313,Guided Project,this is exhausting,happy to help,negative
+2024-05-22 10:05:34,314,App Development,amazing,happy to help,positive
+2024-05-22 10:05:33,315,Python,absolutely,happy to help,negative
+2024-05-22 10:05:32,316,Git,this is exhausting,I do not know,positive
+2024-05-22 10:05:31,317,Data Science,this is hard,why is this required,negative
+2024-05-22 10:05:30,318,JavaScript,we will circle back, ,positive
+2024-05-22 10:05:29,319,Pair Programming,at the end of the day,due by end of day,positive
+2024-05-22 10:05:28,320,Python,morning meeting,I do not know,negative
+2024-05-22 10:05:27,321,Data Science,sorry to bother you,good idea,negative
+2024-05-22 10:05:26,322,MERN,thanks for the help,this makes no sense,negative
+2024-05-22 10:05:25,323,Git,as per my last post,this is unrelated,positive
+2024-05-22 10:05:24,324,Snowflake,irregardless,due by end of day,negative
+2024-05-22 10:05:23,325,PostgresSQL,we will circle back,happy to help,positive
+2024-05-22 10:05:22,326,NPM,no worries,why is this required,negative
+2024-05-22 10:05:21,327,Risk Control,provide the answer,good idea,negative
+2024-05-22 10:05:20,328,Pair Programming,thanks for the help,due by end of day,positive
+2024-05-22 10:05:19,329,Data Engineering,on the same page,I do not know,positive
+2024-05-22 10:05:18,330,TDD,a no-brainer,this is unrelated,positive
+2024-05-22 10:05:17,331,Data Science,I do not know what to write, ,negative
+2024-05-22 10:05:16,332,Jenkins,at the end of the day,we will present this,negative
+2024-05-22 10:05:15,333,Data Science,absolutely,good idea,positive
+2024-05-22 10:05:14,334,PostgresSQL,bang for your buck,this makes no sense,negative
+2024-05-22 10:05:13,335,Capstone,out of left field,happy to help,negative
+2024-05-22 10:05:12,336,Python,out of left field,happy to help,negative
+2024-05-22 10:05:11,337,Sprint Planning,that being said,please forward the document,positive
+2024-05-22 10:05:10,338,Snowflake,I am running out of ideas,due by end of day,positive
+2024-05-22 10:05:09,339,Git,moving forward,bring the whole team in on this,negative
+2024-05-22 10:05:08,340,DevOps,bang for your buck,that will not work,positive
+2024-05-22 10:05:07,341,NPM,think outside the box,that will not work,positive
+2024-05-22 10:05:06,342,Jenkins,bang for your buck, ,negative
+2024-05-22 10:05:05,343,Risk Control,I do not know what to write,schedule a meeting to discuss,negative
+2024-05-22 10:05:04,344,Data Science,thanks for the help,this makes no sense,positive
+2024-05-22 10:05:03,345,Bond & Specialty Insurance,this is hard,happy to help,positive
+2024-05-22 10:05:02,346,JavaScript,I am running out of ideas,we will present this,positive
+2024-05-22 10:05:01,347,Knowledge Assessment,hit the ground running,that will not work,positive
+2024-05-22 10:05:00,348,Knowledge Assessment,sorry to bother you,include me in the meeting,positive
+2024-05-22 10:04:59,349,Data Science,this is hard,good idea,positive
+2024-05-22 10:04:58,350,PostgresSQL,that makes sense,bring the whole team in on this,positive
+2024-05-22 10:04:57,351,Sprint Planning,amazing,I do not know,negative
+2024-05-22 10:04:56,352,Cloud,I need a partner,we will present this,negative
+2024-05-22 10:04:55,353,NPM,amazing,this is unrelated,positive
+2024-05-22 10:04:54,354,SME,this is exhausting,that will not work,positive
+2024-05-22 10:04:53,355,NPM,morning meeting,please forward the document,negative
+2024-05-22 10:04:52,356,Webage,we will circle back,this makes no sense,positive
+2024-05-22 10:04:51,357,Jenkins,amazing,that will not work,negative
+2024-05-22 10:04:50,358,Business Insurance,I do not know what to write,I do not know,negative
+2024-05-22 10:04:49,359,Python,at the end of the day,this is unrelated,negative
+2024-05-22 10:04:48,360,Business Insurance,that being said,that will not work,positive
+2024-05-22 10:04:47,361,Git,it is what it is,I do not know,negative
+2024-05-22 10:04:46,362,SME,bang for your buck,include me in the meeting,positive
+2024-05-22 10:04:45,363,SME,moving forward,we will present this,positive
+2024-05-22 10:04:44,364,MERN,absolutely,good idea,positive
+2024-05-22 10:04:43,365,Claim,no worries,why is this required,positive
+2024-05-22 10:04:42,366,MERN,no worries,I do not know,negative
+2024-05-22 10:04:41,367,App Development,sorry to bother you,that will not work,positive
+2024-05-22 10:04:40,368,Knowledge Assessment,that being said,we will present this,positive
+2024-05-22 10:04:39,369,Git,I am running out of ideas,schedule a meeting to discuss,positive
+2024-05-22 10:04:38,370,MERN,at the end of the day,that will not work,negative
+2024-05-22 10:04:37,371,JavaScript,bang for your buck,bring the whole team in on this,negative
+2024-05-22 10:04:36,372,Cloud,a no-brainer,happy to help,positive
+2024-05-22 10:04:35,373,DevOps,a no-brainer,we will present this,negative
+2024-05-22 10:04:34,374,React,I need a partner,bring the whole team in on this,negative
+2024-05-22 10:04:33,375,MERN,at the end of the day,please forward the document,negative
+2024-05-22 10:04:32,376,PostgresSQL,as per my last post,this makes no sense,positive
+2024-05-22 10:04:31,377,Data Engineering,think outside the box,we will present this,positive
+2024-05-22 10:04:30,378,Jenkins,we will circle back,I do not know,negative
+2024-05-22 10:04:29,379,Guided Project,absolutely,this is unrelated,positive
+2024-05-22 10:04:28,380,JavaScript,out of left field,due by end of day,positive
+2024-05-22 10:04:27,381,SME,this is hard, ,positive
+2024-05-22 10:04:26,382,Cloud,on the same page,why is this required,positive
+2024-05-22 10:04:25,383,Risk Control,as per my last post, ,negative
+2024-05-22 10:04:24,384,Business Insurance,that makes sense,I do not know,negative
+2024-05-22 10:04:23,385,Python,morning meeting,why is this required,negative
+2024-05-22 10:04:22,386,Cloud,a no-brainer,why is this required,positive
+2024-05-22 10:04:21,387,Guided Project,a no-brainer,this makes no sense,positive
+2024-05-22 10:04:20,388,Data Engineering,irregardless,that will not work,positive
+2024-05-22 10:04:19,389,Guided Project,as per my last post,that will not work,positive
+2024-05-22 10:04:18,390,MERN,irregardless,include me in the meeting,positive
+2024-05-22 10:04:17,391,Guided Project,thanks for the help,that will not work,positive
+2024-05-22 10:04:16,392,App Development,provide the answer,due by end of day,negative
+2024-05-22 10:04:15,393,Risk Control,I do not know what to write,I do not know,negative
+2024-05-22 10:04:14,394,Git,moving forward,I do not know,positive
+2024-05-22 10:04:13,395,Claim,provide the answer,please forward the document,positive
+2024-05-22 10:04:12,396,TDD,hit the ground running,why is this required,negative
+2024-05-22 10:04:11,397,Guided Project,it is what it is,include me in the meeting,negative
+2024-05-22 10:04:10,398,Python,get the ball rolling, ,negative
+2024-05-22 10:04:09,399,Capstone,that being said,we will present this,negative
+2024-05-22 10:04:08,400,Personal Insurance,this is exhausting,that will not work,negative
+2024-05-22 10:04:07,401,Capstone,that makes sense,include me in the meeting,negative
+2024-05-22 10:04:06,402,Bond & Specialty Insurance,we will circle back,that will not work,negative
+2024-05-22 10:04:05,403,Data Engineering,irregardless,this makes no sense,negative
+2024-05-22 10:04:04,404,Business Insurance,amazing,due by end of day,positive
+2024-05-22 10:04:03,405,Cloud,that makes sense,happy to help,negative
+2024-05-22 10:04:02,406,MERN,amazing,this is unrelated,negative
+2024-05-22 10:04:01,407,Webage,thanks for the help,this makes no sense,positive
+2024-05-22 10:04:00,408,SME,amazing,this makes no sense,positive
+2024-05-22 10:03:59,409,TDD,get the ball rolling,this makes no sense,negative
+2024-05-22 10:03:58,410,Personal Insurance,this is exhausting,schedule a meeting to discuss,negative
+2024-05-22 10:03:57,411,DevOps,morning meeting,we will present this,negative
+2024-05-22 10:03:56,412,Sprint Planning,at the end of the day,due by end of day,positive
+2024-05-22 10:03:55,413,Pair Programming,bang for your buck,happy to help,positive
+2024-05-22 10:03:54,414,Capstone,as per my last post,schedule a meeting to discuss,negative
+2024-05-22 10:03:53,415,Guided Project,irregardless,this makes no sense,negative
+2024-05-22 10:03:52,416,Business Insurance,hit the ground running,good idea,negative
+2024-05-22 10:03:51,417,App Development,on the same page,good idea,positive
+2024-05-22 10:03:50,418,MERN,that being said,this makes no sense,positive
+2024-05-22 10:03:49,419,Knowledge Assessment,that being said, ,negative
+2024-05-22 10:03:48,420,React,no worries,bring the whole team in on this,negative
+2024-05-22 10:03:47,421,Git,a no-brainer,please forward the document,negative
+2024-05-22 10:03:46,422,Git,this is exhausting,we will present this,positive
+2024-05-22 10:03:45,423,Webage,think outside the box,I do not know,negative
+2024-05-22 10:03:44,424,Knowledge Assessment,that makes sense,due by end of day,positive
+2024-05-22 10:03:43,425,Claim,I need a partner,I do not know,positive
+2024-05-22 10:03:42,426,JavaScript,get the ball rolling, ,positive
+2024-05-22 10:03:41,427,Guided Project,a no-brainer,we will present this,negative
+2024-05-22 10:03:40,428,Claim,this is hard,this is unrelated,positive
+2024-05-22 10:03:39,429,DevOps,this is hard,I do not know,negative
+2024-05-22 10:03:38,430,TDD,think outside the box,why is this required,negative
+2024-05-22 10:03:37,431,Claim,I do not know what to write,please forward the document,negative
+2024-05-22 10:03:36,432,Claim,as per my last post,include me in the meeting,negative
+2024-05-22 10:03:35,433,Python,that makes sense,due by end of day,positive
+2024-05-22 10:03:34,434,Pair Programming,absolutely,due by end of day,negative
+2024-05-22 10:03:33,435,Data Engineering,provide the answer, ,negative
+2024-05-22 10:03:32,436,Snowflake,sorry to bother you,happy to help,negative
+2024-05-22 10:03:31,437,Risk Control,absolutely,happy to help,positive
+2024-05-22 10:03:30,438,NPM,that being said,why is this required,negative
+2024-05-22 10:03:29,439,Python,as per my last post,I do not know,positive
+2024-05-22 10:03:28,440,DevOps,I need a partner,include me in the meeting,negative
+2024-05-22 10:03:27,441,Sprint Planning,a no-brainer,this is unrelated,positive
+2024-05-22 10:03:26,442,Capstone,provide the answer,that will not work,negative
+2024-05-22 10:03:25,443,Personal Insurance,a no-brainer,we will present this,positive
+2024-05-22 10:03:24,444,Bond & Specialty Insurance,interesting,good idea,negative
+2024-05-22 10:03:23,445,Knowledge Assessment,moving forward,please forward the document,positive
+2024-05-22 10:03:22,446,JavaScript,bang for your buck,good idea,positive
+2024-05-22 10:03:21,447,TDD,morning meeting,bring the whole team in on this,positive
+2024-05-22 10:03:20,448,Pair Programming,I need a partner,this is unrelated,negative
+2024-05-22 10:03:19,449,TDD,on the same page,this is unrelated,positive
+2024-05-22 10:03:18,450,Data Engineering,I do not know what to write,we will present this,positive
+2024-05-22 10:03:17,451,Snowflake,that makes sense,please forward the document,negative
+2024-05-22 10:03:16,452,PostgresSQL,moving forward,due by end of day,positive
+2024-05-22 10:03:15,453,Claim,bang for your buck,that will not work,positive
+2024-05-22 10:03:14,454,Sprint Planning,I am running out of ideas,happy to help,negative
+2024-05-22 10:03:13,455,DevOps,irregardless,why is this required,negative
+2024-05-22 10:03:12,456,Webage,moving forward,include me in the meeting,negative
+2024-05-22 10:03:11,457,TDD,at the end of the day,this makes no sense,negative
+2024-05-22 10:03:10,458,Data Engineering,interesting,happy to help,negative
+2024-05-22 10:03:09,459,Snowflake,hit the ground running,good idea,positive
+2024-05-22 10:03:08,460,Python,I need a partner, ,negative
+2024-05-22 10:03:07,461,Capstone,thanks for the help, ,positive
+2024-05-22 10:03:06,462,Personal Insurance,this is hard,please forward the document,positive
+2024-05-22 10:03:05,463,Bond & Specialty Insurance,that makes sense,we will present this,positive
+2024-05-22 10:03:04,464,Guided Project,hit the ground running,I do not know,negative
+2024-05-22 10:03:03,465,Knowledge Assessment,get the ball rolling,I do not know,positive
+2024-05-22 10:03:02,466,JavaScript,sorry to bother you,schedule a meeting to discuss,negative
+2024-05-22 10:03:01,467,Business Insurance,irregardless,good idea,positive
+2024-05-22 10:03:00,468,Risk Control,out of left field,why is this required,positive
+2024-05-22 10:02:59,469,Pair Programming,that makes sense,why is this required,negative
+2024-05-22 10:02:58,470,Sprint Planning,at the end of the day,bring the whole team in on this,negative
+2024-05-22 10:02:57,471,Capstone,morning meeting,we will present this,negative
+2024-05-22 10:02:56,472,PostgresSQL,interesting,this is unrelated,negative
+2024-05-22 10:02:55,473,Cloud,morning meeting,we will present this,negative
+2024-05-22 10:02:54,474,Snowflake,I do not know what to write,this is unrelated,negative
+2024-05-22 10:02:53,475,Sprint Planning,bang for your buck, ,negative
+2024-05-22 10:02:52,476,TDD,this is exhausting,include me in the meeting,negative
+2024-05-22 10:02:51,477,Data Engineering,hit the ground running,this is unrelated,negative
+2024-05-22 10:02:50,478,Guided Project,moving forward,due by end of day,positive
+2024-05-22 10:02:49,479,MERN,amazing,happy to help,positive
+2024-05-22 10:02:48,480,Business Insurance,we will circle back,bring the whole team in on this,negative
+2024-05-22 10:02:47,481,Data Science,thanks for the help,include me in the meeting,negative
+2024-05-22 10:02:46,482,Claim,I am running out of ideas,bring the whole team in on this,negative
+2024-05-22 10:02:45,483,Cloud,sorry to bother you,bring the whole team in on this,negative
+2024-05-22 10:02:44,484,MERN,as per my last post,bring the whole team in on this,negative
+2024-05-22 10:02:43,485,NPM,interesting,schedule a meeting to discuss,negative
+2024-05-22 10:02:42,486,Risk Control,thanks for the help,why is this required,positive
+2024-05-22 10:02:41,487,JavaScript,hit the ground running, ,negative
+2024-05-22 10:02:40,488,Knowledge Assessment,provide the answer,that will not work,negative
+2024-05-22 10:02:39,489,Capstone,I do not know what to write,why is this required,negative
+2024-05-22 10:02:38,490,Sprint Planning,I do not know what to write,happy to help,negative
+2024-05-22 10:02:37,491,React,it is what it is,I do not know,negative
+2024-05-22 10:02:36,492,Git,provide the answer,please forward the document,positive
+2024-05-22 10:02:35,493,Risk Control,I am running out of ideas,include me in the meeting,negative
+2024-05-22 10:02:34,494,Snowflake,as per my last post,due by end of day,positive
+2024-05-22 10:02:33,495,Snowflake,sorry to bother you,schedule a meeting to discuss,negative
+2024-05-22 10:02:32,496,Knowledge Assessment,amazing,schedule a meeting to discuss,positive
+2024-05-22 10:02:31,497,Business Insurance,morning meeting,bring the whole team in on this,negative
+2024-05-22 10:02:30,498,Python,that being said,that will not work,negative
+2024-05-22 10:02:29,499,JavaScript,that being said,include me in the meeting,negative
+2024-05-22 10:02:28,500,Business Insurance,we will circle back, ,positive
+2024-05-22 10:02:27,501,Jenkins,interesting,include me in the meeting,positive
+2024-05-22 10:02:26,502,Cloud,this is exhausting,happy to help,positive
+2024-05-22 10:02:25,503,Bond & Specialty Insurance,this is exhausting,this is unrelated,positive
+2024-05-22 10:02:24,504,Data Engineering,this is exhausting,good idea,positive
+2024-05-22 10:02:23,505,Claim,a no-brainer,that will not work,negative
+2024-05-22 10:02:22,506,JavaScript,that being said,this is unrelated,negative
+2024-05-22 10:02:21,507,Capstone,provide the answer,this makes no sense,positive
+2024-05-22 10:02:20,508,JavaScript,that being said, ,positive
+2024-05-22 10:02:19,509,Pair Programming,thanks for the help,why is this required,negative
+2024-05-22 10:02:18,510,Webage,interesting, ,positive
+2024-05-22 10:02:17,511,Jenkins,amazing,include me in the meeting,negative
+2024-05-22 10:02:16,512,Business Insurance,morning meeting,schedule a meeting to discuss,negative
+2024-05-22 10:02:15,513,Capstone,morning meeting,that will not work,positive
+2024-05-22 10:02:14,514,Git,irregardless, ,negative
+2024-05-22 10:02:13,515,Sprint Planning,out of left field,include me in the meeting,positive
+2024-05-22 10:02:12,516,Personal Insurance,that makes sense,happy to help,positive
+2024-05-22 10:02:11,517,Sprint Planning,it is what it is,this is unrelated,negative
+2024-05-22 10:02:10,518,Jenkins,moving forward,I do not know,negative
+2024-05-22 10:02:09,519,Cloud,amazing,that will not work,positive
+2024-05-22 10:02:08,520,Sprint Planning,we will circle back,why is this required,negative
+2024-05-22 10:02:07,521,Webage,provide the answer,bring the whole team in on this,positive
+2024-05-22 10:02:06,522,Capstone,bang for your buck,this makes no sense,positive
+2024-05-22 10:02:05,523,Sprint Planning,on the same page,we will present this,negative
+2024-05-22 10:02:04,524,Risk Control,bang for your buck,this is unrelated,positive
+2024-05-22 10:02:03,525,Claim,this is exhausting,schedule a meeting to discuss,negative
+2024-05-22 10:02:02,526,Knowledge Assessment,I am running out of ideas,I do not know,negative
+2024-05-22 10:02:01,527,JavaScript,think outside the box,happy to help,positive
+2024-05-22 10:02:00,528,TDD,it is what it is,please forward the document,negative
+2024-05-22 10:01:59,529,Bond & Specialty Insurance,this is hard,schedule a meeting to discuss,positive
+2024-05-22 10:01:58,530,JavaScript,absolutely,this is unrelated,positive
+2024-05-22 10:01:57,531,Claim,get the ball rolling,I do not know,negative
+2024-05-22 10:01:56,532,Knowledge Assessment,sorry to bother you,that will not work,negative
+2024-05-22 10:01:55,533,React,it is what it is,this makes no sense,negative
+2024-05-22 10:01:54,534,Personal Insurance,as per my last post,that will not work,positive
+2024-05-22 10:01:53,535,Jenkins,out of left field,please forward the document,positive
+2024-05-22 10:01:52,536,Capstone,sorry to bother you,this makes no sense,negative
+2024-05-22 10:01:51,537,Sprint Planning,it is what it is,this makes no sense,negative
+2024-05-22 10:01:50,538,JavaScript,moving forward, ,negative
+2024-05-22 10:01:49,539,MERN,on the same page,this is unrelated,negative
+2024-05-22 10:01:48,540,Data Engineering,moving forward,I do not know,negative
+2024-05-22 10:01:47,541,React,I do not know what to write,due by end of day,positive
+2024-05-22 10:01:46,542,Data Science,think outside the box,this makes no sense,negative
+2024-05-22 10:01:45,543,Jenkins,hit the ground running,why is this required,positive
+2024-05-22 10:01:44,544,Git,on the same page,we will present this,positive
+2024-05-22 10:01:43,545,SME,bang for your buck,this is unrelated,positive
+2024-05-22 10:01:42,546,Snowflake,thanks for the help, ,positive
+2024-05-22 10:01:41,547,Capstone,I am running out of ideas,that will not work,negative
+2024-05-22 10:01:40,548,Cloud,a no-brainer,I do not know,negative
+2024-05-22 10:01:39,549,Jenkins,bang for your buck,schedule a meeting to discuss,positive
+2024-05-22 10:01:38,550,Webage,hit the ground running,good idea,negative
+2024-05-22 10:01:37,551,App Development,bang for your buck,this is unrelated,negative
+2024-05-22 10:01:36,552,App Development,get the ball rolling,include me in the meeting,positive
+2024-05-22 10:01:35,553,Guided Project,a no-brainer, ,negative
+2024-05-22 10:01:34,554,Capstone,this is hard, ,positive
+2024-05-22 10:01:33,555,Sprint Planning,at the end of the day, ,positive
+2024-05-22 10:01:32,556,Webage,on the same page,this makes no sense,positive
+2024-05-22 10:01:31,557,Personal Insurance,bang for your buck,this is unrelated,positive
+2024-05-22 10:01:30,558,JavaScript,that makes sense,this is unrelated,negative
+2024-05-22 10:01:29,559,Business Insurance,that makes sense,bring the whole team in on this,negative
+2024-05-22 10:01:28,560,Capstone,amazing,I do not know,negative
+2024-05-22 10:01:27,561,Python,provide the answer,include me in the meeting,positive
+2024-05-22 10:01:26,562,Personal Insurance,at the end of the day, ,positive
+2024-05-22 10:01:25,563,Webage,provide the answer,happy to help,negative
+2024-05-22 10:01:24,564,TDD,this is hard,I do not know,positive
+2024-05-22 10:01:23,565,Data Engineering,this is hard,please forward the document,positive
+2024-05-22 10:01:22,566,Business Insurance,a no-brainer,please forward the document,positive
+2024-05-22 10:01:21,567,Personal Insurance,on the same page,include me in the meeting,positive
+2024-05-22 10:01:20,568,Pair Programming,a no-brainer,this makes no sense,negative
+2024-05-22 10:01:19,569,Business Insurance,at the end of the day,this makes no sense,negative
+2024-05-22 10:01:18,570,React,I do not know what to write,I do not know,positive
+2024-05-22 10:01:17,571,Business Insurance,that being said,happy to help,negative
+2024-05-22 10:01:16,572,JavaScript,this is hard,due by end of day,positive
+2024-05-22 10:01:15,573,React,sorry to bother you,this makes no sense,positive
+2024-05-22 10:01:14,574,Python,absolutely,that will not work,positive
+2024-05-22 10:01:13,575,Claim,this is exhausting,due by end of day,negative
+2024-05-22 10:01:12,576,Sprint Planning,I do not know what to write,that will not work,negative
+2024-05-22 10:01:11,577,Data Science,out of left field,due by end of day,negative
+2024-05-22 10:01:10,578,TDD,that being said, ,negative
+2024-05-22 10:01:09,579,Jenkins,get the ball rolling,happy to help,negative
+2024-05-22 10:01:08,580,DevOps,I need a partner,we will present this,positive
+2024-05-22 10:01:07,581,App Development,I need a partner,bring the whole team in on this,negative
+2024-05-22 10:01:06,582,TDD,hit the ground running,this makes no sense,positive
+2024-05-22 10:01:05,583,MERN,as per my last post,schedule a meeting to discuss,negative
+2024-05-22 10:01:04,584,PostgresSQL,interesting,due by end of day,positive
+2024-05-22 10:01:03,585,Sprint Planning,interesting,that will not work,positive
+2024-05-22 10:01:02,586,SME,irregardless,we will present this,positive
+2024-05-22 10:01:01,587,Jenkins,sorry to bother you,schedule a meeting to discuss,positive
+2024-05-22 10:01:00,588,SME,think outside the box,bring the whole team in on this,positive
+2024-05-22 10:00:59,589,Business Insurance,interesting,include me in the meeting,negative
+2024-05-22 10:00:58,590,Risk Control,I do not know what to write, ,positive
+2024-05-22 10:00:57,591,Claim,as per my last post,that will not work,positive
+2024-05-22 10:00:56,592,DevOps,we will circle back,happy to help,negative
+2024-05-22 10:00:55,593,DevOps,out of left field,this makes no sense,positive
+2024-05-22 10:00:54,594,DevOps,we will circle back, ,positive
+2024-05-22 10:00:53,595,Business Insurance,that makes sense,we will present this,positive
+2024-05-22 10:00:52,596,MERN,amazing,good idea,positive
+2024-05-22 10:00:51,597,DevOps,amazing,happy to help,positive
+2024-05-22 10:00:50,598,MERN,interesting,this is unrelated,negative
+2024-05-22 10:00:49,599,Webage,irregardless,I do not know,positive
+2024-05-22 10:00:48,600,Python,provide the answer,I do not know,positive
+2024-05-22 10:00:47,601,Pair Programming,that makes sense,please forward the document,negative
+2024-05-22 10:00:46,602,Bond & Specialty Insurance,amazing,this makes no sense,positive
+2024-05-22 10:00:45,603,Git,that being said,we will present this,negative
+2024-05-22 10:00:44,604,Cloud,irregardless, ,negative
+2024-05-22 10:00:43,605,PostgresSQL,morning meeting,I do not know,negative
+2024-05-22 10:00:42,606,DevOps,think outside the box,this is unrelated,negative
+2024-05-22 10:00:41,607,App Development,amazing,why is this required,positive
+2024-05-22 10:00:40,608,Pair Programming,this is hard,why is this required,positive
+2024-05-22 10:00:39,609,JavaScript,irregardless,due by end of day,positive
+2024-05-22 10:00:38,610,NPM,I am running out of ideas,good idea,negative
+2024-05-22 10:00:37,611,Claim,no worries,why is this required,negative
+2024-05-22 10:00:36,612,Guided Project,moving forward,happy to help,positive
+2024-05-22 10:00:35,613,Claim,no worries,this makes no sense,positive
+2024-05-22 10:00:34,614,Data Engineering,amazing,please forward the document,negative
+2024-05-22 10:00:33,615,Personal Insurance,that makes sense,I do not know,negative
+2024-05-22 10:00:32,616,Cloud,sorry to bother you,please forward the document,negative
+2024-05-22 10:00:31,617,Snowflake,think outside the box, ,positive
+2024-05-22 10:00:30,618,Business Insurance,this is hard,happy to help,positive
+2024-05-22 10:00:29,619,DevOps,thanks for the help,I do not know,positive
+2024-05-22 10:00:28,620,DevOps,amazing,why is this required,positive
+2024-05-22 10:00:27,621,Git,moving forward,good idea,positive
+2024-05-22 10:00:26,622,React,thanks for the help,we will present this,negative
+2024-05-22 10:00:25,623,Sprint Planning,interesting,why is this required,negative
+2024-05-22 10:00:24,624,Sprint Planning,a no-brainer,schedule a meeting to discuss,positive
+2024-05-22 10:00:23,625,App Development,bang for your buck,why is this required,positive
+2024-05-22 10:00:22,626,Data Science,thanks for the help,why is this required,negative
+2024-05-22 10:00:21,627,React,I am running out of ideas,this is unrelated,positive
+2024-05-22 10:00:20,628,Personal Insurance,think outside the box,bring the whole team in on this,positive
+2024-05-22 10:00:19,629,MERN,think outside the box,due by end of day,positive
+2024-05-22 10:00:18,630,Risk Control,on the same page,this makes no sense,negative
+2024-05-22 10:00:17,631,Capstone,it is what it is,please forward the document,negative
+2024-05-22 10:00:16,632,TDD,no worries,this is unrelated,negative
+2024-05-22 10:00:15,633,NPM,thanks for the help,this makes no sense,positive
+2024-05-22 10:00:14,634,Personal Insurance,hit the ground running, ,negative
+2024-05-22 10:00:13,635,Claim,interesting,this is unrelated,negative
+2024-05-22 10:00:12,636,Knowledge Assessment,morning meeting, ,negative
+2024-05-22 10:00:11,637,Pair Programming,provide the answer,bring the whole team in on this,negative
+2024-05-22 10:00:10,638,Sprint Planning,hit the ground running,good idea,negative
+2024-05-22 10:00:09,639,TDD,it is what it is,I do not know,negative
+2024-05-22 10:00:08,640,Jenkins,provide the answer,due by end of day,negative
+2024-05-22 10:00:07,641,Jenkins,this is hard,we will present this,positive
+2024-05-22 10:00:06,642,Claim,I am running out of ideas,due by end of day,negative
+2024-05-22 10:00:05,643,Guided Project,moving forward,please forward the document,negative
+2024-05-22 10:00:04,644,Pair Programming,amazing, ,negative
+2024-05-22 10:00:03,645,App Development,as per my last post,we will present this,positive
+2024-05-22 10:00:02,646,App Development,get the ball rolling,I do not know,negative
+2024-05-22 10:00:01,647,Sprint Planning,a no-brainer,we will present this,positive
+2024-05-22 10:00:00,648,Jenkins,absolutely, ,positive
+2024-05-22 09:59:59,649,Knowledge Assessment,that makes sense,schedule a meeting to discuss,positive
+2024-05-22 09:59:58,650,Pair Programming,interesting,I do not know,positive
+2024-05-22 09:59:57,651,Webage,that makes sense,I do not know,negative
+2024-05-22 09:59:56,652,React,thanks for the help,happy to help,negative
+2024-05-22 09:59:55,653,MERN,as per my last post,why is this required,negative
+2024-05-22 09:59:54,654,Data Science,amazing,this is unrelated,negative
+2024-05-22 09:59:53,655,Knowledge Assessment,no worries,schedule a meeting to discuss,positive
+2024-05-22 09:59:52,656,Data Engineering,interesting,include me in the meeting,negative
+2024-05-22 09:59:51,657,DevOps,get the ball rolling,this makes no sense,positive
+2024-05-22 09:59:50,658,Bond & Specialty Insurance,this is hard,please forward the document,positive
+2024-05-22 09:59:49,659,Data Engineering,think outside the box,this is unrelated,positive
+2024-05-22 09:59:48,660,App Development,out of left field,that will not work,positive
+2024-05-22 09:59:47,661,MERN,we will circle back,we will present this,negative
+2024-05-22 09:59:46,662,Sprint Planning,that makes sense,include me in the meeting,positive
+2024-05-22 09:59:45,663,Knowledge Assessment,out of left field,we will present this,positive
+2024-05-22 09:59:44,664,Pair Programming,that being said,I do not know,negative
+2024-05-22 09:59:43,665,Bond & Specialty Insurance,that being said,please forward the document,negative
+2024-05-22 09:59:42,666,Sprint Planning,no worries,why is this required,negative
+2024-05-22 09:59:41,667,NPM,no worries,schedule a meeting to discuss,positive
+2024-05-22 09:59:40,668,Capstone,sorry to bother you,good idea,positive
+2024-05-22 09:59:39,669,Webage,at the end of the day,due by end of day,positive
+2024-05-22 09:59:38,670,Claim,a no-brainer,bring the whole team in on this,positive
+2024-05-22 09:59:37,671,Data Science,this is hard,this is unrelated,negative
+2024-05-22 09:59:36,672,Jenkins,it is what it is,include me in the meeting,negative
+2024-05-22 09:59:35,673,Personal Insurance,this is hard, ,positive
+2024-05-22 09:59:34,674,Cloud,think outside the box, ,negative
+2024-05-22 09:59:33,675,React,at the end of the day,why is this required,positive
+2024-05-22 09:59:32,676,Data Engineering,sorry to bother you,that will not work,positive
+2024-05-22 09:59:31,677,Business Insurance,that being said,due by end of day,negative
+2024-05-22 09:59:30,678,Cloud,bang for your buck,happy to help,negative
+2024-05-22 09:59:29,679,Risk Control,at the end of the day,bring the whole team in on this,positive
+2024-05-22 09:59:28,680,SME,it is what it is,that will not work,positive
+2024-05-22 09:59:27,681,Python,a no-brainer,that will not work,positive
+2024-05-22 09:59:26,682,DevOps,interesting,this is unrelated,negative
+2024-05-22 09:59:25,683,Claim,bang for your buck,please forward the document,positive
+2024-05-22 09:59:24,684,Python,hit the ground running,that will not work,positive
+2024-05-22 09:59:23,685,Risk Control,this is hard,good idea,negative
+2024-05-22 09:59:22,686,React,interesting,please forward the document,negative
+2024-05-22 09:59:21,687,TDD,that makes sense,we will present this,negative
+2024-05-22 09:59:20,688,Guided Project,thanks for the help,this is unrelated,negative
+2024-05-22 09:59:19,689,Sprint Planning,think outside the box,why is this required,positive
+2024-05-22 09:59:18,690,App Development,provide the answer, ,negative
+2024-05-22 09:59:17,691,Claim,think outside the box,that will not work,positive
+2024-05-22 09:59:16,692,Claim,I need a partner, ,negative
+2024-05-22 09:59:15,693,Python,irregardless,that will not work,positive
+2024-05-22 09:59:14,694,JavaScript,out of left field,please forward the document,positive
+2024-05-22 09:59:13,695,Sprint Planning,bang for your buck,we will present this,negative
+2024-05-22 09:59:12,696,App Development,it is what it is,this is unrelated,negative
+2024-05-22 09:59:11,697,Data Science,I am running out of ideas,schedule a meeting to discuss,negative
+2024-05-22 09:59:10,698,JavaScript,bang for your buck,this makes no sense,negative
+2024-05-22 09:59:09,699,Capstone,this is hard,I do not know,negative
+2024-05-22 09:59:08,700,TDD,that being said,include me in the meeting,negative
+2024-05-22 09:59:07,701,MERN,hit the ground running,happy to help,positive
+2024-05-22 09:59:06,702,NPM,get the ball rolling,please forward the document,positive
+2024-05-22 09:59:05,703,Business Insurance,irregardless,schedule a meeting to discuss,positive
+2024-05-22 09:59:04,704,Pair Programming,a no-brainer,good idea,positive
+2024-05-22 09:59:03,705,PostgresSQL,no worries,include me in the meeting,positive
+2024-05-22 09:59:02,706,Data Science,it is what it is,that will not work,positive
+2024-05-22 09:59:01,707,Business Insurance,think outside the box,bring the whole team in on this,negative
+2024-05-22 09:59:00,708,Knowledge Assessment,that makes sense,why is this required,negative
+2024-05-22 09:58:59,709,App Development,out of left field, ,negative
+2024-05-22 09:58:58,710,DevOps,at the end of the day,due by end of day,positive
+2024-05-22 09:58:57,711,Bond & Specialty Insurance,this is hard,include me in the meeting,negative
+2024-05-22 09:58:56,712,Guided Project,morning meeting,good idea,positive
+2024-05-22 09:58:55,713,Cloud,at the end of the day,we will present this,negative
+2024-05-22 09:58:54,714,Data Engineering,moving forward,good idea,negative
+2024-05-22 09:58:53,715,Pair Programming,hit the ground running,this is unrelated,negative
+2024-05-22 09:58:52,716,Python,that makes sense,schedule a meeting to discuss,negative
+2024-05-22 09:58:51,717,Python,provide the answer,I do not know,negative
+2024-05-22 09:58:50,718,Sprint Planning,this is hard,this is unrelated,positive
+2024-05-22 09:58:49,719,Git,as per my last post,I do not know,positive
+2024-05-22 09:58:48,720,Git,sorry to bother you,this makes no sense,negative
+2024-05-22 09:58:47,721,DevOps,amazing,why is this required,negative
+2024-05-22 09:58:46,722,Python,that being said,happy to help,negative
+2024-05-22 09:58:45,723,PostgresSQL,moving forward, ,negative
+2024-05-22 09:58:44,724,Data Engineering,I need a partner,good idea,negative
+2024-05-22 09:58:43,725,Guided Project,at the end of the day,good idea,positive
+2024-05-22 09:58:42,726,Python,morning meeting, ,negative
+2024-05-22 09:58:41,727,Cloud,we will circle back,we will present this,negative
+2024-05-22 09:58:40,728,NPM,this is hard,bring the whole team in on this,positive
+2024-05-22 09:58:39,729,Risk Control,out of left field,good idea,positive
+2024-05-22 09:58:38,730,DevOps,this is exhausting, ,positive
+2024-05-22 09:58:37,731,Cloud,provide the answer,I do not know,negative
+2024-05-22 09:58:36,732,Cloud,this is hard,that will not work,positive
+2024-05-22 09:58:35,733,PostgresSQL,it is what it is,include me in the meeting,positive
+2024-05-22 09:58:34,734,Knowledge Assessment,this is hard,I do not know,positive
+2024-05-22 09:58:33,735,Bond & Specialty Insurance,this is exhausting, ,negative
+2024-05-22 09:58:32,736,React,that being said,please forward the document,negative
+2024-05-22 09:58:31,737,DevOps,we will circle back,this is unrelated,negative
+2024-05-22 09:58:30,738,TDD,out of left field,this makes no sense,positive
+2024-05-22 09:58:29,739,Python,no worries,please forward the document,negative
+2024-05-22 09:58:28,740,Guided Project,it is what it is,bring the whole team in on this,negative
+2024-05-22 09:58:27,741,Knowledge Assessment,we will circle back,this is unrelated,positive
+2024-05-22 09:58:26,742,DevOps,as per my last post,this is unrelated,negative
+2024-05-22 09:58:25,743,JavaScript,get the ball rolling, ,positive
+2024-05-22 09:58:24,744,PostgresSQL,get the ball rolling,that will not work,positive
+2024-05-22 09:58:23,745,PostgresSQL,I do not know what to write,why is this required,positive
+2024-05-22 09:58:22,746,Sprint Planning,interesting, ,negative
+2024-05-22 09:58:21,747,Capstone,sorry to bother you,happy to help,negative
+2024-05-22 09:58:20,748,TDD,bang for your buck,that will not work,negative
+2024-05-22 09:58:19,749,Bond & Specialty Insurance,get the ball rolling,this makes no sense,negative
+2024-05-22 09:58:18,750,JavaScript,no worries,please forward the document,negative
+2024-05-22 09:58:17,751,PostgresSQL,a no-brainer,this is unrelated,positive
+2024-05-22 09:58:16,752,Webage,I need a partner,schedule a meeting to discuss,negative
+2024-05-22 09:58:15,753,NPM,get the ball rolling,that will not work,negative
+2024-05-22 09:58:14,754,Sprint Planning,think outside the box,this makes no sense,positive
+2024-05-22 09:58:13,755,Git,no worries,please forward the document,negative
+2024-05-22 09:58:12,756,Cloud,moving forward, ,positive
+2024-05-22 09:58:11,757,React,hit the ground running,bring the whole team in on this,positive
+2024-05-22 09:58:10,758,Cloud,as per my last post,this is unrelated,negative
+2024-05-22 09:58:09,759,Webage,amazing,happy to help,negative
+2024-05-22 09:58:08,760,DevOps,I need a partner,we will present this,negative
+2024-05-22 09:58:07,761,Capstone,it is what it is,include me in the meeting,negative
+2024-05-22 09:58:06,762,Claim,provide the answer,good idea,negative
+2024-05-22 09:58:05,763,Guided Project,that being said,bring the whole team in on this,negative
+2024-05-22 09:58:04,764,Sprint Planning,I need a partner,I do not know,positive
+2024-05-22 09:58:03,765,Python,hit the ground running,schedule a meeting to discuss,positive
+2024-05-22 09:58:02,766,Data Engineering,I am running out of ideas,this is unrelated,positive
+2024-05-22 09:58:01,767,Webage,amazing,bring the whole team in on this,positive
+2024-05-22 09:58:00,768,SME,I need a partner,we will present this,positive
+2024-05-22 09:57:59,769,Git,absolutely,include me in the meeting,positive
+2024-05-22 09:57:58,770,Business Insurance,as per my last post,this is unrelated,positive
+2024-05-22 09:57:57,771,Webage,bang for your buck,happy to help,negative
+2024-05-22 09:57:56,772,SME,absolutely,include me in the meeting,positive
+2024-05-22 09:57:55,773,Jenkins,this is exhausting,schedule a meeting to discuss,positive
+2024-05-22 09:57:54,774,Business Insurance,I do not know what to write,please forward the document,negative
+2024-05-22 09:57:53,775,Data Science,amazing,happy to help,negative
+2024-05-22 09:57:52,776,Risk Control,out of left field,happy to help,positive
+2024-05-22 09:57:51,777,SME,no worries,include me in the meeting,positive
+2024-05-22 09:57:50,778,Git,out of left field,we will present this,negative
+2024-05-22 09:57:49,779,Guided Project,no worries,why is this required,positive
+2024-05-22 09:57:48,780,PostgresSQL,interesting,happy to help,positive
+2024-05-22 09:57:47,781,Python,as per my last post,include me in the meeting,negative
+2024-05-22 09:57:46,782,JavaScript,on the same page,please forward the document,positive
+2024-05-22 09:57:45,783,JavaScript,out of left field,schedule a meeting to discuss,negative
+2024-05-22 09:57:44,784,MERN,this is exhausting,this is unrelated,negative
+2024-05-22 09:57:43,785,MERN,moving forward,good idea,negative
+2024-05-22 09:57:42,786,Snowflake,bang for your buck,this is unrelated,positive
+2024-05-22 09:57:41,787,PostgresSQL,thanks for the help,I do not know,positive
+2024-05-22 09:57:40,788,Data Science,I do not know what to write,schedule a meeting to discuss,negative
+2024-05-22 09:57:39,789,Python,thanks for the help,schedule a meeting to discuss,negative
+2024-05-22 09:57:38,790,Risk Control,I need a partner,we will present this,positive
+2024-05-22 09:57:37,791,MERN,out of left field,bring the whole team in on this,negative
+2024-05-22 09:57:36,792,Data Engineering,bang for your buck, ,positive
+2024-05-22 09:57:35,793,Cloud,thanks for the help, ,positive
+2024-05-22 09:57:34,794,PostgresSQL,hit the ground running,this makes no sense,positive
+2024-05-22 09:57:33,795,App Development,it is what it is,happy to help,negative
+2024-05-22 09:57:32,796,Data Science,hit the ground running,schedule a meeting to discuss,positive
+2024-05-22 09:57:31,797,Capstone,as per my last post,happy to help,negative
+2024-05-22 09:57:30,798,Cloud,bang for your buck,that will not work,positive
+2024-05-22 09:57:29,799,Git,moving forward,why is this required,positive
+2024-05-22 09:57:28,800,Guided Project,I need a partner,why is this required,positive
+2024-05-22 09:57:27,801,Pair Programming,I am running out of ideas,bring the whole team in on this,negative
+2024-05-22 09:57:26,802,Personal Insurance,sorry to bother you,bring the whole team in on this,negative
+2024-05-22 09:57:25,803,TDD,I need a partner,please forward the document,positive
+2024-05-22 09:57:24,804,React,it is what it is,due by end of day,positive
+2024-05-22 09:57:23,805,Git,get the ball rolling,schedule a meeting to discuss,negative
+2024-05-22 09:57:22,806,App Development,bang for your buck,please forward the document,positive
+2024-05-22 09:57:21,807,Cloud,that being said,I do not know,positive
+2024-05-22 09:57:20,808,Knowledge Assessment,interesting,good idea,positive
+2024-05-22 09:57:19,809,JavaScript,as per my last post,this is unrelated,positive
+2024-05-22 09:57:18,810,Guided Project,out of left field,this makes no sense,negative
+2024-05-22 09:57:17,811,Bond & Specialty Insurance,that makes sense,that will not work,positive
+2024-05-22 09:57:16,812,Claim,I need a partner,happy to help,negative
+2024-05-22 09:57:15,813,Claim,as per my last post,schedule a meeting to discuss,negative
+2024-05-22 09:57:14,814,JavaScript,I am running out of ideas,this makes no sense,positive
+2024-05-22 09:57:13,815,Git,think outside the box,we will present this,positive
+2024-05-22 09:57:12,816,Capstone,hit the ground running,schedule a meeting to discuss,negative
+2024-05-22 09:57:11,817,Webage,we will circle back,this makes no sense,negative
+2024-05-22 09:57:10,818,Claim,moving forward,happy to help,negative
+2024-05-22 09:57:09,819,SME,amazing,bring the whole team in on this,negative
+2024-05-22 09:57:08,820,Risk Control,this is hard,that will not work,positive
+2024-05-22 09:57:07,821,Personal Insurance,this is exhausting,due by end of day,negative
+2024-05-22 09:57:06,822,Webage,get the ball rolling,I do not know,negative
+2024-05-22 09:57:05,823,Guided Project,on the same page,happy to help,positive
+2024-05-22 09:57:04,824,Claim,on the same page,please forward the document,negative
+2024-05-22 09:57:03,825,Git,this is exhausting,happy to help,positive
+2024-05-22 09:57:02,826,Guided Project,it is what it is,please forward the document,negative
+2024-05-22 09:57:01,827,Webage,hit the ground running,schedule a meeting to discuss,positive
+2024-05-22 09:57:00,828,React,interesting,I do not know,negative
+2024-05-22 09:56:59,829,Git,on the same page,we will present this,positive
+2024-05-22 09:56:58,830,Knowledge Assessment,absolutely,include me in the meeting,positive
+2024-05-22 09:56:57,831,JavaScript,sorry to bother you,please forward the document,positive
+2024-05-22 09:56:56,832,Data Engineering,get the ball rolling,good idea,positive
+2024-05-22 09:56:55,833,Claim,no worries,bring the whole team in on this,negative
+2024-05-22 09:56:54,834,Data Science,at the end of the day,due by end of day,positive
+2024-05-22 09:56:53,835,Jenkins,I do not know what to write,I do not know,positive
+2024-05-22 09:56:52,836,Webage,as per my last post,we will present this,negative
+2024-05-22 09:56:51,837,Webage,as per my last post,why is this required,positive
+2024-05-22 09:56:50,838,PostgresSQL,a no-brainer,that will not work,positive
+2024-05-22 09:56:49,839,TDD,I am running out of ideas,why is this required,positive
+2024-05-22 09:56:48,840,SME,bang for your buck,include me in the meeting,negative
+2024-05-22 09:56:47,841,DevOps,think outside the box,I do not know,positive
+2024-05-22 09:56:46,842,Data Engineering,I am running out of ideas,why is this required,negative
+2024-05-22 09:56:45,843,Personal Insurance,amazing,schedule a meeting to discuss,negative
+2024-05-22 09:56:44,844,Knowledge Assessment,bang for your buck,that will not work,negative
+2024-05-22 09:56:43,845,Guided Project,I need a partner,this is unrelated,positive
+2024-05-22 09:56:42,846,Cloud,absolutely,that will not work,negative
+2024-05-22 09:56:41,847,PostgresSQL,a no-brainer,please forward the document,positive
+2024-05-22 09:56:40,848,Knowledge Assessment,amazing,that will not work,positive
+2024-05-22 09:56:39,849,Snowflake,that makes sense,bring the whole team in on this,positive
+2024-05-22 09:56:38,850,React,out of left field,we will present this,positive
+2024-05-22 09:56:37,851,PostgresSQL,a no-brainer,this is unrelated,negative
+2024-05-22 09:56:36,852,Data Engineering,moving forward,schedule a meeting to discuss,negative
+2024-05-22 09:56:35,853,JavaScript,hit the ground running, ,negative
+2024-05-22 09:56:34,854,Capstone,I am running out of ideas,include me in the meeting,negative
+2024-05-22 09:56:33,855,React,morning meeting,bring the whole team in on this,positive
+2024-05-22 09:56:32,856,TDD,get the ball rolling,I do not know,negative
+2024-05-22 09:56:31,857,Personal Insurance,think outside the box,this is unrelated,positive
+2024-05-22 09:56:30,858,Python,that makes sense,schedule a meeting to discuss,positive
+2024-05-22 09:56:29,859,Risk Control,hit the ground running,include me in the meeting,positive
+2024-05-22 09:56:28,860,App Development,sorry to bother you,we will present this,negative
+2024-05-22 09:56:27,861,PostgresSQL,no worries,bring the whole team in on this,negative
+2024-05-22 09:56:26,862,Pair Programming,thanks for the help,bring the whole team in on this,negative
+2024-05-22 09:56:25,863,Knowledge Assessment,I am running out of ideas,happy to help,positive
+2024-05-22 09:56:24,864,Bond & Specialty Insurance,I am running out of ideas,include me in the meeting,positive
+2024-05-22 09:56:23,865,Jenkins,get the ball rolling,please forward the document,positive
+2024-05-22 09:56:22,866,Guided Project,thanks for the help, ,negative
+2024-05-22 09:56:21,867,Personal Insurance,interesting,include me in the meeting,negative
+2024-05-22 09:56:20,868,Personal Insurance,I need a partner,happy to help,negative
+2024-05-22 09:56:19,869,MERN,moving forward,we will present this,negative
+2024-05-22 09:56:18,870,Data Engineering,moving forward,this is unrelated,negative
+2024-05-22 09:56:17,871,App Development,this is exhausting,we will present this,negative
+2024-05-22 09:56:16,872,Webage,I need a partner,due by end of day,positive
+2024-05-22 09:56:15,873,Jenkins,on the same page, ,negative
+2024-05-22 09:56:14,874,Capstone,I am running out of ideas,please forward the document,positive
+2024-05-22 09:56:13,875,DevOps,this is hard,happy to help,negative
+2024-05-22 09:56:12,876,DevOps,it is what it is,schedule a meeting to discuss,negative
+2024-05-22 09:56:11,877,React,bang for your buck,this is unrelated,negative
+2024-05-22 09:56:10,878,PostgresSQL,it is what it is,this is unrelated,positive
+2024-05-22 09:56:09,879,TDD,on the same page,this is unrelated,positive
+2024-05-22 09:56:08,880,Knowledge Assessment,we will circle back,that will not work,negative
+2024-05-22 09:56:07,881,Claim,on the same page,please forward the document,negative
+2024-05-22 09:56:06,882,Python,no worries,why is this required,positive
+2024-05-22 09:56:05,883,Sprint Planning,we will circle back, ,positive
+2024-05-22 09:56:04,884,Bond & Specialty Insurance,this is hard,good idea,negative
+2024-05-22 09:56:03,885,MERN,that makes sense,this makes no sense,positive
+2024-05-22 09:56:02,886,Jenkins,out of left field,happy to help,positive
+2024-05-22 09:56:01,887,MERN,that being said,good idea,negative
+2024-05-22 09:56:00,888,Data Science,we will circle back,happy to help,negative
+2024-05-22 09:55:59,889,NPM,this is exhausting,happy to help,positive
+2024-05-22 09:55:58,890,Python,I need a partner,schedule a meeting to discuss,positive
+2024-05-22 09:55:57,891,Data Engineering,this is hard,happy to help,positive
+2024-05-22 09:55:56,892,SME,I am running out of ideas,this makes no sense,positive
+2024-05-22 09:55:55,893,Sprint Planning,think outside the box,that will not work,positive
+2024-05-22 09:55:54,894,MERN,moving forward,bring the whole team in on this,negative
+2024-05-22 09:55:53,895,React,absolutely,we will present this,positive
+2024-05-22 09:55:52,896,MERN,a no-brainer,why is this required,positive
+2024-05-22 09:55:51,897,Cloud,this is exhausting,this makes no sense,negative
+2024-05-22 09:55:50,898,Jenkins,moving forward,this makes no sense,negative
+2024-05-22 09:55:49,899,Data Science,no worries,happy to help,negative
+2024-05-22 09:55:48,900,MERN,hit the ground running,good idea,negative
+2024-05-22 09:55:47,901,Webage,as per my last post,schedule a meeting to discuss,negative
+2024-05-22 09:55:46,902,Business Insurance,sorry to bother you,this is unrelated,positive
+2024-05-22 09:55:45,903,PostgresSQL,think outside the box,that will not work,negative
+2024-05-22 09:55:44,904,Cloud,at the end of the day,include me in the meeting,negative
+2024-05-22 09:55:43,905,Jenkins,a no-brainer,due by end of day,negative
+2024-05-22 09:55:42,906,Python,I do not know what to write,schedule a meeting to discuss,positive
+2024-05-22 09:55:41,907,SME,that makes sense,we will present this,positive
+2024-05-22 09:55:40,908,Business Insurance,it is what it is,good idea,negative
+2024-05-22 09:55:39,909,Webage,bang for your buck,good idea,negative
+2024-05-22 09:55:38,910,Git,hit the ground running,bring the whole team in on this,positive
+2024-05-22 09:55:37,911,NPM,sorry to bother you,we will present this,negative
+2024-05-22 09:55:36,912,SME,it is what it is,that will not work,negative
+2024-05-22 09:55:35,913,Bond & Specialty Insurance,sorry to bother you,schedule a meeting to discuss,negative
+2024-05-22 09:55:34,914,Guided Project,no worries,happy to help,negative
+2024-05-22 09:55:33,915,Personal Insurance,a no-brainer,include me in the meeting,positive
+2024-05-22 09:55:32,916,Git,I am running out of ideas,schedule a meeting to discuss,negative
+2024-05-22 09:55:31,917,Jenkins,a no-brainer,this is unrelated,negative
+2024-05-22 09:55:30,918,Webage,thanks for the help,we will present this,positive
+2024-05-22 09:55:29,919,Knowledge Assessment,no worries,include me in the meeting,positive
+2024-05-22 09:55:28,920,Personal Insurance,this is hard,please forward the document,negative
+2024-05-22 09:55:27,921,Python,this is exhausting,we will present this,negative
+2024-05-22 09:55:26,922,Data Engineering,hit the ground running,please forward the document,negative
+2024-05-22 09:55:25,923,Data Engineering,it is what it is,happy to help,positive
+2024-05-22 09:55:24,924,NPM,get the ball rolling,happy to help,positive
+2024-05-22 09:55:23,925,Webage,at the end of the day,that will not work,negative
+2024-05-22 09:55:22,926,Data Engineering,we will circle back,please forward the document,negative
+2024-05-22 09:55:21,927,Sprint Planning,that being said,include me in the meeting,positive
+2024-05-22 09:55:20,928,Risk Control,I need a partner,due by end of day,positive
+2024-05-22 09:55:19,929,Business Insurance,hit the ground running,good idea,positive
+2024-05-22 09:55:18,930,Data Science,that makes sense,we will present this,negative
+2024-05-22 09:55:17,931,Cloud,at the end of the day,this is unrelated,negative
+2024-05-22 09:55:16,932,Git,I am running out of ideas,include me in the meeting,positive
+2024-05-22 09:55:15,933,Bond & Specialty Insurance,a no-brainer, ,positive
+2024-05-22 09:55:14,934,MERN,morning meeting, ,positive
+2024-05-22 09:55:13,935,PostgresSQL,that makes sense,this is unrelated,positive
+2024-05-22 09:55:12,936,Bond & Specialty Insurance,bang for your buck,include me in the meeting,positive
+2024-05-22 09:55:11,937,Personal Insurance,get the ball rolling,that will not work,negative
+2024-05-22 09:55:10,938,Git,this is exhausting,this is unrelated,positive
+2024-05-22 09:55:09,939,DevOps,that makes sense,include me in the meeting,negative
+2024-05-22 09:55:08,940,Snowflake,that being said,please forward the document,negative
+2024-05-22 09:55:07,941,React,absolutely,good idea,negative
+2024-05-22 09:55:06,942,Knowledge Assessment,out of left field,why is this required,negative
+2024-05-22 09:55:05,943,Risk Control,morning meeting,good idea,negative
+2024-05-22 09:55:04,944,Jenkins,hit the ground running,this is unrelated,positive
+2024-05-22 09:55:03,945,Jenkins,get the ball rolling,include me in the meeting,negative
+2024-05-22 09:55:02,946,Pair Programming,no worries,bring the whole team in on this,positive
+2024-05-22 09:55:01,947,Data Engineering,it is what it is,I do not know,positive
+2024-05-22 09:55:00,948,Data Science,thanks for the help,bring the whole team in on this,positive
+2024-05-22 09:54:59,949,TDD,I do not know what to write, ,positive
+2024-05-22 09:54:58,950,App Development,as per my last post,schedule a meeting to discuss,positive
+2024-05-22 09:54:57,951,React,we will circle back,this makes no sense,negative
+2024-05-22 09:54:56,952,Sprint Planning,I am running out of ideas,this makes no sense,positive
+2024-05-22 09:54:55,953,Capstone,this is exhausting,why is this required,negative
+2024-05-22 09:54:54,954,Data Science,that being said,bring the whole team in on this,negative
+2024-05-22 09:54:53,955,Sprint Planning,provide the answer,I do not know,positive
+2024-05-22 09:54:52,956,MERN,it is what it is,bring the whole team in on this,positive
+2024-05-22 09:54:51,957,Python,irregardless,we will present this,positive
+2024-05-22 09:54:50,958,Webage,irregardless,bring the whole team in on this,positive
+2024-05-22 09:54:49,959,MERN,interesting,please forward the document,positive
+2024-05-22 09:54:48,960,Knowledge Assessment,that being said,due by end of day,negative
+2024-05-22 09:54:47,961,Business Insurance,interesting,why is this required,negative
+2024-05-22 09:54:46,962,Pair Programming,think outside the box,happy to help,positive
+2024-05-22 09:54:45,963,SME,at the end of the day,this is unrelated,negative
+2024-05-22 09:54:44,964,Sprint Planning,this is exhausting,we will present this,negative
+2024-05-22 09:54:43,965,NPM,interesting,schedule a meeting to discuss,positive
+2024-05-22 09:54:42,966,MERN,it is what it is,please forward the document,positive
+2024-05-22 09:54:41,967,Risk Control,it is what it is,happy to help,positive
+2024-05-22 09:54:40,968,Sprint Planning,as per my last post,include me in the meeting,positive
+2024-05-22 09:54:39,969,Snowflake,sorry to bother you,we will present this,positive
+2024-05-22 09:54:38,970,Risk Control,on the same page,due by end of day,positive
+2024-05-22 09:54:37,971,Business Insurance,on the same page,good idea,negative
+2024-05-22 09:54:36,972,Capstone,morning meeting, ,negative
+2024-05-22 09:54:35,973,TDD,as per my last post,good idea,negative
+2024-05-22 09:54:34,974,Data Engineering,on the same page, ,negative
+2024-05-22 09:54:33,975,App Development,this is hard,due by end of day,positive
+2024-05-22 09:54:32,976,React,get the ball rolling,schedule a meeting to discuss,negative
+2024-05-22 09:54:31,977,Python,morning meeting,happy to help,negative
+2024-05-22 09:54:30,978,Claim,it is what it is,I do not know,positive
+2024-05-22 09:54:29,979,Bond & Specialty Insurance,we will circle back,why is this required,negative
+2024-05-22 09:54:28,980,Business Insurance,this is hard,include me in the meeting,negative
+2024-05-22 09:54:27,981,Data Engineering,on the same page,happy to help,negative
+2024-05-22 09:54:26,982,Webage,at the end of the day,we will present this,negative
+2024-05-22 09:54:25,983,Webage,morning meeting,that will not work,positive
+2024-05-22 09:54:24,984,PostgresSQL,I am running out of ideas,that will not work,positive
+2024-05-22 09:54:23,985,Sprint Planning,I need a partner,I do not know,negative
+2024-05-22 09:54:22,986,Guided Project,sorry to bother you,that will not work,positive
+2024-05-22 09:54:21,987,Git,get the ball rolling,include me in the meeting,negative
+2024-05-22 09:54:20,988,Business Insurance,I am running out of ideas,that will not work,positive
+2024-05-22 09:54:19,989,Cloud,amazing,why is this required,negative
+2024-05-22 09:54:18,990,Risk Control,it is what it is,good idea,negative
+2024-05-22 09:54:17,991,Knowledge Assessment,absolutely,please forward the document,positive
+2024-05-22 09:54:16,992,Pair Programming,morning meeting,good idea,positive
+2024-05-22 09:54:15,993,Knowledge Assessment,that being said,schedule a meeting to discuss,negative
+2024-05-22 09:54:14,994,SME,at the end of the day,please forward the document,negative
+2024-05-22 09:54:13,995,Pair Programming,moving forward,we will present this,positive
+2024-05-22 09:54:12,996,App Development,sorry to bother you,why is this required,negative
+2024-05-22 09:54:11,997,MERN,that being said,this is unrelated,negative
+2024-05-22 09:54:10,998,DevOps,this is exhausting,we will present this,negative
+2024-05-22 09:54:09,999,Snowflake,at the end of the day,due by end of day,positive
+2024-05-22 09:54:08,1000,Jenkins,we will circle back, ,negative
