@@ -1,9 +1,10 @@
 import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
 
 function LoginForm() {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
-  const [userInfo, setUserInfo] = useState([]);
+  const navigate = useNavigate();
 
   const handleLogin = async (event) => {
     event.preventDefault();
@@ -20,8 +21,7 @@ function LoginForm() {
         throw new Error("Data could not be fetched!");
       }
       let json_response = await response.json();
-      console.log("json response: ", json_response);
-      // setUserInfo(json_response);
+      navigate(`/employee/${json_response?.employeeId}`);
     } catch (error) {
       console.error("Error fetching user info:", error);
     }
