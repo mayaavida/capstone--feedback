@@ -1,5 +1,5 @@
 import express from "express";
-import { MongoClient, ObjectId } from "mongodb";
+import { MongoClient } from "mongodb";
 import dotenv from "dotenv";
 import cors from "cors";
 
@@ -10,23 +10,46 @@ const collectionName = process.env.MONGO_DB_COLLECTION;
 
 const app = express();
 app.use(cors());
+app.use(express.json());
 const PORT = 3000;
 
-// Endpoint to read and send JSON file content
-app.get("/", async (_req, res) => {
+// Endpoint to get employee info for a certain id
+app.get("/employee/:id", async (req, res) => {
   try {
+    const { id } = req.params;
     const client = await MongoClient.connect(url);
     const db = client.db(dbName);
     const collection = db.collection(collectionName);
-    const socks = await collection.find({}).toArray();
-    res.json(socks);
+    const employeeInfo = await collection
+      .find({ employeeId: parseInt(id) })
+      .toArray();
+    res.json(employeeInfo);
   } catch (err) {
     console.error("Error:", err);
-    res.status(500).send("Hmmm, something went wrong");
+    res.status(500).send("Hmmm, no employee info for you! ☹");
   }
 });
 
-app.post("/", async (req, res) => {
+app.get("/getemployee/:username", async (req, res) => {
+  try {
+    const { username } = req.params;
+    console.log('username on server: ', username);
+    const client = await MongoClient.connect(url);
+    const db = client.db(dbName);
+    const collection = db.collection(collectionName);
+    const employeeInfo = await collection.findOne({
+      "employeeDetails.username": username,
+    });
+    console.log("employeeInfo? ", employeeInfo);
+    res.json(employeeInfo);
+  } catch (err) {
+    console.error("Error:", err);
+    res.status(500).send("Hmmm, no employee info for you! ☹");
+  }
+});
+
+app.post("/register", async (req, res) => {
+  console.log("newUser on server side: ", req.body);
   try {
     const newUser = req.body;
     const client = await MongoClient.connect(url);

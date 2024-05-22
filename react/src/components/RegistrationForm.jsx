@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { useNavigate } from "react-router-dom";
 
 function RegistrationForm() {
   const [firstName, setFirstName] = useState("");
@@ -10,24 +11,30 @@ function RegistrationForm() {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
   const [employeeType, setEmployeeType] = useState(false);
+  const navigate = useNavigate();
 
   const handleRegistration = async (event) => {
     event.preventDefault();
     const newUser = {
-      firstName: firstName,
-      lastname: lastName,
-      workEmail: workEmail,
-      company: company,
-      lineOfBusiness: lineOfBusiness,
-      manager: manager,
-      username: username,
-      password: password,
-      isManager: employeeType,
+      employeeDetails: {
+        firstName: firstName,
+        lastname: lastName,
+        workEmail: workEmail,
+        company: company,
+        lineOfBusiness: lineOfBusiness,
+        manager: manager,
+        username: username,
+        password: password,
+        isManager: employeeType,
+      },
+      employeeId: Math.floor(Math.random() * 1001),
+      employeePosts: [],
+      employeesManaged: []
     };
     console.log("new user: ", newUser);
     try {
       // POST request to the API to add a new user
-      const response = await fetch("http://localhost:3000", {
+      const response = await fetch("http://localhost:3000/register", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -44,6 +51,7 @@ function RegistrationForm() {
     } catch (error) {
       console.error("Error posting data", error);
     }
+    navigate(`/employee/${newUser.employeeId}`)
   };
 
   return (

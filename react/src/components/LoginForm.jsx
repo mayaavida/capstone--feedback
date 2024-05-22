@@ -3,11 +3,28 @@ import React, { useState } from "react";
 function LoginForm() {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
+  const [userInfo, setUserInfo] = useState([]);
 
   const handleLogin = async (event) => {
     event.preventDefault();
-    console.log(username, password);
-   
+    console.log("username and password: ", username, password);
+    fetchUserID(username);
+  };
+
+  const fetchUserID = async (username) => {
+    try {
+      const response = await fetch(
+        `http://localhost:3000/getemployee/${username}`
+      );
+      if (!response.ok) {
+        throw new Error("Data could not be fetched!");
+      }
+      let json_response = await response.json();
+      console.log("json response: ", json_response);
+      // setUserInfo(json_response);
+    } catch (error) {
+      console.error("Error fetching user info:", error);
+    }
   };
 
   return (
