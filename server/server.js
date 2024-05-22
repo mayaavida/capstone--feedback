@@ -37,14 +37,14 @@ app.get("/employee/:id/posts", async (req, res) => {
     const client = await MongoClient.connect(url);
     const db = client.db(dbName);
     const collection = db.collection(employeesCollection);
-    const employeeInfo = await collection
-      .find({ employeeId: parseInt(id) })
-      .toArray();
-    const posts = employeeInfo[0]?.employeePosts;
-    console.log("post ids on server:", posts);
+    const employeeInfo = await collection.findOne({ employeeId: parseInt(id) });
+    console.log("employee info: ", employeeInfo);
+    const posts = employeeInfo?.employeePosts;
+    const stringPosts = posts.map((item) => item.toString());
+    console.log("employee posts:", stringPosts);
     const secondCollection = db.collection(postsCollection);
     const employeePosts = await secondCollection
-      .find({ post_id: { $in:posts } })
+      .find({ post_id: { $in: stringPosts } })
       .toArray();
     console.log("employeePosts: ", employeePosts);
     res.json(employeePosts);

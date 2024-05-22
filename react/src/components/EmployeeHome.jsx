@@ -29,7 +29,7 @@ function EmployeeHome() {
         }
         let json_response = await response.json();
         console.log("employee posts response: ", json_response);
-        setEmployeePosts(json_response);
+        setEmployeePosts(json_response[0]);
       } catch (error) {
         console.error("Error fetching employee info:", error);
       }
@@ -77,6 +77,11 @@ function EmployeeHome() {
           }}
         >
           <h4>Posts</h4>
+          <div>
+            <h5>{employeePosts?.subject}</h5>
+            <p>{employeePosts?.content}</p>
+            <p>{employeePosts?.timestamp}</p>
+          </div>
         </div>
       </div>
     </div>
