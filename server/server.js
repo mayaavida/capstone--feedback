@@ -6,7 +6,8 @@ import cors from "cors";
 dotenv.config();
 const url = process.env.MONGO_DB_URL;
 const dbName = process.env.MONGO_DB;
-const collectionName = process.env.MONGO_DB_COLLECTION;
+const employeesCollection = process.env.EMPLOYEES_COLLECTION;
+const postsCollection = process.env.POSTS_COLLECTION;
 
 const app = express();
 app.use(cors());
@@ -19,7 +20,7 @@ app.get("/employee/:id", async (req, res) => {
     const { id } = req.params;
     const client = await MongoClient.connect(url);
     const db = client.db(dbName);
-    const collection = db.collection(collectionName);
+    const collection = db.collection(employeesCollection);
     const employeeInfo = await collection
       .find({ employeeId: parseInt(id) })
       .toArray();
@@ -30,10 +31,33 @@ app.get("/employee/:id", async (req, res) => {
   }
 });
 
+app.get("/employee/:id/posts", async (req, res) => {
+  try {
+    const { id } = req.params;
+    const client = await MongoClient.connect(url);
+    const db = client.db(dbName);
+    const collection = db.collection(employeesCollection);
+    const employeeInfo = await collection
+      .find({ employeeId: parseInt(id) })
+      .toArray();
+    const posts = employeeInfo[0]?.employeePosts;
+    console.log("post ids on server:", posts);
+    const secondCollection = db.collection(postsCollection);
+    const employeePosts = await secondCollection
+      .find({ post_id: { $in:posts } })
+      .toArray();
+    console.log("employeePosts: ", employeePosts);
+    res.json(employeePosts);
+  } catch (err) {
+    console.error("Error:", err);
+    res.status(500).send("Hmmm, no employee info for you! ☹");
+  }
+});
+
 app.get("/getemployee/:username", async (req, res) => {
   try {
     const { username } = req.params;
-    console.log('username on server: ', username);
+    console.log("username on server: ", username);
     const client = await MongoClient.connect(url);
     const db = client.db(dbName);
     const collection = db.collection(collectionName);
@@ -67,6 +91,8 @@ app.post("/register", async (req, res) => {
     res.status(500).send("Hmmm, that didn't work:(");
   }
 });
+
+//Request for multiple posts from an employee
 
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
