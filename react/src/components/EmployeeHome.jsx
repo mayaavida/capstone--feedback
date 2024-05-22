@@ -13,10 +13,8 @@ function EmployeeHome() {
           throw new Error("Data could not be fetched!");
         }
         let json_response = await response.json();
-        console.log("json response: ", json_response);
 
         setEmployeeInfo(json_response[0]);
-        console.log("employee info: ", employeeInfo);
       } catch (error) {
         console.error("Error fetching employee info:", error);
       }
