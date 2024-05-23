@@ -117,6 +117,49 @@ app.post("/register", async (req, res) => {
   }
 });
 
+//store new posts for employee
+app.post("/employee/:id/newPost", async (req, res) => {
+  console.log("newPost on server side: ", req.body);
+  try {
+    const newPost = req.body;
+    const client = await MongoClient.connect(url);
+    const db = client.db(dbName);
+    const collection = db.collection(postsCollection);
+    collection.insertOne(newPost);
+
+    //Respond with the created post information and a 201 created status
+    res.status(201).send({
+      states: "success",
+      message: "Post created successfully.",
+    });
+  } catch (err) {
+    console.error("Error:", err);
+    res.status(500).send("Hmmm, that didn't work!");
+  }
+});
+
+//send request with new post to respective employee
+app.put("/employee/:id/update", async (req, res) => {
+  console.log("new post id: ", req.body);
+  console.log("req.params", req.params);
+  try {
+    const newUserPost = req.body;
+    const client = await MongoClient.connect(url);
+    const db = client.db(dbName);
+    const collection = db.collection(employeesCollection);
+    // collection.updateOne({$id} = _id, {$push}: post_id);
+
+    //Respond with the created post information and a 201 created status
+    res.status(201).send({
+      states: "success",
+      message: "Post created successfully.",
+    });
+  } catch (err) {
+    console.error("Error:", err);
+    res.status(500).send("Hmmm, that didn't work!");
+  }
+})
+
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);
 });
