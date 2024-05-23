@@ -1,10 +1,19 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
+// import { AuthContext } from "../context/AuthContext";
+import { useNavigate } from "react-router-dom";
 
 function EmployeeHome() {
   const { id } = useParams();
   const [employeeInfo, setEmployeeInfo] = useState([]);
   const [employeePosts, setEmployeePosts] = useState([]);
+  // const { authState } = useContext(AuthContext);
+
+  let navigate = useNavigate();
+  const routeChange = () => {
+    let path = `/employee/${id}/newPost`;
+    navigate(path);
+  }
 
   useEffect(() => {
     const fetchEmployeeInfo = async (id) => {
@@ -85,6 +94,9 @@ function EmployeeHome() {
             </div>
           ))}
         </div>
+        <button color = "green" type="submit" className="btn btn-primary" onClick={routeChange}>
+          Create New Post
+        </button>
       </div>
     </div>
   );

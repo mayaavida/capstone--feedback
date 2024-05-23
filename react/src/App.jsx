@@ -5,6 +5,7 @@ import Home from "./components/Home";
 import LoginForm from "./components/LoginForm";
 import RegistrationForm from "./components/RegistrationForm";
 import EmployeeHome from "./components/EmployeeHome";
+import NewPostForm from "./components/NewPostForm";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
         <Route path="/login" element={<LoginForm />} />
         <Route path="/register" element={<RegistrationForm />} />
         <Route path="/employee/:id" element={<EmployeeHome />} />
+        <Route path="/employee/:id/newPost" element={<NewPostForm />} />
       </Routes>
     </Router>
   );
