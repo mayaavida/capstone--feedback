@@ -1,4 +1,5 @@
-[{
+[
+  {
     "employeeDetails": {
       "firstName": "Maya",
       "lastName": "Peters",
@@ -11,39 +12,71 @@
       "isManager": "false"
     },
     "employeeId": 1,
-    "employeePosts": [2],
+    "employeePosts": [2, 200, 204],
     "employeesManaged": []
-},
-{
-  "employeeDetails": {
-    "firstName": "Martha",
-    "lastName": "Peterson",
-    "workEmail": "mpeterson14@travelers.com",
-    "company": "Travelers",
-    "lineOfBusiness": "Claim",
-    "manager": "",
-    "username": "martha1",
-    "password": "martha",
-    "isManager": "true"
   },
-  "employeeId": 2,
-  "employeePosts": [],
-  "employeesManaged": [4, 5]
-},
-{
-  "employeeDetails": {
-    "firstName": "Emily",
-    "lastName": "Schumann",
-    "workEmail": "eschuman@travelers.com",
-    "company": "Travelers",
-    "lineOfBusiness": "Business Insurance",
-    "manager": "Kalpesh Patel",
-    "username": "eschumann",
-    "password": "emily",
-    "isManager": "false"
+  {
+    "employeeDetails": {
+      "firstName": "Martha",
+      "lastName": "Peterson",
+      "workEmail": "mpeterson14@travelers.com",
+      "company": "Travelers",
+      "lineOfBusiness": "Claim",
+      "manager": "",
+      "username": "martha1",
+      "password": "martha",
+      "isManager": "true"
+    },
+    "employeeId": 2,
+    "employeePosts": [],
+    "employeesManaged": [4, 5]
   },
-  "employeeId": 3,
-  "employeePosts": [1],
-  "employeesManaged": []
-}
+  {
+    "employeeDetails": {
+      "firstName": "Emily",
+      "lastName": "Schumann",
+      "workEmail": "eschuman@travelers.com",
+      "company": "Travelers",
+      "lineOfBusiness": "Business Insurance",
+      "manager": "Kalpesh Patel",
+      "username": "eschumann",
+      "password": "emily",
+      "isManager": "false"
+    },
+    "employeeId": 3,
+    "employeePosts": [1, 676, 900],
+    "employeesManaged": []
+  },
+  {
+    "employeeDetails": {
+      "firstName": "Gordon",
+      "lastName": "Voss",
+      "workEmail": "voss@travelers.com",
+      "company": "Travelers",
+      "lineOfBusiness": "Claim",
+      "manager": "Martha Peterson",
+      "username": "voss",
+      "password": "voss",
+      "isManager": "false"
+    },
+    "employeeId": 4,
+    "employeePosts": [400, 23, 15],
+    "employeesManaged": []
+  },
+  {
+    "employeeDetails": {
+      "firstName": "Trish",
+      "lastName": "Tater",
+      "workEmail": "tater@travelers.com",
+      "company": "Travelers",
+      "lineOfBusiness": "Personal Insurance",
+      "manager": "Martha Peterson",
+      "username": "tater",
+      "password": "tater",
+      "isManager": "false"
+    },
+    "employeeId": 5,
+    "employeePosts": [407, 55, 899],
+    "employeesManaged": []
+  }
 ]

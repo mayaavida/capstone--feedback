@@ -31,6 +31,26 @@ app.get("/employee/:id", async (req, res) => {
   }
 });
 
+//get id for a username
+app.get("/getemployee/:username", async (req, res) => {
+  try {
+    const { username } = req.params;
+    console.log("username on server: ", username);
+    const client = await MongoClient.connect(url);
+    const db = client.db(dbName);
+    const collection = db.collection(employeesCollection);
+    const employeeInfo = await collection.findOne({
+      "employeeDetails.username": username,
+    });
+    console.log("employeeInfo? ", employeeInfo);
+    res.json(employeeInfo);
+  } catch (err) {
+    console.error("Error:", err);
+    res.status(500).send("Hmmm, no employee info for you! ☹");
+  }
+});
+
+//gets posts for a certain employee
 app.get("/employee/:id/posts", async (req, res) => {
   try {
     const { id } = req.params;
@@ -54,24 +74,29 @@ app.get("/employee/:id/posts", async (req, res) => {
   }
 });
 
-app.get("/getemployee/:username", async (req, res) => {
+//gets direct reports for a certain employee
+app.get("/employee/:id/reports", async (req, res) => {
   try {
-    const { username } = req.params;
-    console.log("username on server: ", username);
+    const { id } = req.params;
     const client = await MongoClient.connect(url);
     const db = client.db(dbName);
     const collection = db.collection(employeesCollection);
-    const employeeInfo = await collection.findOne({
-      "employeeDetails.username": username,
-    });
-    console.log("employeeInfo? ", employeeInfo);
-    res.json(employeeInfo);
+    const employeeInfo = await collection.findOne({ employeeId: parseInt(id) });
+    console.log("employee info: ", employeeInfo);
+    const directReports = employeeInfo?.employeesManaged;
+    console.log("direct reports:", directReports);
+    const directReportInfo = await collection
+      .find({ employeeId: { $in: directReports } })
+      .toArray();
+    console.log("direct reports info: ", directReportInfo);
+    // res.json(directReportInfo);
   } catch (err) {
     console.error("Error:", err);
     res.status(500).send("Hmmm, no employee info for you! ☹");
   }
 });
 
+//register new user in db
 app.post("/register", async (req, res) => {
   console.log("newUser on server side: ", req.body);
   try {
@@ -91,8 +116,6 @@ app.post("/register", async (req, res) => {
     res.status(500).send("Hmmm, that didn't work:(");
   }
 });
-
-//Request for multiple posts from an employee
 
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);

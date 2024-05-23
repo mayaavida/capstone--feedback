@@ -5,6 +5,7 @@ function EmployeeHome() {
   const { id } = useParams();
   const [employeeInfo, setEmployeeInfo] = useState([]);
   const [employeePosts, setEmployeePosts] = useState([]);
+  const [directReports, setDirectReports] = useState([]);
 
   useEffect(() => {
     const fetchEmployeeInfo = async (id) => {
@@ -35,8 +36,25 @@ function EmployeeHome() {
       }
     };
 
+     const fetchDirectReports = async (id) => {
+       try {
+         const response = await fetch(
+           `http://localhost:3000/employee/${id}/reports`
+         );
+         if (!response.ok) {
+           throw new Error("Data could not be fetched!");
+         }
+         let json_response = await response.json();
+         console.log("direct reports response: ", json_response);
+         setDirectReports(json_response);
+       } catch (error) {
+         console.error("Error fetching employee info:", error);
+       }
+     };
+
     fetchEmployeeInfo(id);
     fetchEmployeePosts(id);
+    fetchDirectReports(id);
   }, [id]);
 
   return (
