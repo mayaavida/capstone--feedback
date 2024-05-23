@@ -72,11 +72,28 @@ function EmployeeHome() {
   return (
     <div>
       <h1>Welcome, {employeeInfo?.employeeDetails?.firstName}!</h1>
+      {!employeeInfo?.employeeDetails?.isManager && (
+        <div>
+          <button
+            style={{
+              color: "darkgreen",
+              backgroundColor: "lightgreen",
+              marginBottom: 20,
+            }}
+            type="submit"
+            className="btn btn-primary"
+            onClick={routeChange}
+          >
+            Create New Post
+          </button>
+        </div>
+      )}
       <div
         style={{
           display: "flex",
           flexDirection: "row",
           justifyContent: "space-between",
+          gap: 10,
         }}
       >
         <div
@@ -86,7 +103,7 @@ function EmployeeHome() {
             outline: "solid 1px",
             borderRadius: "5px",
             padding: 13,
-            width: "40%",
+            width: "60%",
           }}
         >
           <h4>Company</h4>
@@ -105,7 +122,7 @@ function EmployeeHome() {
                 outline: "solid 1px",
                 borderRadius: "5px",
                 padding: 13,
-                width: "40%",
+                width: "60%",
               }}
             >
               <h4>Posts</h4>
@@ -117,14 +134,6 @@ function EmployeeHome() {
                 </div>
               ))}
             </div>
-            <button
-              color="green"
-              type="submit"
-              className="btn btn-primary"
-              onClick={routeChange}
-            >
-              Create New Post
-            </button>
           </>
         )}
         {employeeInfo?.employeeDetails?.isManager && (
@@ -150,7 +159,12 @@ function EmployeeHome() {
               ))}
             </div>
             <div>
-              <button onClick={sendToResponse}>Respond to Feedback</button>
+              <button
+                style={{ backgroundColor: "lightpink", color: "red" }}
+                onClick={sendToResponse}
+              >
+                Respond to Feedback
+              </button>
             </div>
           </div>
         )}

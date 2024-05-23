@@ -29,7 +29,7 @@ function RegistrationForm() {
       },
       employeeId: Math.floor(Math.random() * 1001),
       employeePosts: [],
-      employeesManaged: []
+      employeesManaged: [],
     };
     console.log("new user: ", newUser);
     try {
@@ -51,12 +51,24 @@ function RegistrationForm() {
     } catch (error) {
       console.error("Error posting data", error);
     }
-    navigate(`/employee/${newUser.employeeId}`)
+    navigate(`/employee/${newUser.employeeId}`);
   };
 
   return (
-    <div className="container">
-      <form onSubmit={handleRegistration} className="mt-5">
+    <div
+      className="container"
+      style={{
+        backgroundColor: "lightblue",
+        margin: 10,
+        padding: 30,
+        borderRadius: "10px",
+      }}
+    >
+      <form
+        onSubmit={handleRegistration}
+        style={{ display: "flex", flexDirection: "column", gap: 15 }}
+        className="mt-5"
+      >
         <div className="form-group">
           <label htmlFor="firstName">First Name</label>
           <input

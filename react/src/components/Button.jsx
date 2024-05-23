@@ -6,7 +6,7 @@ function Button({ name, page }) {
   return (
     <div
       style={{
-        margin: 12,
+        margin: 20,
         backgroundColor: "lightgreen",
         outlineColor: "darkgreen",
         outlineStyle: "solid",
@@ -16,7 +16,7 @@ function Button({ name, page }) {
       }}
       onClick={() => navigate(`/${page}`)}
     >
-      <h5 style={{ margin: "5px", color: "darkgreen" }}>{name}</h5>
+      <h3 style={{ margin: 10, padding: 10, color: "darkgreen" }}>{name}</h3>
     </div>
   );
 }

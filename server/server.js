@@ -35,14 +35,14 @@ app.get("/employee/:id", async (req, res) => {
 app.get("/getemployee/:username", async (req, res) => {
   try {
     const { username } = req.params;
-    console.log("username on server: ", username);
+
     const client = await MongoClient.connect(url);
     const db = client.db(dbName);
     const collection = db.collection(employeesCollection);
     const employeeInfo = await collection.findOne({
       "employeeDetails.username": username,
     });
-    console.log("employeeInfo? ", employeeInfo);
+
     res.json(employeeInfo);
   } catch (err) {
     console.error("Error:", err);
@@ -58,15 +58,15 @@ app.get("/employee/:id/posts", async (req, res) => {
     const db = client.db(dbName);
     const collection = db.collection(employeesCollection);
     const employeeInfo = await collection.findOne({ employeeId: parseInt(id) });
-    console.log("employee info: ", employeeInfo);
+
     const posts = employeeInfo?.employeePosts;
     const stringPosts = posts.map((item) => item.toString());
-    console.log("employee posts:", stringPosts);
+
     const secondCollection = db.collection(postsCollection);
     const employeePosts = await secondCollection
       .find({ post_id: { $in: stringPosts } })
       .toArray();
-    console.log("employeePosts: ", employeePosts);
+
     res.json(employeePosts);
   } catch (err) {
     console.error("Error:", err);
@@ -82,14 +82,50 @@ app.get("/employee/:id/reports", async (req, res) => {
     const db = client.db(dbName);
     const collection = db.collection(employeesCollection);
     const employeeInfo = await collection.findOne({ employeeId: parseInt(id) });
-    console.log("employee info: ", employeeInfo);
+
     const directReports = employeeInfo?.employeesManaged;
-    console.log("direct reports:", directReports);
+
     const directReportInfo = await collection
       .find({ employeeId: { $in: directReports } })
       .toArray();
-    console.log("direct reports info: ", directReportInfo);
+
     res.json(directReportInfo);
+  } catch (err) {
+    console.error("Error:", err);
+    res.status(500).send("Hmmm, no employee info for you! ☹");
+  }
+});
+
+//get direct reports of a manager, then get those employees posts
+app.get("/employee/:id/reports/posts", async (req, res) => {
+  try {
+    const { id } = req.params;
+    const client = await MongoClient.connect(url);
+    const db = client.db(dbName);
+    const collection = db.collection(employeesCollection);
+    const employeeInfo = await collection.findOne({ employeeId: parseInt(id) });
+
+    const directReports = employeeInfo?.employeesManaged;
+
+    const directReportInfo = await collection
+      .find({ employeeId: { $in: directReports } })
+      .toArray();
+    const directReportPosts = directReportInfo.map(
+      (employees) => employees.employeePosts
+    );
+
+    const postIds = directReportPosts.flatMap((item) => item);
+    const stringPostIds = postIds.map((item) => item.toString());
+    console.log(stringPostIds);
+
+    const secondCollection = db.collection(postsCollection);
+    const postContent = await secondCollection
+      .find({ post_id: { $in: stringPostIds } })
+      .toArray();
+
+    console.log("please work", postContent);
+
+    res.json(postContent);
   } catch (err) {
     console.error("Error:", err);
     res.status(500).send("Hmmm, no employee info for you! ☹");
@@ -98,7 +134,6 @@ app.get("/employee/:id/reports", async (req, res) => {
 
 //register new user in db
 app.post("/register", async (req, res) => {
-  console.log("newUser on server side: ", req.body);
   try {
     const newUser = req.body;
     const client = await MongoClient.connect(url);
@@ -120,12 +155,23 @@ app.post("/register", async (req, res) => {
 //store new posts for employee
 app.post("/employee/:id/newPost", async (req, res) => {
   console.log("newPost on server side: ", req.body);
+  const postData = req.body;
+  const employeeId = +req.params.id;
+  console.log("employee id", employeeId);
+  const postId = postData.post_id;
+  console.log("post Id", postId);
+
   try {
-    const newPost = req.body;
     const client = await MongoClient.connect(url);
     const db = client.db(dbName);
     const collection = db.collection(postsCollection);
-    collection.insertOne(newPost);
+    collection.insertOne(postData);
+
+    const secondCollection = db.collection(employeesCollection);
+    secondCollection.updateOne(
+      { employeeId: employeeId },
+      { $push: { employeePosts: postId } }
+    );
 
     //Respond with the created post information and a 201 created status
     res.status(201).send({
@@ -137,28 +183,6 @@ app.post("/employee/:id/newPost", async (req, res) => {
     res.status(500).send("Hmmm, that didn't work!");
   }
 });
-
-//send request with new post to respective employee
-app.put("/employee/:id/update", async (req, res) => {
-  console.log("new post id: ", req.body);
-  console.log("req.params", req.params);
-  try {
-    const newUserPost = req.body;
-    const client = await MongoClient.connect(url);
-    const db = client.db(dbName);
-    const collection = db.collection(employeesCollection);
-    // collection.updateOne({$id} = _id, {$push}: post_id);
-
-    //Respond with the created post information and a 201 created status
-    res.status(201).send({
-      states: "success",
-      message: "Post created successfully.",
-    });
-  } catch (err) {
-    console.error("Error:", err);
-    res.status(500).send("Hmmm, that didn't work!");
-  }
-})
 
 app.listen(PORT, () => {
   console.log(`Server is running on http://localhost:${PORT}`);

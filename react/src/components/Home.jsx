@@ -1,15 +1,17 @@
 import React from "react";
 import Button from "./Button";
+// import Incognito from "../../public/incognito.png";
 
 function Home() {
   return (
     <div>
-      <h1>Employee Feedback App</h1>
+      <h1>Incognito Mode</h1>
+      <img src="../../public/incognito.png" width={75} />
       <div className="card">
-        <h5>
+        <h4>
           Allow your employees to give feedback or send questions anonymously to
-          their managers
-        </h5>
+          their managers!
+        </h4>
       </div>
       <div>
         <Button name="Login" page="login" />
