@@ -60,7 +60,7 @@ app.get("/getemployee/:username", async (req, res) => {
     console.log("username on server: ", username);
     const client = await MongoClient.connect(url);
     const db = client.db(dbName);
-    const collection = db.collection(collectionName);
+    const collection = db.collection(employeesCollection);
     const employeeInfo = await collection.findOne({
       "employeeDetails.username": username,
     });
@@ -78,7 +78,7 @@ app.post("/register", async (req, res) => {
     const newUser = req.body;
     const client = await MongoClient.connect(url);
     const db = client.db(dbName);
-    const collection = db.collection(collectionName);
+    const collection = db.collection(employeesCollection);
     collection.insertOne(newUser);
 
     // Respond with the created user information and a 201 Created status

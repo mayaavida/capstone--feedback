@@ -29,7 +29,7 @@ function EmployeeHome() {
         }
         let json_response = await response.json();
         console.log("employee posts response: ", json_response);
-        setEmployeePosts(json_response[0]);
+        setEmployeePosts(json_response);
       } catch (error) {
         console.error("Error fetching employee info:", error);
       }
@@ -77,11 +77,13 @@ function EmployeeHome() {
           }}
         >
           <h4>Posts</h4>
-          <div>
-            <h5>{employeePosts?.subject}</h5>
-            <p>{employeePosts?.content}</p>
-            <p>{employeePosts?.timestamp}</p>
-          </div>
+          {employeePosts.map((post) => (
+            <div key={post.post_id}>
+              <h5>{post.subject}</h5>
+              <p>{post.content}</p>
+              <p>{post.timestamp}</p>
+            </div>
+          ))}
         </div>
       </div>
     </div>
