@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-// import { AuthContext } from "../context/AuthContext";
 import { useNavigate } from "react-router-dom";
 
 function EmployeeHome() {
@@ -8,13 +7,12 @@ function EmployeeHome() {
   const [employeeInfo, setEmployeeInfo] = useState([]);
   const [employeePosts, setEmployeePosts] = useState([]);
   const [directReports, setDirectReports] = useState([]);
-  // const { authState } = useContext(AuthContext);
 
   let navigate = useNavigate();
   const routeChange = () => {
     let path = `/employee/${id}/newPost`;
     navigate(path);
-  }
+  };
 
   useEffect(() => {
     const fetchEmployeeInfo = async (id) => {
@@ -45,26 +43,31 @@ function EmployeeHome() {
       }
     };
 
-     const fetchDirectReports = async (id) => {
-       try {
-         const response = await fetch(
-           `http://localhost:3000/employee/${id}/reports`
-         );
-         if (!response.ok) {
-           throw new Error("Data could not be fetched!");
-         }
-         let json_response = await response.json();
-         console.log("direct reports response: ", json_response);
-         setDirectReports(json_response);
-       } catch (error) {
-         console.error("Error fetching employee info:", error);
-       }
-     };
+    const fetchDirectReports = async (id) => {
+      try {
+        const response = await fetch(
+          `http://localhost:3000/employee/${id}/reports`
+        );
+        if (!response.ok) {
+          throw new Error("Data could not be fetched!");
+        }
+        let json_response = await response.json();
+        console.log("direct reports response: ", json_response);
+        setDirectReports(json_response);
+      } catch (error) {
+        console.error("Error fetching employee info:", error);
+      }
+    };
 
     fetchEmployeeInfo(id);
     fetchEmployeePosts(id);
     fetchDirectReports(id);
   }, [id]);
+
+  const sendToResponse = () => {
+    let path = `/respond/${employeeInfo?.employeeId}`;
+    navigate(path);
+  };
 
   return (
     <div>
@@ -93,28 +96,64 @@ function EmployeeHome() {
           <h4>Manager</h4>
           <p>{employeeInfo.employeeDetails?.manager}</p>
         </div>
-        <div
-          style={{
-            display: "flex",
-            flexDirection: "column",
-            outline: "solid 1px",
-            borderRadius: "5px",
-            padding: 13,
-            width: "40%",
-          }}
-        >
-          <h4>Posts</h4>
-          {employeePosts.map((post) => (
-            <div key={post.post_id}>
-              <h5>{post.subject}</h5>
-              <p>{post.content}</p>
-              <p>{post.timestamp}</p>
+        {!employeeInfo?.employeeDetails?.isManager && (
+          <>
+            <div
+              style={{
+                display: "flex",
+                flexDirection: "column",
+                outline: "solid 1px",
+                borderRadius: "5px",
+                padding: 13,
+                width: "40%",
+              }}
+            >
+              <h4>Posts</h4>
+              {employeePosts.map((post) => (
+                <div key={post.post_id}>
+                  <h5>{post.subject}</h5>
+                  <p>{post.content}</p>
+                  <p>{post.timestamp}</p>
+                </div>
+              ))}
             </div>
-          ))}
-        </div>
-        <button color = "green" type="submit" className="btn btn-primary" onClick={routeChange}>
-          Create New Post
-        </button>
+            <button
+              color="green"
+              type="submit"
+              className="btn btn-primary"
+              onClick={routeChange}
+            >
+              Create New Post
+            </button>
+          </>
+        )}
+        {employeeInfo?.employeeDetails?.isManager && (
+          <div
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              outline: "solid 1px",
+              borderRadius: "5px",
+              padding: 13,
+              width: "40%",
+            }}
+          >
+            <div>
+              <h4>Direct Reports</h4>
+              {directReports.map((person) => (
+                <div key={person?.employeeId}>
+                  <p>
+                    {person?.employeeDetails?.firstName}{" "}
+                    {person?.employeeDetails?.lastName}
+                  </p>
+                </div>
+              ))}
+            </div>
+            <div>
+              <button onClick={sendToResponse}>Respond to Feedback</button>
+            </div>
+          </div>
+        )}
       </div>
     </div>
   );

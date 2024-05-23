@@ -89,7 +89,7 @@ app.get("/employee/:id/reports", async (req, res) => {
       .find({ employeeId: { $in: directReports } })
       .toArray();
     console.log("direct reports info: ", directReportInfo);
-    // res.json(directReportInfo);
+    res.json(directReportInfo);
   } catch (err) {
     console.error("Error:", err);
     res.status(500).send("Hmmm, no employee info for you! ☹");

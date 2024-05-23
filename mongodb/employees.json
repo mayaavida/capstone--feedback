@@ -9,7 +9,7 @@
       "manager": "Jesse Zimmerman",
       "username": "mayapeters",
       "password": "maya",
-      "isManager": "false"
+      "isManager": false
     },
     "employeeId": 1,
     "employeePosts": [2, 200, 204],
@@ -25,7 +25,7 @@
       "manager": "",
       "username": "martha1",
       "password": "martha",
-      "isManager": "true"
+      "isManager": true
     },
     "employeeId": 2,
     "employeePosts": [],
@@ -41,7 +41,7 @@
       "manager": "Kalpesh Patel",
       "username": "eschumann",
       "password": "emily",
-      "isManager": "false"
+      "isManager": false
     },
     "employeeId": 3,
     "employeePosts": [1, 676, 900],
@@ -57,7 +57,7 @@
       "manager": "Martha Peterson",
       "username": "voss",
       "password": "voss",
-      "isManager": "false"
+      "isManager": false
     },
     "employeeId": 4,
     "employeePosts": [400, 23, 15],
@@ -73,7 +73,7 @@
       "manager": "Martha Peterson",
       "username": "tater",
       "password": "tater",
-      "isManager": "false"
+      "isManager": false
     },
     "employeeId": 5,
     "employeePosts": [407, 55, 899],
