@@ -1,6 +1,7 @@
-import { useNavigate } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 
-function NewPostForm(props) {
+function NewPostForm() {
+  const { id } = useParams();
   // return (
   //   <div>
   //     {props.loggedInStatus ? (
@@ -15,11 +16,11 @@ function NewPostForm(props) {
   //     )}
   //   </div>
   // );
-    let navigate = useNavigate();
-    const routeChange = () => {
-      let path = `/employee/${id}`;
-      navigate(path);
-    };
+  let navigate = useNavigate();
+  const routeChange = () => {
+    let path = `/employee/${id}`;
+    navigate(path);
+  };
 
   return (
     <div>
