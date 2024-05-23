@@ -83,7 +83,7 @@ function EmployeeHome() {
             outline: "solid 1px",
             borderRadius: "5px",
             padding: 13,
-            width: "40%",
+            width: "30%",
           }}
         >
           <h4>Company</h4>
@@ -112,7 +112,7 @@ function EmployeeHome() {
             </div>
           ))}
         </div>
-        <button color = "green" type="submit" className="btn btn-primary" onClick={routeChange}>
+        <button style={{flexDirection: 'row', color: 'black', backgroundColor: 'lightBlue'}} type="submit" className="btn btn-primary" onClick={routeChange}>
           Create New Post
         </button>
       </div>
