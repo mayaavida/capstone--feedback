@@ -68,10 +68,28 @@ function EmployeeHome() {
     let path = `/respond/${employeeInfo?.employeeId}`;
     navigate(path);
   };
+  const sendToHome = () => {
+    let path = "/";
+    navigate(path);
+  };
 
   return (
     <div>
       <h1>Welcome, {employeeInfo?.employeeDetails?.firstName}!</h1>
+      <div>
+        <button
+          style={{
+            color: "darkgreen",
+            backgroundColor: "lightgreen",
+            marginBottom: 20,
+          }}
+          type="submit"
+          className="btn btn-primary"
+          onClick={sendToHome}
+        >
+          Home
+        </button>
+      </div>
       {!employeeInfo?.employeeDetails?.isManager && (
         <div>
           <button
